@@ -1,0 +1,1749 @@
+1	CourtLink, which has 160 employees, developed a filing system that enables judges, lawyers and court clerks to process pleadings, motions and other documents electronically over a secure connection.
+{CourtLink ; develop ; filing system ;  ; active}
+{filing system ; enable ; judges lawyers,court clerks to process pleadings, motions, other documents ;  ; active}
+{filing system ; enable ; court clerks to process pleadings, motions, other documents ;  ; active}
+{filing system ; enable ; court clerks ;  ; active}
+{filing system ; enable ; to process pleadings, motions, other documents ;  ; active}
+{filing system ; enable ; over secure connection ;  ; active}
+{filing system ; enable ; to process pleadings, motions, other documents over secure connection ;  ; active}
+{filing system ; enable ; judges lawyers over secure connection ;  ; active}
+{filing system ; enable ; judges lawyers to process pleadings, motions, other documents ;  ; active}
+{other ; is property of ; documents ;  ; }
+{filing system ; enable ; judges lawyers,court clerks ;  ; active}
+{filing system ; enable ; judges lawyers,court clerks over secure connection ;  ; active}
+{filing system ; enable ; judges lawyers ;  ; active}
+{filing system ; enable ; court clerks over secure connection ;  ; active}
+{secure ; is property of ; connection ;  ; }
+{CourtLink ; have ; 160 employees ;  ; active}
+2	A graduate of the University of Arizona, she is a lecturer in writing at Princeton University and an author under the name of Kathryn Watterson Burkhart.
+{graduate of University ; be ; lecturer in writing at Princeton University ,author under name of Kathryn Watterson Burkhart ;  ; active}
+{graduate of University ; be ; of Arizona ;  ; active}
+{graduate of University ; be ; lecturer in writing at Princeton University ,author under name of Kathryn Watterson Burkhart of Arizona ;  ; active}
+{name ;  be (complemented by) ; of Kathryn Watterson Burkhart ;  ; active}
+{writing ;  be (complemented by) ; at Princeton University ,author ;  ; active}
+{writing ;  be (complemented by) ; at Princeton University ,author under name of Kathryn Watterson Burkhart ;  ; active}
+{writing ;  be (complemented by) ; under name of Kathryn Watterson Burkhart ;  ; active}
+{lecturer ;  be (complemented by) ; in writing at Princeton University ,author under name of Kathryn Watterson Burkhart ;  ; active}
+{lecturer ; write ; under name of Kathryn Watterson Burkhart ;  ; active}
+{lecturer ; write ; at Princeton University, author ;  ; active}
+{she ; be ; lecturer in writing at Princeton University ,author under name of Kathryn Watterson Burkhart ;  ; active}
+{she ; be ; of Arizona ;  ; active}
+{she ; be ; lecturer in writing at Princeton University ,author under name of Kathryn Watterson Burkhart of Arizona ;  ; active}
+{graduate of University,she ; be ; lecturer in writing at Princeton University ,author under name of Kathryn Watterson Burkhart ;  ; active}
+{graduate of University,she ; be ; of Arizona ;  ; active}
+{graduate of University,she ; be ; lecturer in writing at Princeton University ,author under name of Kathryn Watterson Burkhart of Arizona ;  ; active}
+{graduate ;  be (complemented by) ; of University ;  ; active}
+3	The events occurred in July.
+{events ; occur ; in July ;  ; active}
+4	Terrorist attacks by E.T.A. have declined in recent years and the number of its hardcore militants is thought to have fallen from the hundreds of 15 years ago to several score.
+{recent ; is property of ; years ;  ; }
+{E.T.A. ; decline ; in recent years ;  ; active}
+{E.T.A. ; decline ; Terrorist attacks ;  ; active}
+{E.T.A. ; decline ; Terrorist attacks in recent years ;  ; active}
+{E.T.A. ; think ; to fall   from hundreds of 15 years ;  ; passive}
+{Terrorist attacks ;  be (complemented by) ; by declined ,thought ;  ; active}
+{E.T.A. ; think ; Terrorist attacks ;  ; passive}
+{hundreds ;  be (complemented by) ; of 15 years ;  ; active}
+{Terrorist ; is property of ; attacks ;  ; }
+5	Mr. Mahdi and Mr. Chalabi say they aim to form a "national unity" government with Iraq's main political leaders, presumably including Mr. Allawi.
+{Mr. Mahdi ; say that ; they aim   , to form  national unity government with Iraq 's main political leaders include  presumably ;  ; active}
+{main ; is property of ; leaders ;  ; }
+{national ; is property of ; unity government ;  ; }
+{they ; aim ; to form  national unity government with Iraq 's main political leaders include  presumably ;  ; active}
+{national unity government ;  be (complemented by) ; with Iraq 's main political leaders ;  ; active}
+{national unity government with Iraq 's main political leaders ; include ; presumably ;  ; active}
+{they ; form ; national unity government with Iraq 's main political leaders ;  ; active}
+{political ; is property of ; leaders ;  ; }
+{Iraq ; have ; main political leaders ;  ; }
+{Mr. Chalabi ; say that ; they aim   , to form  national unity government with Iraq 's main political leaders include  presumably ;  ; active}
+{Mr. Mahdi,Mr. Chalabi ; say that ; they aim   , to form  national unity government with Iraq 's main political leaders include  presumably ;  ; active}
+6	"The girls want to protect themselves."
+{girls ; want to protect ; themselves ;  ; active}
+{girls ; protect ; themselves ;  ; active}
+7	He also had stints with the New York Philharmonic, Metropolitan Opera Orchestra, CBS Symphony and Symphony of the Air, the NBC Symphony's successor.
+{He ; have ; stints with New York Philharmonic ,Metropolitan Opera Orchestra ,CBS Symphony ,Symphony of Air ; also ; active}
+{Air ;  be  ; NBC Symphony 's successor ;  ; active}
+{NBC Symphony ; have ; successor ;  ; }
+{stints ;  be (complemented by) ; with New York Philharmonic ,Metropolitan Opera Orchestra ,CBS Symphony ,Symphony ;  ; active}
+{stints ;  be (complemented by) ; of Air ;  ; active}
+{stints ;  be (complemented by) ; with New York Philharmonic ,Metropolitan Opera Orchestra ,CBS Symphony ,Symphony of Air ;  ; active}
+8	In recent weeks, as the incentive wars have escalated, other automakers have beefed up their warranties.
+{other automakers ; beef up ; their warranties ;  ; active}
+{other automakers ; beef up ; in recent weeks ;  ; active}
+{other automakers ; beef up ; their warranties in recent weeks ;  ; active}
+{recent ; is property of ; weeks ;  ; }
+{they ; have ; warranties ;  ; }
+{incentive wars ; escalate ;  ;  ; active}
+{other ; is property of ; automakers ;  ; }
+9	President Bush deserves much credit for sharply increasing United States financing for AIDS prevention programs overseas.
+{President Bush ; deserve ; much credit ; sharply ; active}
+{much ; is property of ; credit ;  ; }
+{President Bush ; increase ; United States financing for AIDS prevention programs ; sharply ; active}
+{United States financing ;  be (complemented by) ; for AIDS prevention programs ;  ; active}
+10	"The opportunity is significant and I hope we can take the opportunity to move forward," he said referring to his coming trip to Britain.
+{opportunity ; be ; significant ;  ; active}
+11	And, since, as any reputable language teacher knows, bilingualism in the school merely reinforces what the child hears at home - and slows his learning of English - the whole idea is pointless.
+{bilingualism in school ; reinforce ; merely ; as teacher ; active}
+{bilingualism in school ; reinforce ; any as any reputable language teacher know ; as teacher ; active}
+{bilingualism in school ; reinforce ; child hear  what at home ,  slow  his learning of English ; as teacher ; active}
+{child ; slow ; his learning of English ;  ; active}
+{child ; hear ; at home ;  ; active}
+{any as any reputable language teacher ; know ;  ;  ; active}
+{child ; hear ; what at home ;  ; active}
+{reputable ; is property of ; language teacher ;  ; }
+{his learning ;  be (complemented by) ; of English ;  ; active}
+{he ; have ; learning ;  ; }
+{child ; hear ; what ;  ; active}
+{bilingualism ;  be (complemented by) ; in school ;  ; active}
+12	In its most recent survey, the Congress for New Urbanism, a nonprofit organization based in Chicago, reported 648 neighborhood-scale New Urbanist communities in the United States, an increase of 176 over a 12-month period.
+{Congress for New Urbanism ; report ; 648 neighborhood-scale New Urbanist communities ;  ; active}
+{Congress for New Urbanism ; report ; in its most recent survey ;  ; active}
+{Congress for New Urbanism ; report ; 648 neighborhood-scale New Urbanist communities in its most recent survey ;  ; active}
+{Congress for New Urbanism ; report ; in United States ;  ; active}
+{Congress for New Urbanism ; report ; 648 neighborhood-scale New Urbanist communities in United States ;  ; active}
+{Congress for New Urbanism ; report ; over 12-month period ;  ; active}
+{Congress for New Urbanism ; report ; 648 neighborhood-scale New Urbanist communities over 12-month period ;  ; active}
+{it ; have ; most recent survey ;  ; }
+{recent ; is property of ; survey ;  ; }
+{most ; is property of ; survey ;  ; }
+{United States ;  be  ; increase of 176 ;  ; active}
+{increase ;  be (complemented by) ; of 176 ;  ; active}
+{12-month ; is property of ; period ;  ; }
+{neighborhood-scale ; is property of ; New Urbanist communities ;  ; }
+{New Urbanism ;  be  ; nonprofit organization ;  ; active}
+{nonprofit ; is property of ; organization ;  ; }
+{nonprofit organization ; base ; in Chicago ;  ; passive}
+{Congress ;  be (complemented by) ; for New Urbanism ;  ; active}
+13	Meanwhile, the truth - that in most families where child abuse (sexual or otherwise) takes place, women are also victimized, either through dominance and control or actual violence - that reality is smokescreened, and the problem of the powerful abusing their power is perpetuated.
+{truth that ; perpetuate ; Meanwhile ; where takes ; passive}
+{that ; be ; truth ;  ; active}
+14	It goes against all that this country stands for.
+{It ; go against ; all ;  ; active}
+{It ; go against ; this  country stand for ;  ; active}
+{It ; go against ; all this  country stand for ;  ; active}
+{this  country ; stand for ;  ;  ; active}
+15	But inexpensive point-and-shoot cameras can do the job if they have a telephoto setting or a zoom lens.
+{inexpensive point-and-shoot cameras ; do ; job ;  ; active}
+{they ; have ; telephoto setting,zoom lens ;  ; active}
+{telephoto ; is property of ; setting ;  ; }
+{zoom ; is property of ; lens ;  ; }
+{they ; have ; zoom lens ;  ; active}
+{they ; have ; telephoto setting ;  ; active}
+{point-and-shoot ; is property of ; cameras ;  ; }
+{inexpensive ; is property of ; cameras ;  ; }
+16	Few have tried, and far fewer have succeeded.
+{Few ; try ;  ;  ; active}
+17	We can use a little more of that trust this year.
+{We ; use ; this  year ;  ; active}
+{We ; use ; little more of that  trust ;  ; active}
+{We ; use ; this  year little more of that  trust ;  ; active}
+18	The Embassy said 6,700 Americans were in Pakistan.
+{Embassy ; say that ; 6,700 Americans be   in Pakistan ;  ; active}
+{6,700 Americans ; be ; in Pakistan ;  ; active}
+19	Along with Dow Jones and Microsoft, the companies included CNN, but not its parent, AOL Time Warner.
+{companies ; include ; CNN ;  ; active}
+{companies ; include ; along_with Dow Jones, Microsoft ;  ; active}
+{companies ; include ; CNN along_with Dow Jones, Microsoft ;  ; active}
+20	"I'd recommend three Xanax, a great bottle of cabernet and looking for a new publicist.
+{I ; recommend ; three Xanax ;  ; active}
+{great bottle ;  be (complemented by) ; of cabernet ;  ; active}
+{three Xanax ;  be  ; great bottle of cabernet ;  ; active}
+{great ; is property of ; bottle ;  ; }
+{I ; look for ; new publicist ;  ; active}
+{new ; is property of ; publicist ;  ; }
+21	The case is being appealed.
+{case ; appeal ;  ;  ; passive}
+22	Doctors in Pennsylvania and West Virginia are expected to notify S.M.I. bioterror experts of any "suspicious event," from an unusual rash to a finger lost in an explosion, identifying but not informing the patient.
+{Doctors in Pennsylvania & West Virginia ; expect ; identify ;  ; passive}
+{Doctors in Pennsylvania & West Virginia ; notify ; S.M.I. bioterror experts of any suspicious event from unusual rash ;  ; active}
+{Doctors in Pennsylvania & West Virginia ; notify ; to finger ;  ; active}
+{Doctors in Pennsylvania & West Virginia ; notify ; S.M.I. bioterror experts of any suspicious event from unusual rash to finger ;  ; active}
+{finger ; lose ; in explosion ;  ; passive}
+{suspicious ; is property of ; event ;  ; }
+{any suspicious event ;  be (complemented by) ; from unusual rash ;  ; active}
+{unusual ; is property of ; rash ;  ; }
+{S.M.I. bioterror experts ;  be (complemented by) ; of any suspicious event from unusual rash ;  ; active}
+{Doctors ;  be (complemented by) ; in Pennsylvania & West Virginia ;  ; active}
+23	Nothing else is untouched, regardless of its provenance.
+24	A large influx is going to create problems.
+{large influx ; go ; to create  problems ;  ; active}
+{large influx ; create ; problems ;  ; active}
+{large ; is property of ; influx ;  ; }
+25	Morningwood Ulysses S. Grant, the second-ranked basset hound in 1998, was received, the quota had been filled.
+{Morningwood Ulysses S. Grant ; receive ; quota ;  ; passive}
+{quota ; fill ;  ;  ; passive}
+{Morningwood Ulysses S. Grant ;  be  ; second-ranked basset ;  ; active}
+{second-ranked basset ; hound ; in 1998 ;  ; passive}
+{second-ranked ; is property of ; basset ;  ; }
+26	McGaughey said that Personal Ensign might race again in New York this year and definitely would race next year and be pointed for the Breeders' Cup.
+{Personal Ensign ; race ; again ; McGaughey said ; active}
+{Personal Ensign ; race ; in New York this   year ; McGaughey said ; active}
+{Personal Ensign ; race ; again in New York this   year ; McGaughey said ; active}
+{this   year ; be ; New York ;  ; active}
+{Personal Ensign ; race ; next year ; McGaughey said ; active}
+{Personal Ensign ; race ; definitely ; McGaughey said ; active}
+{next ; is property of ; year ;  ; }
+{Personal Ensign ; point ; for Breeders ' Cup ; McGaughey said ; passive}
+{Breeders ; have ; Cup ;  ; }
+27	The region is still far from rebuilt, despite Government promises to have the work completed within two years, and there have been accusations of corruption and misuse of relief funds.
+{region ; be ; still far from rebuilt ;  ; active}
+{region ; be ; despite Government promises ;  ; active}
+{region ; be ; still far from rebuilt despite Government promises ;  ; active}
+{region ; be ; accusations of corruption ,misuse ;  ; active}
+{region ; be ; from rebuilt ;  ; active}
+{region ; be ; accusations of corruption ,misuse from rebuilt ;  ; active}
+{region ; be ; accusations of corruption ,misuse despite Government promises ;  ; active}
+{region ; be ; still far from rebuilt (and) accusations of corruption ,misuse ;  ; active}
+{region ; be ; still far from rebuilt (and) accusations of corruption ,misuse despite Government promises ;  ; active}
+{Government promises ; have ; work ;  ; active}
+28	Simmons said she would not reveal her opinion on reparations so as not to influence the committee.
+{Simmons ; say that ; she not would reveal  her opinion to influence  committee on reparations , ;  ; active}
+{she ; not reveal ; on reparations ;  ; active}
+{she ; not reveal ; to influence  committee on reparations ;  ; active}
+{she ; influence ; committee ;  ; active}
+{she ; have ; opinion ;  ; }
+{she ; not reveal ; her opinion on reparations ;  ; active}
+{she ; not reveal ; her opinion ;  ; active}
+{she ; not reveal ; to influence  committee ;  ; active}
+{she ; not reveal ; her opinion to influence  committee ;  ; active}
+{she ; not reveal ; her opinion to influence  committee on reparations ;  ; active}
+29	An asbestos and lead survey found "a substantial amount" of asbestos in the buildings.
+{asbestos & lead survey ; find ; substantial amount of asbestos ;  ; active}
+{asbestos & lead survey ; find ; in buildings ;  ; active}
+{asbestos & lead survey ; find ; substantial amount of asbestos in buildings ;  ; active}
+{substantial ; is property of ; amount ;  ; }
+{substantial amount ;  be (complemented by) ; of asbestos ;  ; active}
+30	Meanwhile, Ms. Coughlin is pursuing her case in a Federal court in Nevada against the last remaining defendant, the Las Vegas Hilton, which has denied it negligently failed to provide adequate security.
+{Ms. Coughlin ; pursue ; her case in Federal court ; Meanwhile ; active}
+{Ms. Coughlin ; pursue ; in Nevada against last remaining defendant ; Meanwhile ; active}
+{Ms. Coughlin ; pursue ; her case in Federal court in Nevada against last remaining defendant ; Meanwhile ; active}
+{Nevada ;  be (complemented by) ; against last remaining defendant ;  ; active}
+{last remaining defendant ;  be  ; Las Vegas Hilton ;  ; active}
+{it ; fail ; negligently ;  ; active}
+{last ; is property of ; defendant ;  ; }
+{it ; provide ; adequate security ;  ; active}
+{Las Vegas Hilton ; deny + doing sth ; it fail  negligently , to provide  adequate security ;  ; active}
+{adequate ; is property of ; security ;  ; }
+{remaining ; is property of ; defendant ;  ; }
+{it ; fail ; to provide  adequate security ;  ; active}
+{she ; have ; case ;  ; }
+{her case ;  be (complemented by) ; in Federal court ;  ; active}
+31	To reach the museums by foot, leave from the station's 30th Street exit and walk along J.
+{ ; reach ; museums ;  ; active}
+{ ; reach ; by foot ;  ; active}
+{ ; reach ; museums by foot ;  ; active}
+{ ; leave ; from station 's 30th Street exit ;  ; active}
+{30th ; is property of ; Street exit ;  ; }
+{station ; have ; 30th Street exit ;  ; }
+{ ; walk ; along J ;  ; active}
+32	In lieu of flowers, donations in his memory can be made to the International Myeloma Foundation, 12650 Riverside Drive, Suite 206, North Hollywood, CA.
+{donations in his memory ; make ; in_lieu_of flowers ;  ; passive}
+{donations in his memory ; make ; to International Myeloma Foundation ;  ; passive}
+{International Myeloma Foundation ;  be  ; 12650 Riverside Drive ,Suite 206 ,North Hollywood ,CA ;  ; active}
+{donations ;  be (complemented by) ; in his memory ;  ; active}
+{he ; have ; memory ;  ; }
+33	Julian Stark does his own hapless stunts in his takeoff on the "Hercules" movies starring Steve Reeves; Shannon Plumb contributes a Chaplinesque "Diary of a Mad Housewife."
+{Julian Stark ; do ; his own hapless stunts ;  ; active}
+{Julian Stark ; do ; in his takeoff on Hercules '' movies ;  ; active}
+{Julian Stark ; do ; his own hapless stunts in his takeoff on Hercules '' movies ;  ; active}
+{Hercules '' movies ; star ; Steve Reeves ;  ; passive}
+{Hercules ; is property of ; movies ;  ; }
+{his takeoff ;  be (complemented by) ; on Hercules '' movies ;  ; active}
+{he ; have ; takeoff ;  ; }
+{he ; have ; own hapless stunts ;  ; }
+{hapless ; is property of ; stunts ;  ; }
+{own ; is property of ; stunts ;  ; }
+{Shannon Plumb ; contribute ; Chaplinesque `` Diary of Mad Housewife ;  ; active}
+{Mad ; is property of ; Housewife ;  ; }
+{Chaplinesque ; is property of ; Diary ;  ; }
+{Chaplinesque `` Diary ;  be (complemented by) ; of Mad Housewife ;  ; active}
+34	The negative outlook also reflects the possibility of "further managerial instability and movement, financial penalties, findings supporting shareholder litigation and further reserve adjustments.
+{negative outlook ; reflect ; possibility of further managerial instability ,movement ,financial penalties ,findings ; also ; active}
+{further managerial instability ,movement ,financial penalties ,findings ; support ; further reserve adjustments ;  ; passive}
+{further managerial instability ,movement ,financial penalties ,findings ; support ; shareholder litigation,further reserve adjustments ;  ; passive}
+{financial ; is property of ; penalties ;  ; }
+{further managerial instability ,movement ,financial penalties ,findings ; support ; shareholder litigation ;  ; passive}
+{managerial ; is property of ; instability ;  ; }
+{further ; is property of ; instability ;  ; }
+{possibility ;  be (complemented by) ; of further managerial instability ,movement ,financial penalties ,findings ;  ; active}
+{negative ; is property of ; outlook ;  ; }
+35	My words were as perishable as doodles on an Etch-a-Sketch, I got half the money for twice the work, and I had to share the writer's credit.
+{My words ; be ; as perishable as doodles on Etch-a-Sketch ;  ; active}
+{doodles ;  be (complemented by) ; on Etch-a-Sketch ;  ; active}
+{My ; have ; words ;  ; }
+36	Although the classic loafer can travel anywhere, this spring's variations are certainly a step in a new direction.
+{classic loafer ; travel ; anywhere ;  ; active}
+{classic ; is property of ; loafer ;  ; }
+{spring 's variations ; be ; certainly a step in new direction ;  ; active}
+{new ; is property of ; direction ;  ; }
+{certainly a step ;  be (complemented by) ; in new direction ;  ; active}
+{spring ; have ; variations ;  ; }
+37	Eventually, they say, fares should cover about 50 percent of the costs of the system, up from the current 25 to 38 percent, depending on the method of calculation.
+{they ; say ; Eventually ;  ; active}
+{they ; say ; up from current 25 to 38 percent ;  ; active}
+{they ; say ; Eventually up from current 25 to 38 percent ;  ; active}
+{current ; is property of ; percent ;  ; }
+{up ;  be (complemented by) ; from current 25 to 38 percent ;  ; active}
+38	Taken for granted it sometimes may be, but this year the Defense Department sought $950 million in assistance from Congress (and secured half that amount) for Ankara's huge military machine, which includes the biggest standing army in NATO outside the United States.
+{it ; be ; sometimes ;  ; active}
+{it ; be ; Defense Department seek  $ 950 million in assistance from Congress for Ankara 's huge military machine ;  ; active}
+{huge ; is property of ; machine ;  ; }
+{Ankara ; have ; huge military machine ;  ; }
+{biggest standing army ;  be (complemented by) ; in NATO ;  ; active}
+{Defense Department ; seek ; in assistance from Congress ;  ; active}
+{biggest ; is property of ; standing army ;  ; }
+{Defense Department ; seek ; $ 950 million for Ankara 's huge military machine ;  ; active}
+{Defense Department ; seek ; $ 950 million ;  ; active}
+{Defense Department ; seek ; for Ankara 's huge military machine ;  ; active}
+{Defense Department ; seek ; in assistance from Congress for Ankara 's huge military machine ;  ; active}
+{Ankara 's huge military machine ; include ; biggest standing army in NATO ;  ; active}
+{Defense Department ; seek ; from Congress ;  ; active}
+{Ankara 's huge military machine ; include ; outside United States ;  ; active}
+{military ; is property of ; machine ;  ; }
+{Defense Department ; seek ; $ 950 million in assistance ;  ; active}
+{Defense Department ; seek ; $ 950 million from Congress ;  ; active}
+{Ankara 's huge military machine ; include ; biggest standing army in NATO outside United States ;  ; active}
+{Defense Department ; seek ; in assistance ;  ; active}
+39	An article last Sunday about the purchase of 40 Wall Street referred incorrectly to the buyer's arrangements with the owner of the land.
+{article last  Sunday about purchase of 40 Wall Street ; refer ; incorrectly ;  ; active}
+{article last  Sunday about purchase of 40 Wall Street ; refer ; to buyer 's arrangements ;  ; active}
+{article last  Sunday about purchase of 40 Wall Street ; refer ; incorrectly to buyer 's arrangements ;  ; active}
+{article last  Sunday about purchase of 40 Wall Street ; refer ; with owner of land ;  ; active}
+{article last  Sunday about purchase of 40 Wall Street ; refer ; incorrectly with owner of land ;  ; active}
+{buyer ; have ; arrangements ;  ; }
+{owner ;  be (complemented by) ; of land ;  ; active}
+{article last  Sunday ;  be (complemented by) ; about purchase of 40 Wall Street ;  ; active}
+{purchase ;  be (complemented by) ; of 40 Wall Street ;  ; active}
+{Wall Street ; be ; 40 ;  ; active}
+{last  Sunday ; be ; article ;  ; active}
+40	But if it does happen, Senator Pell will no longer be around to receive special back-room briefings from Uri Geller, the psychic spoon-bender.
+41	The Giants convened today to begin their first preparations for Monday night's game in Minnesota against the Vikings.
+{Giants ; convene ; today ;  ; active}
+{Giants ; convene ; to begin  their first preparations for Monday night 's game in Minnesota against Vikings ;  ; active}
+{today ; begin ; their first preparations against Vikings ;  ; active}
+{today ; begin ; against Vikings ;  ; active}
+{they ; have ; first preparations ;  ; }
+{first ; is property of ; preparations ;  ; }
+{Monday night ; have ; game ;  ; }
+{today ; begin ; their first preparations for Monday night 's game in Minnesota ;  ; active}
+{Monday night 's game ;  be (complemented by) ; in Minnesota ;  ; active}
+{today ; begin ; their first preparations ;  ; active}
+{today ; begin ; for Monday night 's game in Minnesota ;  ; active}
+42	John Lamar Odom, pastor of the First Presbyterian Church in Oceanside, L.I., were married yesterday.
+{John Lamar Odom ; marry ; yesterday ;  ; passive}
+{John Lamar Odom ;  be  ; pastor of First Presbyterian Church in Oceanside L.I. ;  ; active}
+{pastor ;  be (complemented by) ; of First Presbyterian Church in Oceanside L.I. ;  ; active}
+{First Presbyterian Church ;  be (complemented by) ; in Oceanside L.I. ;  ; active}
+43	The World Health Organization has issued a report detailing an ambitious, often covert effort by the tobacco industry to curb global anti-smoking initiatives, dating back to the late 1980's.
+{World Health Organization ; issue ; report ;  ; active}
+{World Health Organization ; issue ; date   to late 1980 's ;  ; active}
+{World Health Organization ; issue ; report date   to late 1980 's ;  ; active}
+{report ; detail ; to curb  global anti-smoking initiatives date   to late 1980 's ;  ; passive}
+{report ; detail ; ambitious covert  effort to curb  global anti-smoking initiatives date   to late 1980 's ;  ; passive}
+{report ; detail ; ambitious covert  effort ;  ; passive}
+{late ; is property of ; 's ;  ; }
+44	Kent was not told of the situation until the game was over.
+{Kent ; not tell ; of situation ;  ; passive}
+45	It has set up a robotic system that systematically tests all 2,000 existing chemical drugs in combinations of two.
+{It ; set up ; robotic system ;  ; active}
+{robotic system ; test ; all 2,000 existing chemical drugs in combinations of two ;  ; active}
+{existing ; is property of ; chemical drugs ;  ; }
+{all 2,000 existing chemical drugs ;  be (complemented by) ; in combinations of two ;  ; active}
+{combinations ;  be (complemented by) ; of two ;  ; active}
+{robotic ; is property of ; system ;  ; }
+46	The state-run English-language Teheran Times reported that Parliament would begin debate on the Cabinet on Tuesday, with "two weeks to complete discussions and vote."
+{state-run English-language Teheran Times ; report ; Parliament would begin  debate on Cabinet to complete  discussions, vote on Tuesday with two weeks ;  ; active}
+{debate ;  be (complemented by) ; on Cabinet ;  ; active}
+{two weeks ; complete ; discussions,vote ;  ; active}
+{Parliament ; begin ; debate on Cabinet to complete  discussions, vote with two weeks ;  ; active}
+{two weeks ; complete ; vote ;  ; active}
+{Parliament ; begin ; to complete  discussions, vote ;  ; active}
+{Parliament ; begin ; debate on Cabinet with two weeks ;  ; active}
+{Parliament ; begin ; debate on Cabinet on Tuesday ;  ; active}
+{Parliament ; begin ; to complete  discussions, vote with two weeks ;  ; active}
+{Parliament ; begin ; on Tuesday ;  ; active}
+{Parliament ; begin ; debate on Cabinet to complete  discussions, vote ;  ; active}
+{Parliament ; begin ; with two weeks ;  ; active}
+{Parliament ; begin ; to complete  discussions, vote on Tuesday ;  ; active}
+{Parliament ; begin ; debate on Cabinet to complete  discussions, vote on Tuesday ;  ; active}
+{Parliament ; begin ; debate on Cabinet ;  ; active}
+{Parliament ; begin ; on Tuesday with two weeks ;  ; active}
+{two weeks ; complete ; discussions ;  ; active}
+{state-run ; is property of ; English-language Teheran Times ;  ; }
+47	He said the public school from which he transferred three years ago had metal detectors that still failed to keep out the sense that danger lurked nearby.
+{He ; say that ; public school have  metal detectors that fail  still ;  ; active}
+{metal detectors ; fail ; still ;  ; active}
+{he ; transfer ; from which ;  ; active}
+{he ; transfer ; ago from which ;  ; active}
+{public school ; have ; metal detectors ;  ; active}
+{metal detectors ; fail ; danger lurk  nearby ;  ; active}
+{he ; transfer ; public school from which ;  ; active}
+{public ; is property of ; school ;  ; }
+{danger ; lurk ; nearby ;  ; active}
+{he ; transfer ; public school ;  ; active}
+{he ; transfer ; ago ;  ; active}
+48	Nordstrom Inc., the retail chain based on the West Coast, said today that it had created an office of the president to strengthen its executive management team.
+{Nordstrom Inc. ; say that ; it had create  office of president ;  ; active}
+{president ; strengthen ; its executive management team ;  ; active}
+{it ; create ; office of president ;  ; active}
+{office ;  be (complemented by) ; of president ;  ; active}
+{retail chain ; base ; on West Coast ;  ; passive}
+{retail ; is property of ; chain ;  ; }
+{Nordstrom Inc. ;  be  ; retail chain ;  ; active}
+49	All of these portraits, incidentally, are based on fact.
+{All of these  portraits ; base ; on fact ;  ; passive}
+{All ;  be (complemented by) ; of these  portraits ;  ; active}
+{these  portraits ;  be  ; incidentally ;  ; active}
+50	Dr. Weiss graduated summa cum laude from Brandeis University and received his medical degree from Yale University.
+{Dr. Weiss ; graduate ; summa cum laude ;  ; active}
+{Dr. Weiss ; graduate ; from Brandeis University ;  ; active}
+{Dr. Weiss ; graduate ; summa cum laude from Brandeis University ;  ; active}
+{summa ; is property of ; cum laude ;  ; }
+{Dr. Weiss ; receive ; his medical degree ;  ; active}
+{Dr. Weiss ; receive ; from Yale University ;  ; active}
+{Dr. Weiss ; receive ; his medical degree from Yale University ;  ; active}
+{medical ; is property of ; degree ;  ; }
+{he ; have ; medical degree ;  ; }
+51	The announced crowd was 15,568.
+{announced crowd ; be ; 15,568 ;  ; active}
+{announced ; is property of ; crowd ;  ; }
+52	In times past, getting a taxi at a New York City airport was often a Darwinian affair, a frenzied, survival-of-the-fittest scene of piled-up luggage, darting taxis and shouting cabbies looking for an edge.
+{Darwinian affair ; be ; often ;  ; active}
+{Darwinian affair ; be ; in times past ;  ; active}
+{Darwinian affair ; be ; often in times past ;  ; active}
+{times past ; get ; taxi ;  ; active}
+{times past ; get ; taxi at New York City airport ;  ; active}
+{times past ; get ; at New York City airport ;  ; active}
+{piled-up ; is property of ; luggage ;  ; }
+{Darwinian affair ;  be  ; frenzied , survival-of-the-fittest scene of piled-up luggage ,darting taxis ,shouting cabbies ;  ; active}
+{frenzied ; is property of ; scene ;  ; }
+{piled-up luggage ,darting taxis ,shouting cabbies ; look ; for edge ;  ; active}
+{survival-of-the-fittest ; is property of ; scene ;  ; }
+{darting ; is property of ; taxis ;  ; }
+{Darwinian ; is property of ; affair ;  ; }
+{frenzied , survival-of-the-fittest scene ;  be (complemented by) ; of piled-up luggage ,darting taxis ,shouting cabbies ;  ; active}
+53	They won 26 of their next 31 games, including 11 straight in June.
+{They ; win ; 26 of their next 31 games ;  ; active}
+{They ; win ; including 11 in June ;  ; active}
+{They ; win ; 26 of their next 31 games including 11 in June ;  ; active}
+{11 ;  be (complemented by) ; in June ;  ; active}
+{next ; is property of ; games ;  ; }
+{they ; have ; next 31 games ;  ; }
+{26 ;  be (complemented by) ; of their next 31 games ;  ; active}
+54	This revelatory micro-exhibition reunites five portraits of the postal worker Joseph Roulin, whom van Gogh met while in Arles.
+{this revelatory micro-exhibition ; reunite ; five portraits of postal worker Joseph Roulin ;  ; active}
+{van Gogh ; meet ; postal worker Joseph Roulin in Arles ;  ; active}
+{van Gogh ; meet ; whom in Arles ;  ; active}
+{van Gogh ; meet ; whom ;  ; active}
+{van Gogh ; meet ; in Arles ;  ; active}
+{postal ; is property of ; worker Joseph Roulin ;  ; }
+{van Gogh ; meet ; postal worker Joseph Roulin ;  ; active}
+{five portraits ;  be (complemented by) ; of postal worker Joseph Roulin ;  ; active}
+{revelatory ; is property of ; micro-exhibition ;  ; }
+55	We did not want to have something in our home that would be too heavy for us to lift.
+{We ; not want to have ; something in our home ;  ; active}
+{something in our home ; be ; too heavy ;  ; active}
+{we ; have ; home ;  ; }
+{something ;  be (complemented by) ; in our home ;  ; active}
+{We ; have ; something in our home ;  ; active}
+56	A defense spokesman added that British officials were "aware of the potential" for missile attacks along the border between the province and the Irish republic.
+{defense spokesman ; add that ; British officials be  aware of potential of potential for missile attacks along border between province ,Irish republic ;  ; active}
+{British officials ; be ; of potential ;  ; active}
+{British officials ; be ; of potential for missile attacks along border between province ,Irish republic ;  ; active}
+{British officials ; be ; aware of potential for missile attacks along border between province ,Irish republic ;  ; active}
+{missile attacks ;  be (complemented by) ; along border between province ,Irish republic ;  ; active}
+{Irish ; is property of ; republic ;  ; }
+{British officials ; be ; aware of potential ;  ; active}
+{British officials ; be ; for missile attacks along border between province ,Irish republic ;  ; active}
+{border ;  be (complemented by) ; between province ,Irish republic ;  ; active}
+{British ; is property of ; officials ;  ; }
+57	Like all good pamphlets, "The Missionary Position," by Christopher Hitchens, is very short, zealously overwritten, and rails wildly in defense of an almost nonsensical proposition: that Mother Teresa of Calcutta is actually not a saint but an evil and selfish old woman.
+{Missionary Position by Christopher Hitchens ; be ; very short like all good pamphlets ;  ; active}
+{Missionary Position by Christopher Hitchens ; be ; zealously overwritten ;  ; active}
+{Missionary Position by Christopher Hitchens ; be ; like all good pamphlets ;  ; active}
+{Missionary Position by Christopher Hitchens ; be ; zealously overwritten like all good pamphlets ;  ; active}
+{Missionary Position by Christopher Hitchens ; be ; wildly rails in defense of nonsensical proposition ;  ; active}
+{Missionary Position by Christopher Hitchens ; be ; wildly rails in defense of nonsensical proposition like all good pamphlets ;  ; active}
+{Missionary Position by Christopher Hitchens ; be ; very short like all good pamphlets (and) zealously overwritten (and) wildly rails in defense of nonsensical proposition ;  ; active}
+{good ; is property of ; pamphlets ;  ; }
+{defense ;  be (complemented by) ; of nonsensical proposition ;  ; active}
+{nonsensical ; is property of ; proposition ;  ; }
+{Missionary Position ;  be (complemented by) ; by Christopher Hitchens ;  ; active}
+58	Devoted mother of Lyn Boland Dosik and the late Howard Batzar.
+{ ; devote ; mother of Lyn Boland Dosik ,late Howard Batzar ;  ; active}
+{late ; is property of ; Howard Batzar ;  ; }
+{mother ;  be (complemented by) ; of Lyn Boland Dosik ,late Howard Batzar ;  ; active}
+59	Steamed crabs with scallions and ginger ($10.95) were tender, easy to open and delicately flavored.
+{Steamed crabs with scallions ,ginger ; be ; tender ;  ; active}
+{open ; is property of ; tender ;  ; }
+{Steamed crabs with scallions ,ginger ;  be  ; $ 10.95 ;  ; active}
+{Steamed crabs ;  be (complemented by) ; with scallions ,ginger ;  ; active}
+{Steamed ; is property of ; crabs ;  ; }
+60	"It's only going to get worse before it gets better."
+{It ; go ; worse ;  ; active}
+{It ; go ; only ;  ; active}
+{worse ; get ;  ;  ; active}
+61	Tickets are $30 and $25.
+{Tickets ; be ; $ 30 ,$ 25 ;  ; active}
+62	He is the assistant director for policy at the Gay Men's Health Crisis.
+{He ; be ; assistant director for policy at Gay Men 's Health Crisis ;  ; active}
+{Gay Men ; have ; Health Crisis ;  ; }
+{policy ;  be (complemented by) ; at Gay Men 's Health Crisis ;  ; active}
+{assistant ; is property of ; director ;  ; }
+{assistant director ;  be (complemented by) ; for policy at Gay Men 's Health Crisis ;  ; active}
+63	The Hall of Fame-bound pitcher fires a fastball.
+{fastball ; be ; Hall ;  ; active}
+{Hall fastball ;  be (complemented by) ; of Fame-bound pitcher fires ;  ; active}
+{Fame-bound ; is property of ; pitcher fires ;  ; }
+64	"It was clear to us when we visited there in October that the Romanians hated those who had left the country," said Liselotte Leicht, program director at the Helsinki Federation.
+{Liselotte Leicht ; say that ; It be  clear to us to us ; when visited  in October ; active}
+{we ; visit ; when in October ;  ; active}
+{those ; leave ; country ;  ; active}
+{we ; visit ; in October ;  ; active}
+{Romanians ; hate ; those ;  ; active}
+{we ; visit ; Romanians hate  those who had leave  country ;  ; active}
+{we ; visit ; when ;  ; active}
+{It ; be ; to us ;  ; active}
+{It ; be ; clear to us ;  ; active}
+{we ; visit ; Romanians hate  those who had leave  country in October ;  ; active}
+{program director ;  be (complemented by) ; at Helsinki Federation ;  ; active}
+{Liselotte Leicht ;  be  ; program director at Helsinki Federation ;  ; active}
+65	Officials declined yesterday to identify the medication involved.
+{Officials ; decline ; yesterday ;  ; active}
+{Officials ; decline ; to identify ;  ; active}
+{yesterday ; identify ; medication involve + doing sth ;  ; active}
+{medication ; involve + doing sth ;  ;  ; active}
+66	I readied my gear for a truly local fishing trip.
+{I ; ready ; my gear ;  ; active}
+{I ; ready ; for local fishing trip ;  ; active}
+{I ; ready ; my gear for local fishing trip ;  ; active}
+{local ; is property of ; fishing trip ;  ; }
+{I ; have ; gear ;  ; }
+67	Yesterday, when The News led with "Friendly Fire" and "30 Marines wounded in attack near Nassiriya," The Post said, "Saddam's evil order to kids: Fight or your parents die," followed by "How low can Iraq sink.
+{News ; wound ; when ;  ; active}
+{News ; wound ; Yesterday in attack ;  ; active}
+{News ; wound ; when in attack ;  ; active}
+{News ; wound ; in attack ;  ; active}
+{News ; lead ; with Friendly Fire, 30 Marines ;  ; active}
+{News ; wound ; Yesterday ;  ; active}
+{Yesterday ;  be (complemented by) ; near Nassiriya ;  ; active}
+68	They live with Dirk, Weetzie's gay best friend, his lover, Duck, and Weetzie's daughter, Cherokee, possibly conceived during group sex with Dirk and Duck.
+{They ; live with ; Dirk ;  ; active}
+{best ; is property of ; friend ;  ; }
+{Weetzie 's gay best friend ; conceive ; possibly during group sex with Dirk ,Duck ;  ; active}
+{Weetzie 's gay best friend ; conceive ; possibly ;  ; active}
+{gay ; is property of ; friend ;  ; }
+{Weetzie ; have ; gay best friend ;  ; }
+{Weetzie 's gay best friend ; conceive ; during group sex with Dirk ,Duck ;  ; active}
+{Weetzie 's gay best friend ;  be  ; Cherokee ;  ; active}
+{group sex ;  be (complemented by) ; with Dirk ,Duck ;  ; active}
+69	Among his many honors, he won the Waterford International Biomedical Award and Eli Lilly Award in Bacteriology and citations from the American Association of Medical Colleges and the American Society of Cell Biology.
+{he ; win ; Waterford International Biomedical Award in Bacteriology ,citations ;  ; active}
+{he ; win ; among his many honors ;  ; active}
+{he ; win ; Waterford International Biomedical Award in Bacteriology ,citations among his many honors ;  ; active}
+{he ; win ; from American Association of Medical Colleges, American Society of Cell Biology ;  ; active}
+{he ; win ; Waterford International Biomedical Award in Bacteriology ,citations from American Association of Medical Colleges, American Society of Cell Biology ;  ; active}
+{he ; win ; Eli Lilly Award ;  ; active}
+{he ; win ; Eli Lilly Award among his many honors ;  ; active}
+{he ; win ; Eli Lilly Award from American Association of Medical Colleges, American Society of Cell Biology ;  ; active}
+{he ; win ; Waterford International Biomedical Award in Bacteriology ,citations,Eli Lilly Award ;  ; active}
+{he ; win ; Waterford International Biomedical Award in Bacteriology ,citations,Eli Lilly Award among his many honors ;  ; active}
+{he ; win ; Waterford International Biomedical Award in Bacteriology ,citations,Eli Lilly Award from American Association of Medical Colleges, American Society of Cell Biology ;  ; active}
+{he ; have ; many honors ;  ; }
+{many ; is property of ; honors ;  ; }
+{American Association ;  be (complemented by) ; of Medical Colleges ;  ; active}
+{American Society ;  be (complemented by) ; of Cell Biology ;  ; active}
+{Waterford International Biomedical Award ;  be (complemented by) ; in Bacteriology ,citations ;  ; active}
+70	Sheik Thamer is the deputy to Grand Ayatollah Ali al-Sestani, the country's most senior Shiite cleric.
+{Sheik Thamer ; be ; deputy to Grand Ayatollah Ali al-Sestani ;  ; active}
+{country ; have ; most senior Shiite cleric ;  ; }
+{Grand Ayatollah Ali al-Sestani ;  be  ; country 's most senior Shiite cleric ;  ; active}
+{senior ; is property of ; cleric ;  ; }
+{Shiite ; is property of ; cleric ;  ; }
+{deputy ;  be (complemented by) ; to Grand Ayatollah Ali al-Sestani ;  ; active}
+71	The limits, which have not been made definite, will be even lower for economy and business-class travelers.
+{limits ; be ; even lower for economy & business-class travelers ;  ; active}
+{limits ; not make ; definite ;  ; passive}
+72	The shuttle between Times Square and Grand Central also was stopped, and Flushing line trains bypassed Grand Central.
+{shuttle between Times Square ,Grand Central ; stop ; also ;  ; passive}
+{shuttle ;  be (complemented by) ; between Times Square ,Grand Central ;  ; active}
+73	It will not settle anything and her advisers will walk away and they'll still be making demands.
+{It ; not settle ;  ;  ; active}
+74	His one miscalculation was to ask for humming in the second song, for nobody can hum to fill Carnegie Hall.
+{His one miscalculation ; be ;  ;  ; active}
+{His ; have ; one miscalculation ;  ; }
+75	The San Antonio News Express reported yesterday that negotiations had broken down.
+{San Antonio News Express ; report ; yesterday ;  ; active}
+{San Antonio News Express ; report ; negotiations had break down ;  ; active}
+{negotiations ; break down ;  ;  ; active}
+76	The playing wasn't bad, really; it just wasn't good enough to justify the event.
+{playing ; not be ; bad ;  ; active}
+{it ; not be ; just good to ;  ; active}
+77	Frauke Petersen Haasemann, the assistant conductor of the Westminster Choir and professor of conducting at the Westminster Choir College, died last Friday at her home in Princeton, N.J.
+{Frauke Petersen Haasemann ; die ; last Friday ;  ; active}
+{Frauke Petersen Haasemann ; die ; at her home in Princeton N.J ;  ; active}
+{Frauke Petersen Haasemann ; die ; last Friday at her home in Princeton N.J ;  ; active}
+{her home ;  be (complemented by) ; in Princeton N.J ;  ; active}
+{she ; have ; home ;  ; }
+{last ; is property of ; Friday ;  ; }
+{assistant ; is property of ; conductor ;  ; }
+{Frauke Petersen Haasemann ;  be  ; assistant conductor of Westminster Choir ;  ; active}
+{assistant conductor ;  be (complemented by) ; of Westminster Choir ;  ; active}
+78	For the proposal itself, he toured five hotels in search of a room with a view of Central Park and selected one on a high floor of the Carlyle.
+{he ; tour ; five hotels ;  ; active}
+{he ; tour ; for proposal ;  ; active}
+{he ; tour ; five hotels for proposal ;  ; active}
+{he ; tour ; in search of room ;  ; active}
+{he ; tour ; five hotels in search of room ;  ; active}
+{he ; tour ; with view of Central Park ;  ; active}
+{he ; tour ; five hotels with view of Central Park ;  ; active}
+{search ;  be (complemented by) ; of room ;  ; active}
+{view ;  be (complemented by) ; of Central Park ;  ; active}
+{he ; select ; one ;  ; active}
+{he ; select ; on high floor of Carlyle ;  ; active}
+{he ; select ; one on high floor of Carlyle ;  ; active}
+{high ; is property of ; floor ;  ; }
+{high floor ;  be (complemented by) ; of Carlyle ;  ; active}
+79	Mr. Hashimoto, who denied the bribery charges, took his case to the Supreme Court, but the court had not issued a ruling by the time of his death.
+{Mr. Hashimoto ; take ; his case ;  ; active}
+{Mr. Hashimoto ; take ; to Supreme Court ;  ; active}
+{Mr. Hashimoto ; take ; his case to Supreme Court ;  ; active}
+{he ; have ; case ;  ; }
+{court ; not issue ; ruling ;  ; active}
+{time ;  be (complemented by) ; of his death ;  ; active}
+{he ; have ; death ;  ; }
+{court ; not issue ; ruling by time of his death ;  ; active}
+{court ; not issue ; by time of his death ;  ; active}
+{Mr. Hashimoto ; deny ; bribery charges ;  ; active}
+80	It is not really a camp, because no one is running things.
+{It ; not be ; really a camp ;  ; active}
+81	That pushed the unemployment rate to 12.5 percent, from 12.4 percent in May.
+{That ; push ; unemployment rate ;  ; active}
+{That ; push ; to 12.5 percent ;  ; active}
+{That ; push ; unemployment rate to 12.5 percent ;  ; active}
+{That ; push ; from 12.4 percent in May ;  ; active}
+{That ; push ; unemployment rate from 12.4 percent in May ;  ; active}
+{12.4 percent ;  be (complemented by) ; in May ;  ; active}
+82	It's not that I wouldn't drink these -- a number of them were very good.
+{It ; not be ; I not would drink  these ;  ; active}
+{I ; not drink ; these ;  ; active}
+83	Costello's main work since joining the Defense Department last October has been to develop a series of policies aimed at strengthening industrial technologies and manufacturing methods in areas that are deemed important to arms production.
+{Costello 's main work since joining ; be ; to develop  series of policies in areas ;  ; active}
+{areas ; deem ; important to arms production ;  ; passive}
+{series ;  be (complemented by) ; of policies ;  ; active}
+{important ; is property of ; production ;  ; }
+{Costello 's main work since joining ; develop ; series of policies ;  ; active}
+{Costello 's main work since joining ; develop ; in areas ;  ; active}
+{Costello 's main work since joining ; develop ; series of policies in areas ;  ; active}
+{main ; is property of ; work ;  ; }
+{Costello 's main work ;  be (complemented by) ; since joining ;  ; active}
+{Costello 's main work ; join ; Defense Department ;  ; active}
+{Costello ; have ; main work ;  ; }
+84	Her father retired as a representative of manufacturers of railroad equipment.
+{Her father ; retire ; as representative of manufacturers of railroad equipment ;  ; active}
+{representative ;  be (complemented by) ; of manufacturers of railroad equipment ;  ; active}
+{manufacturers ;  be (complemented by) ; of railroad equipment ;  ; active}
+{Her ; have ; father ;  ; }
+85	A class-action lawsuit against the N.C.A.A., contending that major college football teams violate antitrust laws by refusing to give athletic scholarships to all walk-on players, was filed yesterday in a United States District Court in Seattle.
+{class-action lawsuit against N.C.A.A. ; file ; yesterday ;  ; passive}
+{class-action lawsuit against N.C.A.A. ; file ; in United States District Court ;  ; passive}
+{class-action lawsuit against N.C.A.A. ; file ; yesterday in United States District Court ;  ; passive}
+{class-action lawsuit against N.C.A.A. ; file ; in Seattle ;  ; passive}
+{class-action lawsuit against N.C.A.A. ; file ; yesterday in Seattle ;  ; passive}
+{class-action ; is property of ; lawsuit ;  ; }
+{class-action lawsuit ;  be (complemented by) ; against N.C.A.A. ;  ; active}
+{N.C.A.A. ; contend that ; major college football teams violate  antitrust laws ,  refusing to give  athletic scholarships ;  ; active}
+86	Following the killing of Amadou Diallo, the inexorable conclusion is that this is a Police Department out of control, with elected officials who are not interested in holding anybody accountable for its actions.
+{inexorable conclusion ; be ; this be  Police Department out_of control with elected officials out_of control with elected officials ;  ; active}
+{inexorable conclusion ; be ; following killing of Amadou Diallo ;  ; active}
+{inexorable conclusion ; be ; this be  Police Department out_of control with elected officials out_of control with elected officials following killing of Amadou Diallo ;  ; active}
+{killing ;  be (complemented by) ; of Amadou Diallo ;  ; active}
+{elected ; is property of ; officials ;  ; }
+{Police Department ;  be (complemented by) ; with elected officials ;  ; active}
+{this ; be ; Police Department out_of control with elected officials ;  ; active}
+{elected officials ; not be ; interested in holding anybody ;  ; active}
+{Police Department ;  be (complemented by) ; out_of control ;  ; active}
+{Police Department ;  be (complemented by) ; out_of control with elected officials ;  ; active}
+{this ; be ; out_of control ;  ; active}
+{holding ; is property of ; anybody ;  ; }
+{accountable ; is property of ; anybody ;  ; }
+{this ; be ; out_of control with elected officials ;  ; active}
+{inexorable ; is property of ; conclusion ;  ; }
+87	Indeed, history shows that those who ignore energy prices and their impact on overall inflation do so at their own risk.
+{history ; show that ; those do  so at their own risk ; Indeed ; active}
+{those ; ignore ; energy prices ;  ; active}
+{their impact ;  be (complemented by) ; on overall inflation ;  ; active}
+{they ; have ; own risk ;  ; }
+{own ; is property of ; risk ;  ; }
+{those ; do ; so at their own risk ;  ; active}
+{those ; ignore ; energy prices,their impact on overall inflation ;  ; active}
+{those ; do ; so ;  ; active}
+{those ; do ; at their own risk ;  ; active}
+{they ; have ; impact ;  ; }
+{those ; ignore ; their impact on overall inflation ;  ; active}
+{overall ; is property of ; inflation ;  ; }
+88	The New Jersey school, like most others, issued the flag patches that have become ubiquitous on players' uniforms these days as a gesture of support for allied efforts in the Persian Gulf.
+{New Jersey school like most others ; issue ; flag patches ;  ; active}
+{flag patches ; become ; ubiquitous on players ' uniforms as gesture of support for allied efforts in Persian Gulf ;  ; active}
+{gesture ;  be (complemented by) ; of support for allied efforts in Persian Gulf ;  ; active}
+{flag patches ; become ; ubiquitous on players ' uniforms ;  ; active}
+{players ; have ; uniforms ;  ; }
+{allied ; is property of ; efforts ;  ; }
+{support ;  be (complemented by) ; for allied efforts in Persian Gulf ;  ; active}
+{flag patches ; become ; as gesture of support for allied efforts in Persian Gulf ;  ; active}
+{ubiquitous ;  be (complemented by) ; on players ' uniforms ;  ; active}
+{allied efforts ;  be (complemented by) ; in Persian Gulf ;  ; active}
+{most ; is property of ; others ;  ; }
+{New Jersey school ;  be (complemented by) ; like most others ;  ; active}
+89	Two Japanese travel agencies have desks beside the finely manicured English-style garden adjacent to the lobby, busily booking free-spending guests for golf, horseback riding and guided shopping jaunts.
+{Two Japanese travel agencies ; book ; free-spending guests ; busily ; active}
+{Two Japanese travel agencies ; book ; for horseback  golf riding, guided shopping jaunts ; busily ; active}
+{Two Japanese travel agencies ; book ; free-spending guests for horseback  golf riding, guided shopping jaunts ; busily ; active}
+{guided ; is property of ; shopping jaunts ;  ; }
+{horseback ; belong to ; golf riding ;  ; active}
+{free-spending ; is property of ; guests ;  ; }
+{Japanese ; is property of ; travel agencies ;  ; }
+90	Net income represented net asset value.
+{Net income ; represent ; net asset value ;  ; active}
+{net ; is property of ; asset value ;  ; }
+{Net ; is property of ; income ;  ; }
+91	Barak also ended six weeks of total public silence on policy to reproach President Clinton for making seemingly offhand remarks about the rights of Palestinian refugees.
+{Barak ; end ; six weeks of total public silence on policy ; also ; active}
+{Barak ; end ; to reproach  President Clinton for making about rights of Palestinian refugees ; also ; active}
+{Barak ; end ; six weeks of total public silence on policy to reproach  President Clinton for making about rights of Palestinian refugees ; also ; active}
+{total public silence ;  be (complemented by) ; on policy ;  ; active}
+{policy ; reproach ; President Clinton for making about rights of Palestinian refugees ;  ; active}
+{total ; is property of ; silence ;  ; }
+{public ; is property of ; silence ;  ; }
+{six weeks ;  be (complemented by) ; of total public silence on policy ;  ; active}
+{President Clinton ; make ; offhand remarks ;  ; active}
+{making ;  be (complemented by) ; about rights of Palestinian refugees ;  ; active}
+{offhand ; is property of ; remarks ;  ; }
+{President Clinton ; make ; about rights of Palestinian refugees ;  ; active}
+{President Clinton ; make ; offhand remarks about rights of Palestinian refugees ;  ; active}
+{Palestinian ; is property of ; refugees ;  ; }
+{President Clinton ;  be (complemented by) ; for making about rights of Palestinian refugees ;  ; active}
+{rights ;  be (complemented by) ; of Palestinian refugees ;  ; active}
+92	We can break news at any time.
+{We ; break ; news ;  ; active}
+{We ; break ; at any  time ;  ; active}
+{We ; break ; news at any  time ;  ; active}
+93	At least 8 schoolchildren were killed and at least 15 people were wounded when a deranged man burst into an elementary school near Osaka and began stabbing students and teachers with a kitchen knife.
+{8 schoolchildren ; kill ;  ;  ; passive}
+{8 schoolchildren ; wound ; when deranged man burst  when into elementary school near Osaka ,  begin + doing sth ;  ; passive}
+{deranged man ; burst ; when ;  ; active}
+{deranged man ; burst ; into elementary school near Osaka ;  ; active}
+{deranged ; is property of ; man ;  ; }
+{deranged man ; begin + doing sth ; stab  students, teachers with kitchen knife ;  ; active}
+{elementary ; is property of ; school ;  ; }
+{deranged man ; burst ; when into elementary school near Osaka ;  ; active}
+{elementary school ;  be (complemented by) ; near Osaka ;  ; active}
+94	Fans paid close attention to the game, and the reason was Marcus Camby.
+{Fans ; pay ; close attention ;  ; active}
+{Fans ; pay ; to game ;  ; active}
+{Fans ; pay ; close attention to game ;  ; active}
+{close ; is property of ; attention ;  ; }
+95	Russia's eavesdropping station at Lourdes, Cuba, is a cold war jewel: 28 square miles of antennae and computers that message Russian embassies, submarines and spies, and vacuum up U.S. satellite and radio communications.
+{Russia 's eavesdropping station at Lourdes Cuba ; be ; cold war jewel 28 square  miles ;  ; active}
+{28 square  miles ; be ; war jewel ;  ; active}
+{cold ; is property of ; war jewel 28 square  miles ;  ; }
+{Russia ; have ; eavesdropping station ;  ; }
+{Russia 's eavesdropping station ;  be (complemented by) ; at Lourdes Cuba ;  ; active}
+96	A report in the Egos & Ids column of Styles of the Times on July 26 omitted the name of Annette Tab ert's co-author for the forthcoming book "The Power of Style."
+{report in Egos & Ids column of Styles of Times on July 26 ; omit ; name of Annette Tab ert 's co-author ;  ; active}
+{report in Egos & Ids column of Styles of Times on July 26 ; omit ; for forthcoming book `` The Power of Style ;  ; active}
+{report in Egos & Ids column of Styles of Times on July 26 ; omit ; name of Annette Tab ert 's co-author for forthcoming book `` The Power of Style ;  ; active}
+{forthcoming book `` The Power ;  be (complemented by) ; of Style ;  ; active}
+{forthcoming ; is property of ; Power ;  ; }
+{Annette Tab ert ; have ; co-author ;  ; }
+{name ;  be (complemented by) ; of Annette Tab ert 's co-author ;  ; active}
+{report ;  be (complemented by) ; in Egos & Ids column of Styles of Times on July 26 ;  ; active}
+{Egos & Ids column ;  be (complemented by) ; of Styles of Times on July 26 ;  ; active}
+{Times ;  be (complemented by) ; on July 26 ;  ; active}
+{Styles ;  be (complemented by) ; of Times on July 26 ;  ; active}
+97	It was "The Wife of Governor Dufresne."
+{It ; be ; Wife of Governor Dufresne ;  ; active}
+{Wife ;  be (complemented by) ; of Governor Dufresne ;  ; active}
+98	Union officials say they are pleased with the G.H.I. plan and they assert that the main reason they are being asked to pay premiums is that the Oxford plan is costing Barnard $63,000 more than G.H.I.
+{Union officials ; say ;  ;  ; active}
+99	He chose not to do that.
+{He ; chose to do ; that ;  ; active}
+{He ; not do ; that ;  ; active}
+100	The menu, imported from Ben's Deli in Queens, includes matzoh ball soup, corned beef and pastrami sandwiches, chopped liver, kishke and knishes.
+{menu ; include ; matzoh ball soup ;  ; active}
+{menu ; include ; corned beef ;  ; active}
+{menu ; include ; chopped liver ;  ; active}
+{menu ; include ; kishke ;  ; active}
+{menu ; include ; knishes ;  ; active}
+{menu ; include ; matzoh ball soup,corned beef,chopped liver,kishke,knishes ;  ; active}
+{matzoh ; is property of ; ball soup ;  ; }
+{corned ; is property of ; beef ;  ; }
+{chopped ; is property of ; liver ;  ; }
+{menu ; import ; from Ben 's Deli in Queens ;  ; active}
+{Ben 's Deli ;  be (complemented by) ; in Queens ;  ; active}
+{Ben ; have ; Deli ;  ; }
+101	Ashcroft said afterward, through Mr. Hilton, that the talk had been "even and businesslike" and that he had made the point that there would be no peace between him and the Governor until the Governor and his fellow Missouri Democrats demonstrated good faith by ending their practice of "hate politics."
+{Ashcroft ; say that ; talk be  even ,businesslike ; afterward ; active}
+{Ashcroft ; say that ; through Mr. Hilton ; afterward ; active}
+{Ashcroft ; say that ; talk be  even ,businesslike through Mr. Hilton ; afterward ; active}
+{talk ; be ; even ;  ; active}
+{talk ; be ; even (and) businesslike ;  ; active}
+{talk ; be ; businesslike ;  ; active}
+102	But while it may surprise anyone who has been stung by them, yellow jackets actually have a reason for existing and a place in the universe.
+{yellow jackets ; have ; reason for existing in universe ,place in universe ; actually ; active}
+{reason ; exist ;  ;  ; active}
+{existing ,place ;  be (complemented by) ; in universe ;  ; active}
+{reason ;  be (complemented by) ; for existing in universe ,place in universe ;  ; active}
+{yellow ; is property of ; jackets ;  ; }
+103	Beat in the eggs one at a time.
+{Beat one ;  be (complemented by) ; in eggs ;  ; active}
+{one ; be ; Beat ;  ; active}
+104	The line was "That is my last word," not "You can't go to Berlin!"
+{line ; not be ; That be  my last word ;  ; active}
+{I ; have ; last word ;  ; }
+{last ; is property of ; word ;  ; }
+{That ; be ; my last word ;  ; active}
+105	Most significantly, the new machines will give Sony and other makers of the devices unusual control over the presentation of programming, which could well influence what consumers choose to watch.
+{new machines ; give ; unusual control ; significantly Most ; active}
+{new machines ; give ; over presentation of programming ; significantly Most ; active}
+{new machines ; give ; unusual control over presentation of programming ; significantly Most ; active}
+{new machines ; give ; Sony ; significantly Most ; active}
+{new machines ; give ; Sony over presentation of programming ; significantly Most ; active}
+{new machines ; give ; other makers of devices ; significantly Most ; active}
+{new machines ; give ; other makers of devices over presentation of programming ; significantly Most ; active}
+{new machines ; give ; Sony,other makers of devices ; significantly Most ; active}
+{new machines ; give ; Sony,other makers of devices over presentation of programming ; significantly Most ; active}
+{presentation ;  be (complemented by) ; of programming ;  ; active}
+{programming ; influence ; well ;  ; active}
+{consumers ; choose to watch ;  ;  ; active}
+{consumers ; watch ;  ;  ; active}
+{programming ; influence ; consumers choose to watch   , ;  ; active}
+{unusual ; is property of ; control ;  ; }
+{other ; is property of ; makers ;  ; }
+{other makers ;  be (complemented by) ; of devices ;  ; active}
+{new ; is property of ; machines ;  ; }
+106	As a medium-sized group of American lawyers and judges and their companions, we were able to interact on a personal basis with a number of Egyptian citizens, tourist personnel, lawyers, judges, storekeepers and families.
+{we ; be ; able as medium-sized group of American lawyers ,judges ,their companions ;  ; active}
+{they ; have ; companions ;  ; }
+{American ; is property of ; lawyers ;  ; }
+{medium-sized ; is property of ; group ;  ; }
+{medium-sized group ;  be (complemented by) ; of American lawyers ,judges ,their companions ;  ; active}
+107	Trust Company's quest for customers among the new rich, included erroneous figures for millionaire households supplied by PSI, a financial services research firm in Tampa, Fla.
+{Trust Company 's quest ; include ; erroneous figures for millionaire households ;  ; active}
+{Trust Company 's quest ; include ; for customers among new rich ;  ; active}
+{Trust Company 's quest ; include ; erroneous figures for millionaire households for customers among new rich ;  ; active}
+{customers ;  be (complemented by) ; among new rich ;  ; active}
+{new ; is property of ; rich ;  ; }
+{millionaire households ; supply ; PSI ;  ; active}
+{millionaire ; is property of ; households ;  ; }
+{erroneous ; is property of ; figures ;  ; }
+{erroneous figures ;  be (complemented by) ; for millionaire households ;  ; active}
+{Trust Company ; have ; quest ;  ; }
+108	In a sobering speech meant to register with opinion leaders in the international community, the Irish Foreign Minister, Dick Spring, has warned about the peril to the peace process if there is further delay.
+{international community ; warn ; if further delay be ;  ; active}
+{international community ; warn ; about peril ;  ; active}
+{international community ; warn ; if further delay be about peril ;  ; active}
+{international community ; warn ; to peace process ;  ; active}
+{international community ; warn ; if further delay be to peace process ;  ; active}
+{further ; is property of ; delay ;  ; }
+{further delay ; be ;  ;  ; active}
+{Irish ; is property of ; Foreign Minister ;  ; }
+{international community ;  be  ; Irish Foreign Minister ;  ; active}
+{international ; is property of ; community ;  ; }
+{Irish Foreign Minister ;  be  ; Dick Spring ;  ; active}
+109	Sharpe said the students were sent to work in the manure, not stand in it.
+{Sharpe ; say that ; students send   , to work   in manure ;  ; active}
+{students ; work ; in manure ;  ; active}
+{students ; send ; to work   in manure ;  ; passive}
+110	Shown today at 2 and 6 p.m. and tomorrow at 4 and 7 p.m. at the Walter Reade Theater at Lincoln Center, 165 West 65th Street, Manhattan, as part of the 32nd New Directors/New Films series of the Film Society of Lincoln Center and the department of film and media of the Museum of Modern Art.
+{p.m. at the Walter Reade Theater 165 at Lincoln Center ; show ; p.m. ;  ; active}
+{p.m. at the Walter Reade Theater 165 at Lincoln Center ; show ; at 2, 6 ;  ; active}
+{p.m. at the Walter Reade Theater 165 at Lincoln Center ; show ; p.m. at 2, 6 ;  ; active}
+{p.m. at the Walter Reade Theater 165 at Lincoln Center ; show ; at 4, 7 ;  ; active}
+{p.m. at the Walter Reade Theater 165 at Lincoln Center ; show ; p.m. at 4, 7 ;  ; active}
+{p.m. at the Walter Reade Theater 165 at Lincoln Center ; show ; tomorrow ;  ; active}
+{p.m. at the Walter Reade Theater 165 at Lincoln Center ; show ; tomorrow at 2, 6 ;  ; active}
+{p.m. at the Walter Reade Theater 165 at Lincoln Center ; show ; tomorrow at 4, 7 ;  ; active}
+{p.m. at the Walter Reade Theater 165 at Lincoln Center ; show ; p.m.,tomorrow ;  ; active}
+{p.m. at the Walter Reade Theater 165 at Lincoln Center ; show ; p.m.,tomorrow at 2, 6 ;  ; active}
+{p.m. at the Walter Reade Theater 165 at Lincoln Center ; show ; p.m.,tomorrow at 4, 7 ;  ; active}
+{department of film ,media of Museum of Modern Art ; show ; p.m. ;  ; active}
+{department of film ,media of Museum of Modern Art ; show ; at 2, 6 ;  ; active}
+{department of film ,media of Museum of Modern Art ; show ; p.m. at 2, 6 ;  ; active}
+{department of film ,media of Museum of Modern Art ; show ; at 4, 7 ;  ; active}
+{department of film ,media of Museum of Modern Art ; show ; p.m. at 4, 7 ;  ; active}
+{department of film ,media of Museum of Modern Art ; show ; tomorrow ;  ; active}
+{department of film ,media of Museum of Modern Art ; show ; tomorrow at 2, 6 ;  ; active}
+{department of film ,media of Museum of Modern Art ; show ; tomorrow at 4, 7 ;  ; active}
+{department of film ,media of Museum of Modern Art ; show ; p.m.,tomorrow ;  ; active}
+{department of film ,media of Museum of Modern Art ; show ; p.m.,tomorrow at 2, 6 ;  ; active}
+{department of film ,media of Museum of Modern Art ; show ; p.m.,tomorrow at 4, 7 ;  ; active}
+{p.m. at the Walter Reade Theater 165 at Lincoln Center,department of film ,media of Museum of Modern Art ; show ; p.m. ;  ; active}
+{p.m. at the Walter Reade Theater 165 at Lincoln Center,department of film ,media of Museum of Modern Art ; show ; at 2, 6 ;  ; active}
+{p.m. at the Walter Reade Theater 165 at Lincoln Center,department of film ,media of Museum of Modern Art ; show ; p.m. at 2, 6 ;  ; active}
+{p.m. at the Walter Reade Theater 165 at Lincoln Center,department of film ,media of Museum of Modern Art ; show ; at 4, 7 ;  ; active}
+{p.m. at the Walter Reade Theater 165 at Lincoln Center,department of film ,media of Museum of Modern Art ; show ; p.m. at 4, 7 ;  ; active}
+{p.m. at the Walter Reade Theater 165 at Lincoln Center,department of film ,media of Museum of Modern Art ; show ; tomorrow ;  ; active}
+{p.m. at the Walter Reade Theater 165 at Lincoln Center,department of film ,media of Museum of Modern Art ; show ; tomorrow at 2, 6 ;  ; active}
+{p.m. at the Walter Reade Theater 165 at Lincoln Center,department of film ,media of Museum of Modern Art ; show ; tomorrow at 4, 7 ;  ; active}
+{p.m. at the Walter Reade Theater 165 at Lincoln Center,department of film ,media of Museum of Modern Art ; show ; p.m.,tomorrow ;  ; active}
+{p.m. at the Walter Reade Theater 165 at Lincoln Center,department of film ,media of Museum of Modern Art ; show ; p.m.,tomorrow at 2, 6 ;  ; active}
+{p.m. at the Walter Reade Theater 165 at Lincoln Center,department of film ,media of Museum of Modern Art ; show ; p.m.,tomorrow at 4, 7 ;  ; active}
+{p.m. at the Walter Reade Theater 165 ;  be (complemented by) ; at Lincoln Center ;  ; active}
+{department ;  be (complemented by) ; of film ,media of Museum of Modern Art ;  ; active}
+{165 ; be ; Walter Reade Theater ;  ; active}
+{Museum ;  be (complemented by) ; of Modern Art ;  ; active}
+{department ;  be (complemented by) ; of Museum of Modern Art ;  ; active}
+{department ;  be (complemented by) ; of film ,media ;  ; active}
+111	A table in Business Day on Thursday showing the New York Stock Exchange's uncovered short sales, or "short interest," for the four weeks ended June 15 included an incorrect amount for the Tech-Sym Corporation, provided by the company to the exchange, and misstated the total accordingly.
+{table in showing ; include ; incorrect amount ; accordingly ; active}
+{table in showing ; include ; for Tech-Sym Corporation ; accordingly ; active}
+{table in showing ; include ; incorrect amount for Tech-Sym Corporation ; accordingly ; active}
+{incorrect ; is property of ; amount ;  ; }
+{table in showing ; misstate ; total ; accordingly ; active}
+{short interest ; include ; incorrect amount ; accordingly ; active}
+{short interest ; include ; for Tech-Sym Corporation ; accordingly ; active}
+{short interest ; include ; incorrect amount for Tech-Sym Corporation ; accordingly ; active}
+{short interest ; misstate ; total ; accordingly ; active}
+{table in showing,short interest ; include ; incorrect amount ; accordingly ; active}
+{table in showing,short interest ; include ; for Tech-Sym Corporation ; accordingly ; active}
+{table in showing,short interest ; include ; incorrect amount for Tech-Sym Corporation ; accordingly ; active}
+{table in showing,short interest ; misstate ; total ; accordingly ; active}
+{table ;  be (complemented by) ; in showing ;  ; active}
+{Business Day on Thursday ; show ; New York Stock Exchange 's uncovered short sales ;  ; active}
+{short ; is property of ; interest ;  ; }
+{New York Stock Exchange ; have ; uncovered short sales ;  ; }
+{four weeks ; end ; June 15 ;  ; active}
+{uncovered ; is property of ; sales ;  ; }
+{short ; is property of ; sales ;  ; }
+{Business Day ;  be (complemented by) ; on Thursday ;  ; active}
+{Business Day on Thursday ; show ; table ;  ; active}
+112	"She could easily be seen as someone who tries to help the public with a tax cut when she can, but who is also candid enough to level with folks when the state fiscal situation prevents a tax giveback.
+{She ; see ; easily ;  ; passive}
+{She ; see ; as someone ;  ; passive}
+{She ; see ; easily as someone ;  ; passive}
+{someone ; try ; to help  public with tax cut ;  ; active}
+113	Just before this season began, the baseball commissioner's office suspended him for violating the terms of his after-care program for substance abuse.
+{baseball commissioner 's office ; suspend ; him ;  ; active}
+{baseball commissioner 's office ; violate ; terms of his after-care program for substance abuse ;  ; active}
+{his after-care program ;  be (complemented by) ; for substance abuse ;  ; active}
+{after-care ; is property of ; program ;  ; }
+{he ; have ; after-care program ;  ; }
+{terms ;  be (complemented by) ; of his after-care program for substance abuse ;  ; active}
+{this  season ; begin + doing sth ; Just ;  ; active}
+{baseball commissioner ; have ; office ;  ; }
+114	The songs are driven by short melodic riffs, call-and-response with her backup singers, the combination of djembe (hand drum) and metal scraper and the plunk of the kamalngoni, a harp similar to the kora played by griots.
+{songs ; drive ; short melodic riffs ,call-and-response with her backup singers ,combination of djembe ,metal scraper ,plunk of kamalngoni ;  ; passive}
+{songs ; drive ; by short melodic riffs of kamalngoni ,call-and-response of kamalngoni ,combination of kamalngoni ,metal scraper of kamalngoni ,plunk of kamalngoni ;  ; passive}
+{combination of djembe ; drum ;  ;  ; active}
+{kamalngoni ;  be  ; harp ;  ; active}
+{plunk ;  be (complemented by) ; of kamalngoni ;  ; active}
+{short melodic riffs ,call-and-response ,combination ,metal scraper ,plunk ;  be (complemented by) ; of kamalngoni ;  ; active}
+{melodic ; is property of ; riffs ;  ; }
+{backup ; is property of ; singers ;  ; }
+{she ; have ; backup singers ;  ; }
+{call-and-response ;  be (complemented by) ; with her backup singers ;  ; active}
+{short melodic riffs of kamalngoni ,call-and-response of kamalngoni ,combination of kamalngoni ,metal scraper of kamalngoni ,plunk of kamalngoni ; drum ;  ;  ; active}
+{combination ;  be (complemented by) ; of djembe ;  ; active}
+{similar ; is property of ; harp ;  ; }
+{short ; is property of ; riffs ;  ; }
+115	Two batters later, Edgardo Alfonzo rapped a two-run double down the third-base line for a 3-0 lead, and Hundley later launched a double to the left-center warning track to make it 4-0.
+{Edgardo Alfonzo ; rap ; two-run double ; later ; active}
+{Edgardo Alfonzo ; rap ; down third-base line ; later ; active}
+{Edgardo Alfonzo ; rap ; two-run double down third-base line ; later ; active}
+{Edgardo Alfonzo ; rap ; for 3-0 lead ; later ; active}
+{Edgardo Alfonzo ; rap ; two-run double for 3-0 lead ; later ; active}
+{third-base ; is property of ; line ;  ; }
+{two-run ; is property of ; double ;  ; }
+{Edgardo Alfonzo ; launch ; double to the left-center warning track ; later ; active}
+{Edgardo Alfonzo ; launch ; to make  it ; later ; active}
+{Edgardo Alfonzo ; launch ; double to the left-center warning track to make  it ; later ; active}
+{double to the left-center warning track ; make ; it ;  ; active}
+{double ; is property of ; track ;  ; }
+116	Tests to detect the use of performance-enhancing drugs like EPO and human-growth hormones are unlikely to be approved for Sydney.
+{Tests ; be ; unlikely ;  ; active}
+{Tests ; detect ; use of performance-enhancing drugs like EPO, human-growth hormones ;  ; active}
+{Tests ; detect ; like EPO, human-growth hormones ;  ; active}
+{Tests ; detect ; use of performance-enhancing drugs ;  ; active}
+{human-growth ; is property of ; hormones ;  ; }
+117	Farrow is trying in Manhattan's Surrogate's Court to void Mr. Allen's adoptions of Moses and Dylan.
+{Farrow ; try ; to void  Mr. Allen 's adoptions of Moses ,Dylan ;  ; active}
+{Farrow ; try ; in Manhattan 's Surrogate 's Court ;  ; active}
+{Farrow ; try ; to void  Mr. Allen 's adoptions of Moses ,Dylan in Manhattan 's Surrogate 's Court ;  ; active}
+{Manhattan ; have ; Surrogate  Court ;  ; }
+{Mr. Allen ; have ; adoptions ;  ; }
+{Mr. Allen 's adoptions ;  be (complemented by) ; of Moses ,Dylan ;  ; active}
+{Farrow ; void ; Mr. Allen 's adoptions of Moses ,Dylan ;  ; active}
+118	Mexican reporters staked out meetings of the board of Dow Jones & Company, where Mr. Salinas is a member, but caught just a brief glimpse of him on the 43d floor of the World Trade Center.
+{Mexican reporters ; stake out ; meetings of board of Dow Jones ,Company ;  ; active}
+{board ;  be (complemented by) ; of Dow Jones ,Company ;  ; active}
+{meetings ;  be (complemented by) ; of board of Dow Jones ,Company ;  ; active}
+{just a brief glimpse ;  be (complemented by) ; of him ;  ; active}
+{43d floor ;  be (complemented by) ; of World Trade Center ;  ; active}
+{43d ; is property of ; floor ;  ; }
+{brief ; is property of ; glimpse ;  ; }
+{Mexican ; is property of ; reporters ;  ; }
+119	In October, the university's Electronic Music Center will put the finishing touches on an ambitious surround-sound speaker installation.
+{university ; be ; Electronic Music Center ;  ; active}
+{university ; be ; in October ;  ; active}
+{university ; be ; Electronic Music Center in October ;  ; active}
+{surround-sound ; is property of ; speaker installation ;  ; }
+{finishing ; is property of ; touches ;  ; }
+{finishing touches ;  be (complemented by) ; on ambitious surround-sound speaker installation ;  ; active}
+{ambitious ; is property of ; speaker installation ;  ; }
+{Electronic Music Center ; put ; finishing touches on ambitious surround-sound speaker installation ;  ; active}
+120	Addictions should not be called habits, Dr. Cahan said.
+{habits ; not call ; Addictions ;  ; passive}
+{Dr. Cahan ; say ;  ;  ; active}
+121	The International Business Machines Corporation said it signed an agreement to provide more than $100 million worth of computer hardware and software to what will be the world's largest computerized travel reservation system.
+{International Business Machines Corporation ; say that ; it sign  agreement to provide  $ 100 million worth of computer hardware ,software ;  ; active}
+{it ; sign ; agreement ;  ; active}
+{agreement ; provide ; $ 100 million worth of computer hardware ,software ;  ; active}
+122	The director of the Center for Mathematical Sciences Research at Rutgers University, Dr. Joel Lebowitz, will receive the Dalmar S. Fahrney Medal from the Franklin Institute in Philadelphia in May.
+{director of Center for Mathematical Sciences Research at Rutgers University ; receive ; Dalmar S. Fahrney Medal from Franklin Institute ;  ; active}
+{director of Center for Mathematical Sciences Research at Rutgers University ; receive ; in Philadelphia ;  ; active}
+{director of Center for Mathematical Sciences Research at Rutgers University ; receive ; Dalmar S. Fahrney Medal from Franklin Institute in Philadelphia ;  ; active}
+{director of Center for Mathematical Sciences Research at Rutgers University ; receive ; in May ;  ; active}
+{director of Center for Mathematical Sciences Research at Rutgers University ; receive ; Dalmar S. Fahrney Medal from Franklin Institute in May ;  ; active}
+{Dalmar S. Fahrney Medal ;  be (complemented by) ; from Franklin Institute ;  ; active}
+{director ;  be (complemented by) ; of Center for Mathematical Sciences Research at Rutgers University ;  ; active}
+{Center ;  be (complemented by) ; for Mathematical Sciences Research at Rutgers University ;  ; active}
+{Rutgers University ;  be  ; Dr. Joel Lebowitz ;  ; active}
+{Mathematical Sciences Research ;  be (complemented by) ; at Rutgers University ;  ; active}
+123	Two independent journalists went on trial today accused of defaming President Franjo Tudjman in a case that has helped sour Croatia's relations with Western Europe.
+{Two independent journalists ; go ; on trial today ;  ; active}
+{trial today ; accuse of ;  ;  ; passive}
+{independent ; is property of ; journalists ;  ; }
+124	The chief executive, Sir Colin Marshall, will take a similar cut, putting his pay at around $540,000.
+{chief executive ; take ; similar cut ;  ; active}
+{chief executive ; take ; put  his pay at $ 540,000 ;  ; active}
+{chief executive ; take ; similar cut put  his pay at $ 540,000 ;  ; active}
+{similar cut ; put ; his pay ;  ; active}
+{similar cut ; put ; at $ 540,000 ;  ; active}
+{similar cut ; put ; his pay at $ 540,000 ;  ; active}
+{similar ; is property of ; cut ;  ; }
+{he ; have ; pay ;  ; }
+{chief ; is property of ; executive ;  ; }
+{chief executive ;  be  ; Sir Colin Marshall ;  ; active}
+125	Annually, some 600 miles of municipal roads are expected to deteriorate.
+{some 600 miles of municipal roads ; expect ; Annually ;  ; passive}
+{some 600 miles of municipal roads ; expect ; to deteriorate ;  ; passive}
+{some 600 miles of municipal roads ; deteriorate ;  ;  ; active}
+{municipal ; is property of ; roads ;  ; }
+{some 600 miles ;  be (complemented by) ; of municipal roads ;  ; active}
+126	Rather than resort to the usual bunker mentality, he tried a more practical approach.
+127	So far, Mr. Ginty has elicited praise from conservatives like Steven Lonegan, who ran for governor last year.
+{Mr. Ginty ; elicit ; praise ; So far ; active}
+{Mr. Ginty ; elicit ; from conservatives like Steven Lonegan ; So far ; active}
+{Mr. Ginty ; elicit ; praise from conservatives like Steven Lonegan ; So far ; active}
+{Steven Lonegan ; run ; last year for governor ;  ; active}
+{last ; is property of ; year ;  ; }
+{conservatives ;  be (complemented by) ; like Steven Lonegan ;  ; active}
+{Steven Lonegan ; run ; last year ;  ; active}
+{Steven Lonegan ; run ; for governor ;  ; active}
+128	The club is tearing up the turf field and replacing it with grass.
+{club ; tear up ; turf field ;  ; active}
+{club ; replace ; it ;  ; active}
+{club ; replace ; with grass ;  ; active}
+{club ; replace ; it with grass ;  ; active}
+129	He plans to give the diploma to his mother, to hang in their Brooklyn home.
+{He ; plan ; to give  diploma to hang   in their Brooklyn home to his mother ;  ; active}
+{he ; have ; mother ;  ; }
+{they ; have ; Brooklyn home ;  ; }
+{He ; give ; diploma ;  ; active}
+{He ; give ; to his mother ;  ; active}
+{He ; give ; diploma to his mother ;  ; active}
+{He ; give ; to hang   in their Brooklyn home ;  ; active}
+{He ; give ; to hang   in their Brooklyn home to his mother ;  ; active}
+{He ; give ; diploma to hang   in their Brooklyn home ;  ; active}
+{He ; give ; diploma to hang   in their Brooklyn home to his mother ;  ; active}
+130	I have also learned that lice plan their arrival to maximize household stress.
+{I ; learn ; their arrival ; also ; active}
+{I ; learn ; that  lice plan ; also ; active}
+{their arrival ; maximize ; household stress ;  ; active}
+{they ; have ; arrival ;  ; }
+131	Mr. Riley's numbers did not change.
+{Mr. Riley 's numbers ; not change ;  ;  ; active}
+{Mr. Riley ; have ; numbers ;  ; }
+132	Miss Collins is immutably Miss Collins.
+{Miss Collins ; be ; immutably Miss Collins ;  ; active}
+133	IT was graduation night at the Ophelia DeVore School of Charm.
+{IT ; be ; graduation night at Ophelia DeVore School of Charm ;  ; active}
+{Ophelia DeVore School ;  be (complemented by) ; of Charm ;  ; active}
+{graduation night ;  be (complemented by) ; at Ophelia DeVore School of Charm ;  ; active}
+134	The market wants to do better, said Gregory Bundy, head of equity trading at Merrill Lynch Japan Inc.
+{Gregory Bundy ; say that ; market wants to do  better , ; better do ; active}
+{market ; wants to do ; better ;  ; active}
+{market ; do ; better ;  ; active}
+{Gregory Bundy ;  be  ; head of equity trading at Merrill Lynch Japan Inc ;  ; active}
+{equity trading ;  be (complemented by) ; at Merrill Lynch Japan Inc ;  ; active}
+{head ;  be (complemented by) ; of equity trading at Merrill Lynch Japan Inc ;  ; active}
+135	Last month we saw an American patient who had been to five gynecologists before the last one said there is this procedure and referred her to us.
+{Last month ; say that ; this  procedure be ;  ; active}
+{this  procedure ; be ;  ;  ; active}
+{Last month ; refer ; her ;  ; active}
+{Last month ; refer ; to us ;  ; active}
+{Last month ; refer ; her to us ;  ; active}
+{we ; see ; American patient ;  ; active}
+{we ; see ; Last month ;  ; active}
+{Last ; is property of ; month ;  ; }
+{American ; is property of ; patient ;  ; }
+{American patient ; be ; to five gynecologists before last one ;  ; active}
+{American patient ; be ; before last one ;  ; active}
+{American patient ; be ; to five gynecologists ;  ; active}
+{last ; is property of ; one ;  ; }
+136	A senior American diplomat added, "We couldn't tolerate a treaty ally buying a Russian jet."
+{senior American diplomat ; add that ; We not could tolerate  treaty ally buy  Russian jet , ;  ; active}
+{We ; buy ; Russian jet ;  ; active}
+{We ; not tolerate ; treaty ally ;  ; active}
+{We ; not tolerate ; buy  Russian jet ;  ; active}
+{We ; not tolerate ; treaty ally buy  Russian jet ;  ; active}
+{Russian ; is property of ; jet ;  ; }
+{senior ; is property of ; diplomat ;  ; }
+{American ; is property of ; diplomat ;  ; }
+137	Bonilla gave chase, but hesitated as he reached the wall, allowing the ball to drop.
+{Bonilla ; give ; chase ;  ; active}
+{he ; reach ; wall ;  ; active}
+{ball ; drop ;  ;  ; active}
+{he ; reach ; allow  ball to drop ;  ; active}
+{he ; reach ; wall allow  ball to drop ;  ; active}
+{wall ; allow ; ball ;  ; active}
+138	A day after strong winds stirred up the Hauraki Gulf and broke the mast of Team New Zealand, a lack of wind caused Race 5 of the America's Cup to be abandoned today.
+{lack of wind ; cause ; Race 5 of America 's Cup ;  ; active}
+{America ; have ; Cup ;  ; }
+{Race 5 ;  be (complemented by) ; of America 's Cup ;  ; active}
+{strong winds ; break ; mast of Team New Zealand ;  ; active}
+{strong winds ; stir up ; Hauraki Gulf ;  ; active}
+{mast ;  be (complemented by) ; of Team New Zealand ;  ; active}
+{strong ; is property of ; winds ;  ; }
+{lack ;  be (complemented by) ; of wind ;  ; active}
+139	Reno's supporters said today's decision demonstrated her willingness to go outside the Justice Department to investigate a high-ranking Clinton official when the facts justified it.
+{Reno 's supporters ; say that ; today 's decision demonstrate  her willingness to go   outside Justice Department ;  ; active}
+{she ; have ; willingness ;  ; }
+{today ; have ; decision ;  ; }
+{her willingness ; go ; to investigate  high-ranking Clinton official ;  ; active}
+{her willingness ; go ; to investigate  high-ranking Clinton official outside Justice Department ;  ; active}
+{today 's decision ; demonstrate ; her willingness ;  ; active}
+{her willingness ; go ; outside Justice Department ;  ; active}
+{Reno ; have ; supporters ;  ; }
+140	The Xbox looks better (next to a TV set).
+{Xbox ; look ; better next_to TV set ;  ; active}
+141	Mr. Lemelson was an independent inventor who was granted more than 500 patents during his lifetime and whose estate continues to receive patents based on applications he submitted before he died five years ago.
+{Mr. Lemelson ; be ; independent inventor ;  ; active}
+{independent inventor ; grant ; 500 patents ;  ; passive}
+{independent inventor ; grant ; 500 patents during his lifetime ;  ; passive}
+{he ; have ; lifetime ;  ; }
+{independent ; is property of ; inventor ;  ; }
+{independent inventor ; grant ; during his lifetime ;  ; passive}
+142	He was John Dickinson, not Dickenson.
+{He ; be ; John Dickinson ;  ; active}
+{John Dickinson ;  be  ; Dickenson ;  ; active}
+143	Every gray leather seat is taken.
+{every gray leather seat ; take ;  ;  ; passive}
+{gray ; is property of ; leather seat ;  ; }
+144	Then he elevates himself off the ground to escape the ball that becomes a game-tying wild pitch.
+{that ; become ; game-tying wild pitch ;  ; active}
+{wild ; is property of ; pitch ;  ; }
+{game-tying ; is property of ; pitch ;  ; }
+145	The Federal Home Loan Bank Board last week provided reassurances to securities dealers holding certain futures and options contracts with the American Savings and Loan Association, the nation's largest savings institution.
+{Federal Home Loan Bank Board ; provide ; reassurances ;  ; active}
+{Federal Home Loan Bank Board ; provide ; to securities dealers ;  ; active}
+{Federal Home Loan Bank Board ; provide ; reassurances to securities dealers ;  ; active}
+{Federal Home Loan Bank Board ; provide ; hold  certain futures, options contracts with American Savings, Loan Association ;  ; active}
+{Federal Home Loan Bank Board ; provide ; hold  certain futures, options contracts with American Savings, Loan Association to securities dealers ;  ; active}
+{Federal Home Loan Bank Board ; provide ; reassurances hold  certain futures, options contracts with American Savings, Loan Association ;  ; active}
+{Federal Home Loan Bank Board ; provide ; reassurances hold  certain futures, options contracts with American Savings, Loan Association to securities dealers ;  ; active}
+{certain ; is property of ; futures ;  ; }
+{American Savings ;  be  ; nation 's largest savings institution ;  ; active}
+{nation ; have ; largest savings institution ;  ; }
+{largest ; is property of ; savings institution ;  ; }
+{Federal Home Loan Bank Board ; hold ; certain futures ;  ; active}
+{Federal Home Loan Bank Board ; hold ; with American Savings, Loan Association ;  ; active}
+{Federal Home Loan Bank Board ; hold ; certain futures with American Savings, Loan Association ;  ; active}
+{Federal Home Loan Bank Board ; hold ; options contracts ;  ; active}
+{Federal Home Loan Bank Board ; hold ; options contracts with American Savings, Loan Association ;  ; active}
+{Federal Home Loan Bank Board ; hold ; certain futures,options contracts ;  ; active}
+{Federal Home Loan Bank Board ; hold ; certain futures,options contracts with American Savings, Loan Association ;  ; active}
+{last week ; provide ; reassurances ;  ; active}
+{last week ; provide ; to securities dealers ;  ; active}
+{last week ; provide ; reassurances to securities dealers ;  ; active}
+{last week ; provide ; hold  certain futures, options contracts with American Savings, Loan Association ;  ; active}
+{last week ; provide ; hold  certain futures, options contracts with American Savings, Loan Association to securities dealers ;  ; active}
+{last week ; provide ; reassurances hold  certain futures, options contracts with American Savings, Loan Association ;  ; active}
+{last week ; provide ; reassurances hold  certain futures, options contracts with American Savings, Loan Association to securities dealers ;  ; active}
+{last week ; hold ; certain futures ;  ; active}
+{last week ; hold ; with American Savings, Loan Association ;  ; active}
+{last week ; hold ; certain futures with American Savings, Loan Association ;  ; active}
+{last week ; hold ; options contracts ;  ; active}
+{last week ; hold ; options contracts with American Savings, Loan Association ;  ; active}
+{last week ; hold ; certain futures,options contracts ;  ; active}
+{last week ; hold ; certain futures,options contracts with American Savings, Loan Association ;  ; active}
+{Federal Home Loan Bank Board,last week ; provide ; reassurances ;  ; active}
+{Federal Home Loan Bank Board,last week ; provide ; to securities dealers ;  ; active}
+{Federal Home Loan Bank Board,last week ; provide ; reassurances to securities dealers ;  ; active}
+{Federal Home Loan Bank Board,last week ; provide ; hold  certain futures, options contracts with American Savings, Loan Association ;  ; active}
+{Federal Home Loan Bank Board,last week ; provide ; hold  certain futures, options contracts with American Savings, Loan Association to securities dealers ;  ; active}
+{Federal Home Loan Bank Board,last week ; provide ; reassurances hold  certain futures, options contracts with American Savings, Loan Association ;  ; active}
+{Federal Home Loan Bank Board,last week ; provide ; reassurances hold  certain futures, options contracts with American Savings, Loan Association to securities dealers ;  ; active}
+{Federal Home Loan Bank Board,last week ; hold ; certain futures ;  ; active}
+{Federal Home Loan Bank Board,last week ; hold ; with American Savings, Loan Association ;  ; active}
+{Federal Home Loan Bank Board,last week ; hold ; certain futures with American Savings, Loan Association ;  ; active}
+{Federal Home Loan Bank Board,last week ; hold ; options contracts ;  ; active}
+{Federal Home Loan Bank Board,last week ; hold ; options contracts with American Savings, Loan Association ;  ; active}
+{Federal Home Loan Bank Board,last week ; hold ; certain futures,options contracts ;  ; active}
+{Federal Home Loan Bank Board,last week ; hold ; certain futures,options contracts with American Savings, Loan Association ;  ; active}
+{last ; is property of ; week ;  ; }
+146	As at all the parties, the guests in strapless gowns and gleaming tuxedos were lining up at cash bars for drinks and at a photo op where they could be snapped in front of an inaugural seal -- not all that different from a high school prom photograph.
+{guests in strapless gowns ,gleaming tuxedos ; line up ; where they could snap  where in_front_of inaugural seal not ;  ; active}
+{guests in strapless gowns ,gleaming tuxedos ; line up ; at cash bars for drinks, photo op ;  ; active}
+{guests in strapless gowns ,gleaming tuxedos ; line up ; where they could snap  where in_front_of inaugural seal not at cash bars for drinks, photo op ;  ; active}
+{cash bars ;  be (complemented by) ; for drinks ;  ; active}
+{inaugural ; is property of ; seal not ;  ; }
+{they ; snap ; where in_front_of inaugural seal not ;  ; passive}
+{they ; snap ; where ;  ; passive}
+{they ; snap ; in_front_of inaugural seal not ;  ; passive}
+{not ; be ; seal ;  ; active}
+{gleaming ; is property of ; tuxedos ;  ; }
+{strapless ; is property of ; gowns ;  ; }
+{guests ;  be (complemented by) ; in strapless gowns ,gleaming tuxedos ;  ; active}
+147	Governor Florio proposed an ethics package that would give New Jersey some of the nation's most stringent rules for lawmakers and senior government appointees.
+{Governor Florio ; propose ; ethics package ;  ; active}
+{senior ; is property of ; government appointees ;  ; }
+{ethics package ; give ; New Jersey for lawmakers, senior government appointees ;  ; active}
+{ethics package ; give ; some of nation 's most stringent rules for lawmakers, senior government appointees ;  ; active}
+{ethics package ; give ; some of nation 's most stringent rules ;  ; active}
+{ethics package ; give ; New Jersey ;  ; active}
+{nation ; have ; most stringent rules ;  ; }
+{some ;  be (complemented by) ; of nation 's most stringent rules ;  ; active}
+{ethics package ; give ; for lawmakers, senior government appointees ;  ; active}
+{stringent ; is property of ; rules ;  ; }
+148	This makes it more difficult to find delicate and crisp wines in the 10.5 percent to 12 percent range.
+{This ; make ; more difficult ;  ; active}
+149	On Fridays and Saturdays (the only nights it is open), every inch of that floor is rocking with people who are mostly from uptown -- specifically, the Upper East Side.
+{every  inch of that  floor ; rock ; on Fridays only  nights, Saturdays ;  ; active}
+{every  inch of that  floor ; rock ; with people ;  ; active}
+{only  nights ; be ; Fridays ;  ; active}
+{people ; be ; mostly ;  ; active}
+{people ; be ; mostly from uptown ;  ; active}
+{people ; be ; from uptown ;  ; active}
+{every  inch ;  be (complemented by) ; of that  floor ;  ; active}
+150	Leopold complained about this approach in the 1940's, saying the landowner had "an obligation to manage his land in the interest of the community, as well as in his own interest.
+{Leopold ; complain ; say that ;  ; active}
+{Leopold ; complain ; about this  approach ;  ; active}
+{Leopold ; complain ; say that about this  approach ;  ; active}
+{Leopold ; complain ; in 1940 ;  ; active}
+{Leopold ; complain ; say that in 1940 ;  ; active}
+{he ; have ; own interest ;  ; }
+{landowner ; have ; obligation ;  ; active}
+{obligation ; manage ; in interest of community, his own interest ;  ; active}
+{interest ;  be (complemented by) ; of community ;  ; active}
+{obligation ; manage ; his land in interest of community, his own interest ;  ; active}
+{obligation ; manage ; his land ;  ; active}
+{own ; is property of ; interest ;  ; }
+{Leopold ; say that ; landowner have  obligation to manage  his land in interest of community, his own interest ;  ; active}
+151	A 19th-century Chinese portrait and a Kenneth Noland painting of a bull's-eye dominate the living room, drawing the eye in both vertical and horizontal directions.
+{19th-century Chinese portrait ; dominate ; living room ;  ; active}
+{19th-century Chinese portrait ; dominate ; draw  eye in both vertical and horizontal directions ;  ; active}
+{19th-century Chinese portrait ; dominate ; living room draw  eye in both vertical and horizontal directions ;  ; active}
+{living room ; draw ; eye ;  ; active}
+{vertical ; is property of ; directions ;  ; }
+{living room ; draw ; eye in both vertical and horizontal directions ;  ; active}
+{living room ; draw ; in both vertical and horizontal directions ;  ; active}
+{living ; is property of ; room ;  ; }
+{Kenneth Noland painting of bull 's - eye ; dominate ; living room ;  ; active}
+{Kenneth Noland painting of bull 's - eye ; dominate ; draw  eye in both vertical and horizontal directions ;  ; active}
+{Kenneth Noland painting of bull 's - eye ; dominate ; living room draw  eye in both vertical and horizontal directions ;  ; active}
+{19th-century Chinese portrait,Kenneth Noland painting of bull 's - eye ; dominate ; living room ;  ; active}
+{19th-century Chinese portrait,Kenneth Noland painting of bull 's - eye ; dominate ; draw  eye in both vertical and horizontal directions ;  ; active}
+{19th-century Chinese portrait,Kenneth Noland painting of bull 's - eye ; dominate ; living room draw  eye in both vertical and horizontal directions ;  ; active}
+{19th-century ; is property of ; portrait ;  ; }
+{Chinese ; is property of ; portrait ;  ; }
+{Kenneth Noland painting ;  be (complemented by) ; of bull 's - eye ;  ; active}
+{bull ; have ; - eye ;  ; }
+152	"Feeders and Eaters," which opens with its narrator stranded late at night in the wrong part of town, is not particularly concerned with this character's trajectory, but with the story of an old acquaintance he meets at a squalid cafe, and the insatiably hungry woman his shadowy friend keeps at home.
+{Feeders ; be ;  ; late stranded  in wrong part of town ; active}
+{Eaters ; be ;  ; late stranded  in wrong part of town ; active}
+{Feeders,Eaters ; be ;  ; late stranded  in wrong part of town ; active}
+{Feeders ; open ; with its narrator ;  ; active}
+{its narrator ; strand ; in wrong part of town ;  ; passive}
+{wrong ; is property of ; part ;  ; }
+{its narrator ; strand ; late  at night in wrong part of town ;  ; passive}
+{its narrator ; strand ; late in wrong part of town ;  ; passive}
+{it ; have ; narrator ;  ; }
+{its narrator ; strand ; late  at night ;  ; passive}
+{its narrator ; strand ; late ;  ; passive}
+{wrong part ;  be (complemented by) ; of town ;  ; active}
+153	Mr. Kerik first came to know Mr. Giuliani when he provided security during his second mayoral campaign.
+{Mr. Kerik ; come ; first ;  ; active}
+{Mr. Kerik ; come ; to know  Mr. Giuliani he provide  security during his second mayoral campaign ;  ; active}
+{he ; provide ; security during his second mayoral campaign ;  ; active}
+{he ; provide ; Mr. Giuliani ;  ; active}
+{he ; have ; second mayoral campaign ;  ; }
+{mayoral ; is property of ; campaign ;  ; }
+{he ; provide ; Mr. Giuliani during his second mayoral campaign ;  ; active}
+{second ; is property of ; campaign ;  ; }
+{he ; provide ; security ;  ; active}
+{he ; provide ; during his second mayoral campaign ;  ; active}
+{Mr. Kerik ; know ; Mr. Giuliani ;  ; active}
+154	Targets in Kosovo province also came under sustained pounding, Serbian media said.
+{Targets in Kosovo province ; come under ; sustained ; also ; active}
+{Serbian media ; say ; sustained ;  ; active}
+{Serbian media ; say ;  ;  ; active}
+{pounding ; is property of ; sustained ;  ; }
+{Targets ;  be (complemented by) ; in Kosovo province ;  ; active}
+155	The statue stands 56 feet tall and was placed atop Red Mountain in 1936.
+{statue ; stand ; 56 feet tall ;  ; active}
+{statue ; place ; atop Red Mountain in 1936 ;  ; passive}
+{Red Mountain ;  be (complemented by) ; in 1936 ;  ; active}
+156	Otherwise, she could receive up to 25 years in prison.
+{she ; receive ; Otherwise ;  ; active}
+{she ; receive ; to 25 years in prison ;  ; active}
+{she ; receive ; Otherwise to 25 years in prison ;  ; active}
+{25 years ;  be (complemented by) ; in prison ;  ; active}
+157	The Yankees had erased an early 4-0 deficit and tied the game in the top of the ninth when Roberto Kelly smashed a two-run homer off the nearly invincible Gregg Olson.
+{Yankees ; erase ; early 4-0 deficit ;  ; active}
+{early ; is property of ; deficit ;  ; }
+{4-0 ; is property of ; deficit ;  ; }
+{Yankees ; tie ; game in top of ninth ;  ; active}
+{top ;  be (complemented by) ; of ninth ;  ; active}
+{game ;  be (complemented by) ; in top of ninth ;  ; active}
+{Roberto Kelly ; smash ; two-run homer off invincible Gregg Olson ;  ; active}
+{Roberto Kelly ; smash ; two-run homer ;  ; active}
+{invincible ; is property of ; Gregg Olson ;  ; }
+{Roberto Kelly ; smash ; off invincible Gregg Olson ;  ; active}
+{two-run ; is property of ; homer ;  ; }
+158	The United States has talked tough on trade during eight months of negotiations, but Japan has called its bluff and has yielded virtually nothing.
+{United States ; talk ; tough on trade ;  ; active}
+{United States ; talk ; during eight months of negotiations ;  ; active}
+{United States ; talk ; tough on trade during eight months of negotiations ;  ; active}
+{United States ; talk ; Japan has call  its bluff , has yield ;  ; active}
+{United States ; talk ; Japan has call  its bluff , has yield during eight months of negotiations ;  ; active}
+{eight months ;  be (complemented by) ; of negotiations ;  ; active}
+{it ; have ; bluff ;  ; }
+{Japan ; call ; its bluff ;  ; active}
+{Japan ; yield ;  ;  ; active}
+159	The day after the Bulls' Dennis Rodman suggested that they were "yellow" in Tuesday's night's loss to Chicago, the Knicks laughed it off as Rodman merely being Rodman.
+{Knicks ; laugh ; it ;  ; active}
+{Knicks ; laugh ; off as Rodman ;  ; active}
+{Knicks ; laugh ; it off as Rodman ;  ; active}
+{off ;  be (complemented by) ; as Rodman ;  ; active}
+{yellow ;  be (complemented by) ; in night 's loss to Chicago ;  ; active}
+{they ; be ; in night 's loss to Chicago ;  ; active}
+{Bulls ; have ; Dennis Rodman ;  ; }
+{night ; have ; loss ;  ; }
+{Bulls ' Dennis Rodman ; suggest + doing sth ; they be  yellow in night 's loss to Chicago in night 's loss to Chicago ;  ; active}
+{Bulls ' Dennis Rodman ; suggest + doing sth ; yellow in night 's loss to Chicago ;  ; active}
+{night 's loss ;  be (complemented by) ; to Chicago ;  ; active}
+{they ; be ; yellow in night 's loss to Chicago ;  ; active}
+160	Unlike the Rangers, that is one commodity Steinbrenner doesn't seem bent on buying, no matter how good the price.
+{that ; be ; one commodity ;  ; active}
+{that ; be ; unlike Rangers ;  ; active}
+{that ; be ; one commodity unlike Rangers ;  ; active}
+161	They maintain that this "negligent distribution" makes the companies collectively liable for the shootings in the case -- even if it cannot be proven which company's gun was used in a given shooting -- an argument that legal experts term novel in gun litigation.
+{They ; maintain ; this negligent distribution make  companies it not can prove  even ;  ; active}
+{company 's gun ; use ; which in given shooting ;  ; passive}
+{company ; have ; gun ;  ; }
+{given ; is property of ; shooting ;  ; }
+{it ; not prove ; even ;  ; passive}
+{company 's gun ; use ; in given shooting ;  ; passive}
+{this negligent distribution ; make ; companies ;  ; active}
+{company 's gun ; use ; which ;  ; passive}
+{negligent ; is property of ; distribution ;  ; }
+{it ; not prove ; company 's gun use  which in given shooting ;  ; passive}
+162	The Russian Parliament voted Wednesday to contribute only 23.4 billion rubles for the coming year, less than a 10th of the total budget for the year.
+{Russian Parliament ; vote ; Wednesday ;  ; active}
+{Russian Parliament ; vote ; to contribute  23.4 billion rubles for coming year than 10th of total budget for year ;  ; active}
+{23.4 billion rubles ;  be (complemented by) ; than 10th of total budget for year ;  ; active}
+{10th ;  be (complemented by) ; of total budget for year ;  ; active}
+{total budget ;  be (complemented by) ; for year ;  ; active}
+{Wednesday ; contribute ; 23.4 billion rubles for coming year than 10th of total budget for year ;  ; active}
+{23.4 billion rubles ;  be (complemented by) ; for coming year ;  ; active}
+{coming ; is property of ; year ;  ; }
+{total ; is property of ; budget ;  ; }
+{23.4 billion rubles ;  be (complemented by) ; for coming year than 10th of total budget for year ;  ; active}
+163	Tierney Finn, an actress, and Mark Fitzmartin, a television commercial producer for Fernbach Productions in New York, both graduates of New York University's Tisch School of the Arts, were married yesterday in Holy Trinity Chapel at N.Y.U.
+{Tierney Finn ; marry ; yesterday ;  ; passive}
+{Tierney Finn ; marry ; in Holy Trinity Chapel at N.Y.U ;  ; passive}
+{Tierney Finn ; marry ; yesterday in Holy Trinity Chapel at N.Y.U ;  ; passive}
+{Holy Trinity Chapel ;  be (complemented by) ; at N.Y.U ;  ; active}
+{actress ; marry ; yesterday ;  ; passive}
+{actress ; marry ; in Holy Trinity Chapel at N.Y.U ;  ; passive}
+{actress ; marry ; yesterday in Holy Trinity Chapel at N.Y.U ;  ; passive}
+{Mark Fitzmartin ; marry ; yesterday ;  ; passive}
+{Mark Fitzmartin ; marry ; in Holy Trinity Chapel at N.Y.U ;  ; passive}
+{Mark Fitzmartin ; marry ; yesterday in Holy Trinity Chapel at N.Y.U ;  ; passive}
+{television producer for Fernbach Productions in New York ; marry ; yesterday ;  ; passive}
+{television producer for Fernbach Productions in New York ; marry ; in Holy Trinity Chapel at N.Y.U ;  ; passive}
+{television producer for Fernbach Productions in New York ; marry ; yesterday in Holy Trinity Chapel at N.Y.U ;  ; passive}
+{both  graduates of New York University 's Tisch School of Arts ; marry ; yesterday ;  ; passive}
+{both  graduates of New York University 's Tisch School of Arts ; marry ; in Holy Trinity Chapel at N.Y.U ;  ; passive}
+{both  graduates of New York University 's Tisch School of Arts ; marry ; yesterday in Holy Trinity Chapel at N.Y.U ;  ; passive}
+{Tierney Finn,actress,Mark Fitzmartin,television producer for Fernbach Productions in New York,both  graduates of New York University 's Tisch School of Arts ; marry ; yesterday ;  ; passive}
+{Tierney Finn,actress,Mark Fitzmartin,television producer for Fernbach Productions in New York,both  graduates of New York University 's Tisch School of Arts ; marry ; in Holy Trinity Chapel at N.Y.U ;  ; passive}
+{Tierney Finn,actress,Mark Fitzmartin,television producer for Fernbach Productions in New York,both  graduates of New York University 's Tisch School of Arts ; marry ; yesterday in Holy Trinity Chapel at N.Y.U ;  ; passive}
+{both  graduates ;  be (complemented by) ; of New York University 's Tisch School of Arts ;  ; active}
+{television producer ;  be (complemented by) ; for Fernbach Productions in New York ;  ; active}
+{commercial ; is property of ; television producer ;  ; }
+{New York University ; have ; Tisch School ;  ; }
+{Fernbach Productions ;  be (complemented by) ; in New York ;  ; active}
+{New York University 's Tisch School ;  be (complemented by) ; of Arts ;  ; active}
+164	Jesse Jackson and one of his campaign fund-raisers misstated the history of Mr. Jackson's requests for permission to visit South Africa.
+{Jesse Jackson ; misstate ; history of Mr. Jackson 's requests ;  ; active}
+{Jesse Jackson ; misstate ; for permission ;  ; active}
+{Jesse Jackson ; misstate ; history of Mr. Jackson 's requests for permission ;  ; active}
+{Jesse Jackson ; misstate ; to visit  South Africa ;  ; active}
+{Jesse Jackson ; misstate ; to visit  South Africa for permission ;  ; active}
+{Jesse Jackson ; misstate ; history of Mr. Jackson 's requests to visit  South Africa ;  ; active}
+{Jesse Jackson ; misstate ; history of Mr. Jackson 's requests to visit  South Africa for permission ;  ; active}
+{permission ; visit ; South Africa ;  ; active}
+{Mr. Jackson ; have ; requests ;  ; }
+{history ;  be (complemented by) ; of Mr. Jackson 's requests ;  ; active}
+{one of his campaign fund-raisers ; misstate ; history of Mr. Jackson 's requests ;  ; active}
+{one of his campaign fund-raisers ; misstate ; for permission ;  ; active}
+{one of his campaign fund-raisers ; misstate ; history of Mr. Jackson 's requests for permission ;  ; active}
+{one of his campaign fund-raisers ; misstate ; to visit  South Africa ;  ; active}
+{one of his campaign fund-raisers ; misstate ; to visit  South Africa for permission ;  ; active}
+{one of his campaign fund-raisers ; misstate ; history of Mr. Jackson 's requests to visit  South Africa ;  ; active}
+{one of his campaign fund-raisers ; misstate ; history of Mr. Jackson 's requests to visit  South Africa for permission ;  ; active}
+{Jesse Jackson,one of his campaign fund-raisers ; misstate ; history of Mr. Jackson 's requests ;  ; active}
+{Jesse Jackson,one of his campaign fund-raisers ; misstate ; for permission ;  ; active}
+{Jesse Jackson,one of his campaign fund-raisers ; misstate ; history of Mr. Jackson 's requests for permission ;  ; active}
+{Jesse Jackson,one of his campaign fund-raisers ; misstate ; to visit  South Africa ;  ; active}
+{Jesse Jackson,one of his campaign fund-raisers ; misstate ; to visit  South Africa for permission ;  ; active}
+{Jesse Jackson,one of his campaign fund-raisers ; misstate ; history of Mr. Jackson 's requests to visit  South Africa ;  ; active}
+{Jesse Jackson,one of his campaign fund-raisers ; misstate ; history of Mr. Jackson 's requests to visit  South Africa for permission ;  ; active}
+{one ;  be (complemented by) ; of his campaign fund-raisers ;  ; active}
+{he ; have ; campaign fund-raisers ;  ; }
+165	I'm tickled to death that he's coming back because he should be back.
+{I ; tickle ; he 's come back ;  ; passive}
+{I ; tickle ; to death ;  ; passive}
+{I ; tickle ; he 's come back to death ;  ; passive}
+{he ; be ; back ;  ; active}
+{he ; come back ; back he should be  back ;  ; active}
+166	Many Schubert admirers I know, however, would be ecstatic to learn that their idol was a fellow homosexual, who acted on his sexuality with joy and pride.
+{Many Schubert admirers however ; be ; ecstatic to ;  ; active}
+{fellow homosexual ; act on ; his sexuality with joy, pride ;  ; active}
+{fellow ; is property of ; homosexual ;  ; }
+{fellow homosexual ; act on ; with joy, pride ;  ; active}
+{they ; have ; idol ;  ; }
+{he ; have ; sexuality ;  ; }
+{fellow homosexual ; act on ; his sexuality ;  ; active}
+{their idol ; be ; fellow homosexual ;  ; active}
+{I ; know ; Many Schubert admirers however ;  ; active}
+{I ; know ;  ;  ; active}
+{however ; be ; Schubert admirers ;  ; active}
+{Many ; is property of ; Schubert admirers however ;  ; }
+167	He graduated summa cum laude from the University of California, Los Angeles.
+{He ; graduate ; summa cum laude ;  ; active}
+{He ; graduate ; from University of California Los Angeles ;  ; active}
+{He ; graduate ; summa cum laude from University of California Los Angeles ;  ; active}
+{California Los Angeles ;  be  ; Los ;  ; active}
+{University ;  be (complemented by) ; of California Los Angeles ;  ; active}
+{summa ; is property of ; cum laude ;  ; }
+168	He washed dishes and chopped vegetables for a year before getting a scholarship to attend the State University of New York at Oneonta.
+{He ; wash ; dishes ;  ; active}
+{He ; wash ; for year ;  ; active}
+{He ; wash ; dishes for year ;  ; active}
+{He ; wash ; chopped vegetables ;  ; active}
+{He ; wash ; chopped vegetables for year ;  ; active}
+{He ; wash ; dishes,chopped vegetables ;  ; active}
+{He ; wash ; dishes,chopped vegetables for year ;  ; active}
+{He ; get ; scholarship ;  ; active}
+{scholarship ; attend ; State University of New York ;  ; active}
+{scholarship ; attend ; at Oneonta ;  ; active}
+{scholarship ; attend ; State University of New York at Oneonta ;  ; active}
+169	She was a continuing source of love, kindness and generosity who never failed to nurture her adoring family.
+{She ; be ; continuing source of love ,kindness ,generosity ;  ; active}
+{She ; be ; of love, kindness, generosity ;  ; active}
+{She ; be ; continuing source of love ,kindness ,generosity of love, kindness, generosity ;  ; active}
+{continuing source ; not fail ; to nurture  her adoring family ;  ; active}
+{continuing source ;  be (complemented by) ; of love ,kindness ,generosity ;  ; active}
+{continuing ; is property of ; source ;  ; }
+{adoring ; is property of ; family ;  ; }
+{she ; have ; adoring family ;  ; }
+170	There is a mind-bending illogic behind the Bush administration's decision yesterday to withhold $34 million from the United Nations Population Fund, which is working in China despite continued practices there of coerced abortion and sterilization.
+{mind-bending illogic yesterday behind Bush administration 's decision ; be ;  ;  ; active}
+{mind-bending ; is property of ; illogic yesterday ;  ; }
+{Bush administration ; have ; decision ;  ; }
+{mind-bending illogic yesterday ;  be (complemented by) ; behind Bush administration 's decision ;  ; active}
+{yesterday ; be ; illogic ;  ; active}
+171	In 1954, the committee presented a $100 million improvement plan and obtained legislation to set up a nondividend paying corporation to borrow the funds to create a new Aqueduct and to improve Belmont and Saratoga race tracks.
+{committee ; present ; $ 100 million improvement plan ;  ; active}
+{committee ; present ; in 1954 ;  ; active}
+{committee ; present ; $ 100 million improvement plan in 1954 ;  ; active}
+{$ ; is property of ; improvement plan ;  ; }
+{committee ; obtain ; legislation ;  ; active}
+{committee ; obtain ; to set up nondividend pay  corporation to borrow ;  ; active}
+{committee ; obtain ; legislation to set up nondividend pay  corporation to borrow ;  ; active}
+{legislation ; set up ; nondividend ;  ; active}
+{nondividend ; pay ; corporation ;  ; passive}
+{nondividend ; pay ; to borrow ;  ; passive}
+{nondividend ; pay ; corporation to borrow ;  ; passive}
+172	She is a daughter of Mr. and Mrs. Francis T. Doyen of Fishers Island.
+{She ; be ; daughter of Mr. ,Mrs. Francis T. Doyen of Fishers Island ;  ; active}
+{Mrs. Francis T. Doyen ;  be (complemented by) ; of Fishers Island ;  ; active}
+{daughter ;  be (complemented by) ; of Mr. ;  ; active}
+173	The Roman Catholic Church denied Tuesday that it was sheltering a top Croatian war crimes suspect, after an allegation by a United Nations prosecutor that the suspect was hiding in a monastery and that the Vatican had refused pleas to help find him.
+{Roman Catholic Church ; deny + doing sth ; Tuesday ;  ; active}
+{Roman Catholic Church ; deny + doing sth ; it shelter ;  ; active}
+{top Croatian war crimes ; refuse ; pleas ;  ; active}
+{top Croatian war crimes ; refuse ; to help ;  ; active}
+{top Croatian war crimes ; suspect ; suspect was hide   in monastery by United Nations prosecutor ;  ; active}
+{suspect ; hide ; in monastery ;  ; active}
+{top Croatian war crimes ; refuse ; pleas to help ;  ; active}
+{top Croatian war crimes ; suspect ; after allegation ;  ; active}
+{top Croatian war crimes ; suspect ; suspect was hide   in monastery after allegation ;  ; active}
+{top Croatian war crimes ; suspect ; after allegation by United Nations prosecutor ;  ; active}
+{top ; is property of ; Croatian war crimes ;  ; }
+{top Croatian war crimes ; suspect ; suspect was hide   in monastery ;  ; active}
+{top Croatian war crimes ; suspect ; by United Nations prosecutor ;  ; active}
+{pleas ; help ; find  him ;  ; active}
+{it ; shelter ; top Croatian war crimes suspect   after allegation by United Nations prosecutor , had refuse  pleas to help ;  ; active}
+174	While the Christmas-New Year's season is always a slack time for most lines of work, it's even more so when the holidays break two consecutive normal weeks into four discombobulating two-day weeks.
+{it ; be ; so even more ; always time  for always a slack time for most lines of work ; active}
+175	Then another musical selection served as a prelude to scenes from a comic dance-drama in the folk style.
+{musical ; is property of ; selection ;  ; }
+{another musical selection ; serve ; as prelude ;  ; active}
+{another musical selection ; serve ; to scenes ;  ; active}
+{comic ; is property of ; dance-drama ;  ; }
+{another musical selection ; serve ; from comic dance-drama in folk style ;  ; active}
+{comic dance-drama ;  be (complemented by) ; in folk style ;  ; active}
+176	Divertimento" from "Le Baiser de la Fee," presented by the New York City Ballet on Wednesday night at the New York State Theater, is one of George Balanchine's odder ballets.
+{Divertimento from Le Baiser de la Fee at New York State Theater ; be ; one of George Balanchine 's odder ballets ;  ; active}
+{George Balanchine ; have ; odder ballets ;  ; }
+{Divertimento ;  be (complemented by) ; from Le Baiser de la Fee at New York State Theater ;  ; active}
+{Le Baiser de la Fee ;  be (complemented by) ; at New York State Theater ;  ; active}
+177	The consortium, called CityLink Telecommunications Ltd., has pledged to invest $568 million to upgrade the telecommunication capabilities of the subway system, which is being overhauled, and maintain it for 20 years.
+{consortium ; pledged to invest ; $ 568 million ;  ; active}
+{consortium ; pledged to invest ; to upgrade  telecommunication capabilities of subway system ;  ; active}
+{consortium ; pledged to invest ; $ 568 million to upgrade  telecommunication capabilities of subway system ;  ; active}
+{subway system ; overhaul ;  ;  ; passive}
+{telecommunication ; is property of ; capabilities ;  ; }
+{telecommunication capabilities ;  be (complemented by) ; of subway system ;  ; active}
+{consortium ; call ; CityLink Telecommunications Ltd. ;  ; active}
+178	Today's bet is that the promise of sending British or German or American troops to defend Warsaw or Prague against an unnamed enemy will not only make that unnecessary but will also help to entrench democracy and a free market system in Eastern Europe.
+{Today 's bet ; be ; promise of sending not will make  unnecessary only ;  ; active}
+{unnamed ; is property of ; enemy ;  ; }
+{promise of sending ; not make ; will help  also , to entrench  democracy, free market system in Eastern Europe ;  ; active}
+{promise ; defend ; Warsaw,Prague ;  ; active}
+{promise ; send ; to defend  Warsaw, Prague against unnamed enemy ;  ; active}
+{promise ; send ; British,German or American troops to defend  Warsaw, Prague against unnamed enemy ;  ; active}
+{promise ; defend ; Warsaw against unnamed enemy ;  ; active}
+{promise ; defend ; Warsaw,Prague against unnamed enemy ;  ; active}
+{promise ; defend ; Prague ;  ; active}
+{promise of sending ; not make ; unnecessary ;  ; active}
+{promise ; defend ; against unnamed enemy ;  ; active}
+{free ; is property of ; market system ;  ; }
+{promise ; send ; British ;  ; active}
+{promise ; defend ; Prague against unnamed enemy ;  ; active}
+{German ; is property of ; troops ;  ; }
+{promise ;  be (complemented by) ; of sending ;  ; active}
+{promise ; defend ; Warsaw ;  ; active}
+{promise of sending ; not make ; only ;  ; active}
+{promise ; send ; German or American troops ;  ; active}
+{Today ; have ; bet ;  ; }
+179	It may seem as if she did not need the training, but it is already paying off.
+180	His staging has a touch of Broadway corn, with six choreographed female dancers.
+{His staging ; have ; touch of Broadway corn ;  ; active}
+{His staging ; have ; with six choreographed female dancers ;  ; active}
+{His staging ; have ; touch of Broadway corn with six choreographed female dancers ;  ; active}
+{female ; is property of ; dancers ;  ; }
+{choreographed ; is property of ; dancers ;  ; }
+{touch ;  be (complemented by) ; of Broadway corn ;  ; active}
+{His ; have ; staging ;  ; }
+181	Nightmarish Soviet-style bureaucratic controls remain, like needing a special government permit to buy a delivery van.
+{Nightmarish Soviet-style bureaucratic controls ; need ; special government permit   , to buy  delivery van ;  ; active}
+{special government ; permit ; to buy  delivery van ;  ; active}
+{special ; is property of ; government ;  ; }
+{special government ; buy ; delivery van ;  ; active}
+{Nightmarish ; is property of ; controls ;  ; }
+{Soviet-style ; is property of ; controls ;  ; }
+{bureaucratic ; is property of ; controls ;  ; }
+182	The Daisy Systems Corporation said today that some of its bondholders had filed a petition for involuntary bankruptcy against the computer company.
+{Daisy Systems Corporation ; say that ; some of its bondholders had file  petition for involuntary bankruptcy against computer company ;  ; active}
+{petition ;  be (complemented by) ; for involuntary bankruptcy ;  ; active}
+{some ;  be (complemented by) ; of its bondholders ;  ; active}
+{some of its bondholders ; file ; petition for involuntary bankruptcy against computer company ;  ; active}
+{some of its bondholders ; file ; petition for involuntary bankruptcy ;  ; active}
+{involuntary ; is property of ; bankruptcy ;  ; }
+{some of its bondholders ; file ; against computer company ;  ; active}
+{it ; have ; bondholders ;  ; }
+183	The Digital Domain column last Sunday, about Craigslist, the online bulletin board, misstated the name of a consulting firm that found in a survey last fall that many newspaper industry executives were unaware of the site's arrival in their cities.
+{Digital Domain column last  Sunday about Craigslist ; misstate ; name of consulting firm ;  ; active}
+{consulting firm ; find ; many newspaper industry executives be  unaware of site 's arrival of site 's arrival in their cities ;  ; active}
+{consulting firm ; find ; in survey ;  ; active}
+{consulting firm ; find ; unaware of site 's arrival in their cities in survey ;  ; active}
+{unaware ;  be (complemented by) ; of site 's arrival ;  ; active}
+{unaware ;  be (complemented by) ; in their cities ;  ; active}
+{consulting ; is property of ; firm ;  ; }
+{consulting firm ; find ; unaware of site 's arrival in their cities ;  ; active}
+{consulting firm ; find ; many newspaper industry executives be  unaware of site 's arrival of site 's arrival in their cities in survey ;  ; active}
+{many newspaper industry executives ; be ; unaware of site 's arrival in their cities ;  ; active}
+{site ; have ; arrival ;  ; }
+{unaware ;  be (complemented by) ; of site 's arrival in their cities ;  ; active}
+{many newspaper industry executives ; be ; in their cities ;  ; active}
+{they ; have ; cities ;  ; }
+{many newspaper industry executives ; be ; of site 's arrival in their cities ;  ; active}
+{many ; is property of ; newspaper industry executives ;  ; }
+{many newspaper industry executives ; be ; of site 's arrival ;  ; active}
+{many newspaper industry executives ; be ; unaware of site 's arrival ;  ; active}
+{name ;  be (complemented by) ; of consulting firm ;  ; active}
+{online ; is property of ; bulletin board ;  ; }
+{Digital Domain column last  Sunday about Craigslist ;  be  ; online bulletin board ;  ; active}
+{last  Sunday ; be ; Digital Domain column ;  ; active}
+{Digital Domain column last  Sunday ;  be (complemented by) ; about Craigslist ;  ; active}
+184	A review on June 29, about two books on German musicians and music in the Nazi period, referred incorrectly to Fred K. Prieberg's 1982 German book on those subjects.
+{review on June 29 ; refer ; incorrectly ;  ; active}
+{review on June 29 ; refer ; to Fred K. Prieberg 's 1982 German book ;  ; active}
+{review on June 29 ; refer ; incorrectly to Fred K. Prieberg 's 1982 German book ;  ; active}
+{review on June 29 ; refer ; on those  subjects ;  ; active}
+{review on June 29 ; refer ; incorrectly on those  subjects ;  ; active}
+{Fred K. Prieberg ; have ; 1982 German book ;  ; }
+{German ; is property of ; book ;  ; }
+{review ;  be (complemented by) ; on June 29 ;  ; active}
+{German ; is property of ; musicians ;  ; }
+{two books ;  be (complemented by) ; on German musicians ;  ; active}
+{review on June 29 ;  be  ; two books on German musicians ;  ; active}
+185	Hayden's Point was built by James Gamble Rogers for Chet Bowles, and it was never meant to be a showplace.
+{Hayden 's Point ; build ; James Gamble Rogers for Chet Bowles ;  ; passive}
+{Hayden 's Point ; build ; by James Gamble Rogers for Chet Bowles ;  ; passive}
+{James Gamble Rogers ;  be (complemented by) ; for Chet Bowles ;  ; active}
+{Hayden 's Point ; not mean ; showplace ;  ; passive}
+{Hayden ; have ; Point ;  ; }
+186	Bennett confirmed when he addressed the Township Council tonight that the United States attorney's office had requested information from the township.
+{Bennett ; confirm that ; when he address  tonight United States attorney 's officeTownship Council ;  ; active}
+{he ; address ; tonight United States attorney 's office ;  ; active}
+{he ; address ; tonight ;  ; active}
+{he ; address ; Township Council ;  ; active}
+{he ; address ; United States attorney 's office ;  ; active}
+{United States attorney ; have ; office ;  ; }
+187	In 1964, he joined CBS News as an associate producer of "CBS News With Walter Cronkite" in Washington, and he later became the producer for White House correspondent Dan Rather, now CBS's weekday anchor, during the Nixon Administration.
+{he ; join ; CBS News ;  ; active}
+{he ; join ; in 1964 ;  ; active}
+{he ; join ; CBS News in 1964 ;  ; active}
+{he ; join ; as associate producer of CBS News with Walter Cronkite ;  ; active}
+{he ; join ; CBS News as associate producer of CBS News with Walter Cronkite ;  ; active}
+{he ; join ; in Washington ;  ; active}
+{he ; join ; CBS News in Washington ;  ; active}
+{CBS News ;  be (complemented by) ; with Walter Cronkite ;  ; active}
+{associate ; is property of ; producer ;  ; }
+{associate producer ;  be (complemented by) ; of CBS News with Walter Cronkite ;  ; active}
+{he ; become ; producer ;  ; active}
+{he ; become ; for White House correspondent Dan Rather ;  ; active}
+{he ; become ; producer for White House correspondent Dan Rather ;  ; active}
+{he ; become ; during Nixon Administration ;  ; active}
+{he ; become ; producer during Nixon Administration ;  ; active}
+{he ; become ; later ;  ; active}
+{he ; become ; later for White House correspondent Dan Rather ;  ; active}
+{he ; become ; later during Nixon Administration ;  ; active}
+{White House correspondent Dan Rather ;  be  ; now CBS 's weekday anchor ;  ; active}
+188	Her subjects were friends and artists who posed for her in their "Full Monty" glory.
+{Her subjects ; be ; friends ,artists ;  ; active}
+{friends ; pose ; for her in their `` Full Monty glory ;  ; active}
+{they ; have ; `` Full Monty  glory ;  ; }
+{friends ; pose ; for her ;  ; active}
+{friends ; pose ; in their `` Full Monty glory ;  ; active}
+{Her ; have ; subjects ;  ; }
+189	Justice Charles R. Alberti, a retired associate justice of the Massachusetts Superior Court in Pittsfield, performed the ceremony at the home of the bride's parents.
+{Justice Charles R. Alberti ; perform ; ceremony ;  ; active}
+{Justice Charles R. Alberti ; perform ; at home of bride 's parents ;  ; active}
+{Justice Charles R. Alberti ; perform ; ceremony at home of bride 's parents ;  ; active}
+{bride ; have ; parents ;  ; }
+{home ;  be (complemented by) ; of bride 's parents ;  ; active}
+{retired associate justice ;  be (complemented by) ; of Massachusetts Superior Court ;  ; active}
+{retired associate justice ;  be (complemented by) ; in Pittsfield ;  ; active}
+{associate ; is property of ; justice ;  ; }
+{retired ; is property of ; justice ;  ; }
+{Justice Charles R. Alberti ;  be  ; retired associate justice of Massachusetts Superior Court in Pittsfield ;  ; active}
+{retired associate justice ;  be (complemented by) ; of Massachusetts Superior Court in Pittsfield ;  ; active}
+190	David Johansen's latest genre excursion heads for the recorded roots of American music: the blues, ballads, country and gospel songs, full of murder and adultery and hope for redemption, that were collected by Harry Smith for his Anthology of American Folk Music, a foundation of the 1950's folk revival.
+{David Johansen 's latest genre excursion ; head ; for recorded roots of American music, blues full of murder ,adultery, hope for redemption ;  ; active}
+{blues full of murder ,adultery ;  be  ; ballads ,country & gospel songs ;  ; active}
+{his Anthology ;  be (complemented by) ; of American Folk Music ;  ; active}
+{hope ;  be (complemented by) ; for redemption ;  ; active}
+{recorded roots ;  be (complemented by) ; of American music ;  ; active}
+{1950 ; have ; folk revival ;  ; }
+{full ; be ; blues ;  ; active}
+{he ; have ; Anthology ;  ; }
+{redemption ; collect ; Harry Smith for his Anthology of American Folk Music ;  ; passive}
+{blues full ;  be (complemented by) ; of murder ,adultery ;  ; active}
+{redemption ; collect ; by Harry Smith for his Anthology of American Folk Music ;  ; passive}
+{American ; is property of ; music ;  ; }
+{Harry Smith ;  be (complemented by) ; for his Anthology of American Folk Music ;  ; active}
+{recorded ; is property of ; roots ;  ; }
+{American Folk Music ;  be  ; foundation of 1950 's folk revival ;  ; active}
+{foundation ;  be (complemented by) ; of 1950 's folk revival ;  ; active}
+{David Johansen ; have ; latest genre excursion ;  ; }
+{latest ; is property of ; genre excursion ;  ; }
+191	Ford shares fell 2 cents, to $9.96.
+{Ford shares ; fall ; 2 cents ;  ; active}
+{Ford shares ; fall ; to $ 9.96 ;  ; active}
+{Ford shares ; fall ; 2 cents to $ 9.96 ;  ; active}
+192	Bic is being sued by people who say their lighters exploded, causing burns, and in some cases, death.
+{Bic ; sue ; people ;  ; passive}
+{Bic ; sue ; by people ;  ; passive}
+{they ; have ; lighters ;  ; }
+{people ; say that ; their lighters explode   ,  cause  burns, death ;  ; active}
+{their lighters ; cause ; death ;  ; active}
+{their lighters ; cause ; burns ;  ; active}
+{their lighters ; cause ; burns,death ;  ; active}
+{their lighters ; explode ; cause  burns, death ;  ; active}
+193	Indeed, they were treated more fairly than Lawrence H. Summers, the president of Harvard, has been treated by his faculty.
+{they ; treat ; Indeed ;  ; passive}
+194	With the Jets' training camp opening next Monday, Hadley Engelhard, the agent for the team's first-round draft pick, Dewayne Robertson, will arrive in New York today and expects to meet with the Jets tomorrow in an effort to start contract negotiations.
+{Hadley Engelhard ; arrive in ; New York today ;  ; active}
+{Hadley Engelhard ; arrive in ; with Jets ' training camp opening ;  ; active}
+{Hadley Engelhard ; arrive in ; New York today with Jets ' training camp opening ;  ; active}
+{Jets ; have ; training camp opening ;  ; }
+{Hadley Engelhard ; expect ; to meet with Jets tomorrow in effort ;  ; active}
+{effort ; start ; contract negotiations ;  ; active}
+{agent for team 's first-round draft pick ; arrive in ; New York today ;  ; active}
+{agent for team 's first-round draft pick ; arrive in ; with Jets ' training camp opening ;  ; active}
+{agent for team 's first-round draft pick ; arrive in ; New York today with Jets ' training camp opening ;  ; active}
+{agent for team 's first-round draft pick ; expect ; to meet with Jets tomorrow in effort ;  ; active}
+{Hadley Engelhard,agent for team 's first-round draft pick ; arrive in ; New York today ;  ; active}
+{Hadley Engelhard,agent for team 's first-round draft pick ; arrive in ; with Jets ' training camp opening ;  ; active}
+{Hadley Engelhard,agent for team 's first-round draft pick ; arrive in ; New York today with Jets ' training camp opening ;  ; active}
+{Hadley Engelhard,agent for team 's first-round draft pick ; expect ; to meet with Jets tomorrow in effort ;  ; active}
+{team 's first-round draft pick ;  be  ; Dewayne Robertson ;  ; active}
+{agent ;  be (complemented by) ; for team 's first-round draft pick ;  ; active}
+{team ; have ; first-round draft pick ;  ; }
+{first-round ; is property of ; draft pick ;  ; }
+195	A winner will be announced in October.
+{winner ; announce ; in October ;  ; passive}
+196	Until the investigation is completed and the I.A.A.F. convenes in London April 15 to decide her case, the federation has instructed the British Amateur Athletic Board to withdraw Budd from all international competition.
+{federation ; instruct + s.o to do sth ; British Amateur Athletic Board ;  ; active}
+{federation ; instruct + s.o to do sth ; to withdraw  Budd from all international competition ;  ; active}
+{federation ; instruct + s.o to do sth ; British Amateur Athletic Board to withdraw  Budd from all international competition ;  ; active}
+{British Amateur Athletic Board ; withdraw ; Budd from all international competition ;  ; active}
+{international ; is property of ; competition ;  ; }
+{British Amateur Athletic Board ; withdraw ; Budd ;  ; active}
+{British Amateur Athletic Board ; withdraw ; from all international competition ;  ; active}
+{Amateur ; is property of ; Athletic Board ;  ; }
+{British ; is property of ; Athletic Board ;  ; }
+{investigation ; complete ;  ;  ; passive}
+{investigation ; convene ; in London 15  April ;  ; active}
+{15  April ; be ; London ;  ; active}
+197	The bride is the stepdaughter of Richard L. Harris.
+{bride ; be ; stepdaughter of Richard L. Harris ;  ; active}
+{stepdaughter ;  be (complemented by) ; of Richard L. Harris ;  ; active}
+198	But how about Bodynet, an enveloping computer web in which your wireless-data telephone might actually be a hat?
+{enveloping computer ; web ; actually be a hat ; how about ; active}
+{enveloping computer ; web ; your wireless-data telephone be  actually be a hat in which ; how about ; active}
+{your wireless-data telephone ; be ; actually be a hat ;  ; active}
+{your wireless-data telephone ; be ; actually be a hat in which ;  ; active}
+{you ; have ; wireless-data telephone ;  ; }
+{your wireless-data telephone ; be ; in which ;  ; active}
+{wireless-data ; is property of ; telephone ;  ; }
+{enveloping ; is property of ; computer ;  ; }
+199	Mr. Parkin's office was also searched by the F.B.I.
+{Mr. Parkin 's office ; search ; F.B.I ;  ; passive}
+{Mr. Parkin 's office ; search ; also ;  ; passive}
+{Mr. Parkin 's office ; search ; by F.B.I ;  ; passive}
+{Mr. Parkin ; have ; office ;  ; }
+200	General Blevins agreed and said he would strike with a tank regiment held in reserve as well as with helicopters and Air Force support.
+{General Blevins ; agree ;  ;  ; active}
+{General Blevins ; say that ; he would strike   with tank regiment ;  ; active}
+{he ; strike ; with tank regiment ;  ; active}
+{tank regiment ; hold ; with helicopters, Air Force support ;  ; active}
+{tank regiment ; hold ; in reserve ;  ; active}

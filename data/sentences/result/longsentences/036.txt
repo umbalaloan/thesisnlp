@@ -1,0 +1,5 @@
+At one time, Sun made most of its Java implementations available without charge, despite their proprietary software status
+{"advClause":null,"clauses":[{"subject":{"nplist":[{"singleNPList":[{"headNoun":" Sun","premodifier":"  "}],"sbarNP":null,"prepPhrase":null}],"sbarSubj":null,"subjVoice":1},"predicate":{"vpList":[{"aux":null,"posNeg":0,"partical":"","patternType":1,"verb":{"verbName":"made","verbVoice":"active","verbType":1,"stemmedVerb":"make"},"indirectObj":null,"directObj":null,"complement":{"compNN":[],"compAdjPhrase":null,"compAdvPhrase":null}}],"listPrepPhrase":[{"prep":"at","nounPhrase":{"singleNPList":[{"headNoun":" time","premodifier":" one "}],"sbarNP":null,"prepPhrase":null},"sbarPrepPhrase":null},{"prep":"despite","nounPhrase":{"singleNPList":[{"headNoun":" software status","premodifier":"their  proprietary"}],"sbarNP":null,"prepPhrase":null},"sbarPrepPhrase":null}],"advClause":null,"adv":" "}}],"conjunctionList":[]}
+{     Sun,  } , ; ,make , ; ,,;,, ; ,active
+{     Sun,  } , ; ,make , ; ,,;,at {  one   time,  } , ; ,active
+{     Sun,  } , ; ,make , ; ,,;,despite { their  proprietary  software status,  } , ; ,active

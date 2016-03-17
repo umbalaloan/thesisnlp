@@ -1,0 +1,1534 @@
+1	Henry was Governor Edwin Washington Edwards's choice for Speaker.
+{Henry ; be ; Governor Edwin Washington Edwards 's choice for Speaker ;  ; active}
+{Governor Edwin Washington Edwards ; have ; choice ;  ; }
+{Governor Edwin Washington Edwards 's choice ;  be (complemented by) ; for Speaker ;  ; active}
+2	Mrs. Yogeswaran was shot five times with a pistol near her Jaffna home on May 17, 1998.
+{Mrs. Yogeswaran ; shoot ; times shot five times ;  ; passive}
+{Mrs. Yogeswaran ; shoot ; with pistol near her Jaffna home ;  ; passive}
+{Mrs. Yogeswaran ; shoot ; times shot five times with pistol near her Jaffna home ;  ; passive}
+{Mrs. Yogeswaran ; shoot ; on May 17 1998 ;  ; passive}
+{Mrs. Yogeswaran ; shoot ; times shot five times on May 17 1998 ;  ; passive}
+{she ; have ; Jaffna home ;  ; }
+{pistol ;  be (complemented by) ; near her Jaffna home ;  ; active}
+3	Girard has a bachelor's degree in political sciences at the Universite de Montreal and did studies for the master's degree in industrial relations.
+{Girard ; have ; bachelor 's degree in political sciences at Universite de Montreal ;  ; active}
+{political ; is property of ; sciences ;  ; }
+{political sciences ;  be (complemented by) ; at Universite de Montreal ;  ; active}
+{bachelor ; have ; degree ;  ; }
+{bachelor 's degree ;  be (complemented by) ; in political sciences at Universite de Montreal ;  ; active}
+{Girard ; do ; studies ;  ; active}
+{Girard ; do ; for master 's degree ;  ; active}
+{Girard ; do ; studies for master 's degree ;  ; active}
+{Girard ; do ; in industrial relations ;  ; active}
+{Girard ; do ; studies in industrial relations ;  ; active}
+{master ; have ; degree ;  ; }
+{industrial ; is property of ; relations ;  ; }
+4	It was #109 on the Billboard 200 chart.
+{It ; be ; 109 on Billboard chart ;  ; active}
+5	Robert Barnard (born 23 November 1936) is an English crime writer, critic and lecturer.
+{Robert Barnard ; be ; English crime writer ,critic ,lecturer ;  ; active}
+{English ; is property of ; crime writer ;  ; }
+{Robert Barnard ; bear ; 23 November 1936 ;  ; active}
+6	The secretary/music director for the church, Anne (Susan Clark), is wary of changes for the congregation intended by Hill.
+{secretary/music director for church ; be ; wary of changes for congregation ;  ; active}
+{congregation ; intend + s.o to do sth ; Hill ;  ; passive}
+{changes ;  be (complemented by) ; for congregation ;  ; active}
+{congregation ; intend + s.o to do sth ; by Hill ;  ; passive}
+{secretary/music director for church ;  be  ; Anne ;  ; active}
+{secretary/music director ;  be (complemented by) ; for church ;  ; active}
+{secretary/music ; is property of ; director ;  ; }
+{Anne ;  be  ; Susan Clark ;  ; active}
+7	"Doing Time on Maple Drive" was released on Region 1 DVD on September 7, 2004.
+{Doing Time on Maple Drive ; release ; on Region DVD ;  ; passive}
+{Doing Time on Maple Drive ; release ; on September 7 2004 ;  ; passive}
+{Doing Time ;  be (complemented by) ; on Maple Drive ;  ; active}
+8	It comprises and includes mountains reaching an altitude of above sea level.
+{It ; comprise ; mountains ;  ; active}
+{mountains ; reach ; altitude of above sea level ;  ; passive}
+9	He starred as Lancelot in the national tour of "Spamalot" from 2006 through 2008.
+{He ; star ; as Lancelot in national tour of Spamalot ;  ; active}
+{He ; star ; from 2006 ;  ; active}
+{He ; star ; through 2008 ;  ; active}
+{Lancelot ;  be (complemented by) ; in national tour of Spamalot ;  ; active}
+{national ; is property of ; tour ;  ; }
+{national tour ;  be (complemented by) ; of Spamalot ;  ; active}
+10	The film as well as the musical were criticized by some religious groups.
+{as  well ; be ; film ;  ; active}
+11	As in the film, Richards is given the chance to become a Hunter by Killian, though unlike in the film, he accepts.
+{Richards ; give ; chance ;  ; passive}
+{chance ; become ; Hunter by Killian ;  ; active}
+{chance ; become ; though he accept ;  ; active}
+{chance ; become ; by Killian ;  ; active}
+{chance ; become ; though he accept by Killian ;  ; active}
+{chance ; become ; Hunter ;  ; active}
+12	The film debuted on October 30, 1968 (December 29, 1968 London premiere.
+{film ; debut ; on October 30 1968 29  December ;  ; active}
+{29  December ; be ; October 30 1968 ;  ; active}
+13	The Arab nationalists aimed, in part, to remove British imperial influence in Iraq.
+{Arab nationalists ; remove ; British imperial influence ;  ; active}
+{Arab nationalists ; remove ; in Iraq ;  ; active}
+{Arab nationalists ; remove ; British imperial influence in Iraq ;  ; active}
+{imperial ; is property of ; influence ;  ; }
+{British ; is property of ; influence ;  ; }
+{Arab ; is property of ; nationalists ;  ; }
+14	A sequel, in name only, called "Return of the Ape Man", followed in 1944, one year later after this film and starred Bela Lugosi, John Carradine and George Zucco.
+{sequel in name ; call ; Return of Ape Man ; only name ; active}
+{Return ;  be (complemented by) ; of Ape Man ;  ; active}
+{sequel in name ; star ; Bela Lugosi ; only name ; active}
+{sequel in name ; star ; John Carradine ; only name ; active}
+{sequel in name ; star ; George Zucco ; only name ; active}
+{sequel in name ; star ; Bela Lugosi,John Carradine,George Zucco ; only name ; active}
+{sequel ;  be (complemented by) ; in name ;  ; active}
+15	Dr.Gayatri (Bipasha Basu) is researching the esoteric practices like voodoo, spirit possession, magic and healing powers.
+{Dr.Gayatri ; research ; esoteric practices like spirit  voodoo possession & magic & healing powers ;  ; active}
+{spirit ; belong to ; voodoo possession & magic & healing powers ;  ; active}
+{esoteric ; is property of ; practices ;  ; }
+{esoteric practices ;  be (complemented by) ; like spirit  voodoo possession & magic & healing powers ;  ; active}
+{Dr.Gayatri ;  be  ; Bipasha Basu ;  ; active}
+16	Simultaneously won the "Hope of the World Ballet" Prize.
+{Hope of World Ballet Prize ; win ; Simultaneously ;  ; active}
+{Hope ;  be (complemented by) ; of World Ballet Prize ;  ; active}
+17	This version was cut down to 100-minutes in length.
+{this  version ; cut ; down ;  ; passive}
+{this  version ; cut ; in length ;  ; passive}
+{this  version ; cut ; down in length ;  ; passive}
+{this  version ; cut ; down  to 100-minutes ;  ; passive}
+{this  version ; cut ; down  to 100-minutes in length ;  ; passive}
+18	He was born in New York and died at Livonia, Michigan.
+{He ; bear ; in New York ;  ; passive}
+{He ; die ; at Livonia Michigan ;  ; active}
+19	Fred Kohler (April 20, 1888 - October 28, 1938) was an American actor known for his "heavy" style of character.
+{Fred Kohler 20 1888  April ; be ; American actor ;  ; active}
+{he ; have ; `` heavy  style ;  ; }
+{American ; is property of ; actor ;  ; }
+{heavy ; is property of ; style ;  ; }
+{American actor ; know ; for his `` heavy '' style of character ;  ; passive}
+{his `` heavy '' style ;  be (complemented by) ; of character ;  ; active}
+{20 1888  April ; be ; Fred Kohler ;  ; active}
+20	Outpost Harry was a remote Korean War station located on a tiny hilltop in what was commonly referred to as the "Iron Triangle" on the Korean Peninsula.
+{Outpost Harry ; be ; remote Korean War station ;  ; active}
+{remote Korean War station ; locate ; on tiny hilltop in commonly referred to as the `` Iron Triangle on Korean Peninsula ;  ; active}
+{what ; refer ; tiny hilltop ;  ; passive}
+{what ; refer ; commonly ;  ; passive}
+{tiny ; is property of ; hilltop ;  ; }
+{as the `` Iron Triangle ;  be (complemented by) ; on Korean Peninsula ;  ; active}
+{Iron ; is property of ; Triangle ;  ; }
+{Korean ; is property of ; station ;  ; }
+{what ; refer ; to as the `` Iron Triangle on Korean Peninsula ;  ; passive}
+{remote ; is property of ; station ;  ; }
+{commonly referred ;  be (complemented by) ; to as the `` Iron Triangle on Korean Peninsula ;  ; active}
+{tiny hilltop ;  be (complemented by) ; in commonly referred to as the `` Iron Triangle on Korean Peninsula ;  ; active}
+{what ; refer ; tiny hilltop to as the `` Iron Triangle on Korean Peninsula ;  ; passive}
+{what ; refer ; commonly to as the `` Iron Triangle on Korean Peninsula ;  ; passive}
+21	By agreement among the Allied nations, in March 1942 the acific theatre was divided into the South West Pacific Area, under General Douglas MacArthur, and the Pacific Ocean Areas, under Admiral Chester W. Nimitz.
+{acific theatre ; divide ; agreement among Allied nations in March 1942 ;  ; passive}
+{acific theatre ; divide ; into South West Pacific Area ;  ; passive}
+{acific theatre ; divide ; agreement among Allied nations in March 1942 into South West Pacific Area ;  ; passive}
+{acific theatre ; divide ; under General Douglas MacArthur ,Pacific Ocean Areas ;  ; passive}
+{acific theatre ; divide ; under General Douglas MacArthur ,Pacific Ocean Areas into South West Pacific Area ;  ; passive}
+{acific theatre ; divide ; under General Douglas MacArthur ,Pacific Ocean Areas under Admiral Chester W. Nimitz ;  ; passive}
+{acific theatre ; divide ; under General Douglas MacArthur ,Pacific Ocean Areas under Admiral Chester W. Nimitz into South West Pacific Area ;  ; passive}
+{acific theatre ; divide ; by agreement among Allied nations in March 1942 ;  ; passive}
+{acific theatre ; divide ; by agreement among Allied nations in March 1942 into South West Pacific Area ;  ; passive}
+{agreement ;  be (complemented by) ; in March 1942 ;  ; active}
+{agreement ;  be (complemented by) ; among Allied nations ;  ; active}
+{agreement ;  be (complemented by) ; among Allied nations in March 1942 ;  ; active}
+{acific ; is property of ; theatre ;  ; }
+22	Fighting continued in and around Baidoa, particularly at Iidale and Dinsoor; approximately 60 and 120 kilometres south of Baidoa respectively.
+{Fighting ; continue ; particularly ;  ; active}
+{Fighting ; continue ; around Baidoa ;  ; active}
+{Fighting ; continue ; particularly around Baidoa ;  ; active}
+{Fighting ; continue ; in Baidoa ;  ; active}
+{Fighting ; continue ; particularly in Baidoa ;  ; active}
+{Fighting ; continue ; at Iidale, Dinsoor ;  ; active}
+{Fighting ; continue ; particularly at Iidale, Dinsoor ;  ; active}
+{60 and 120 kilometres ;  be (complemented by) ; of Baidoa ;  ; active}
+23	Another version of the story was filmed in 1934, entitled The Courage of Charlie Chan.
+{another  version of story ; film ; in 1934 ;  ; passive}
+{1934 ; entitle ; Courage of Charlie Chan ;  ; active}
+{another  version ;  be (complemented by) ; of story ;  ; active}
+24	He consults his family doctor for solution.
+{He ; consult ; his family doctor ;  ; active}
+{He ; consult ; for solution ;  ; active}
+{He ; consult ; his family doctor for solution ;  ; active}
+{he ; have ; family doctor ;  ; }
+25	The International Center for Research on Women (ICRW) is a non-profit organization headquartered in Washington, D.C., United States, with a regional office in New Delhi, India.
+{International Center for Research on Women ; be ; non-profit organization ;  ; active}
+{New Delhi ;  be  ; India ;  ; active}
+{regional office ;  be (complemented by) ; in New Delhi ;  ; active}
+{non-profit organization ; headquarter ; with regional office in New Delhi ;  ; active}
+{non-profit organization ; headquarter ; in United States ;  ; active}
+{non-profit ; is property of ; organization ;  ; }
+{regional ; is property of ; office ;  ; }
+{Research ;  be (complemented by) ; on Women ;  ; active}
+{International Center for Research on Women ;  be  ; ICRW ;  ; active}
+{International Center ;  be (complemented by) ; for Research on Women ;  ; active}
+26	His return bout in the UFC occurred at "UFC 81", where he submitted Rob Yundt at 1:08 in the first round.
+{His return bout in UFC ; occur ; where he submit  Rob Yundt at 1:08 in first round ;  ; active}
+{His return bout in UFC ; occur ; at UFC 81 ;  ; active}
+{His return bout in UFC ; occur ; where he submit  Rob Yundt at 1:08 in first round at UFC 81 ;  ; active}
+{he ; submit ; at 1:08 in first round ;  ; active}
+{he ; submit ; at 1:08 ;  ; active}
+{he ; submit ; Rob Yundt at 1:08 ;  ; active}
+{he ; submit ; in first round ;  ; active}
+{first ; is property of ; round ;  ; }
+{he ; submit ; Rob Yundt ;  ; active}
+{he ; submit ; Rob Yundt in first round ;  ; active}
+{His return bout ;  be (complemented by) ; in UFC ;  ; active}
+{His ; have ; return bout ;  ; }
+27	Frank Lanning as Francisco Cortez, escaped convict falsely accused of murder ing Jim Lester's father.
+{Frank Lanning as Francisco Cortez ; accuse of ; murder ing Jim Lester 's father ; falsely convict ; active}
+{murder ing Jim Lester ; have ; father ;  ; }
+{Frank Lanning ;  be (complemented by) ; as Francisco Cortez ;  ; active}
+{Francisco Cortez ; escape ; convict  falsely ;  ; active}
+28	Wu worked as a reporter for United Press International from 1973 until 1978 when she joined WGBH-TV, Boston's public television station, as the Massachusetts State House reporter until 1983.
+{Wu ; work as ; reporter for United Press International from 1973 ;  ; active}
+{Wu ; work as ; until 1978 ;  ; active}
+{Wu ; work as ; reporter for United Press International from 1973 until 1978 ;  ; active}
+{United Press International ;  be (complemented by) ; from 1973 ;  ; active}
+{reporter ;  be (complemented by) ; for United Press International from 1973 ;  ; active}
+{she ; join ; as Massachusetts State House reporter until 1983 ;  ; active}
+{WGBH-TV ;  be  ; Boston 's public television station ;  ; active}
+{public ; is property of ; television station ;  ; }
+{she ; join ; until 1983 ;  ; active}
+{she ; join ; WGBH-TV ;  ; active}
+{Boston ; have ; public television station ;  ; }
+{she ; join ; as Massachusetts State House reporter ;  ; active}
+{she ; join ; WGBH-TV until 1983 ;  ; active}
+{she ; join ; WGBH-TV as Massachusetts State House reporter ;  ; active}
+29	The New Zealand Naval Forces was a Division of the Royal Navy.
+{New Zealand Naval Forces ; be ; Division of Royal Navy ;  ; active}
+{Division ;  be (complemented by) ; of Royal Navy ;  ; active}
+30	The previous season had seen him lead Dawlish to 2nd place in the Western League, their highest ever league finishing position.
+{previous season ; see ; him lead  Dawlish to 2nd place in Western League ;  ; active}
+{him ; lead ; to 2nd place in Western League ;  ; active}
+{him ; lead ; Dawlish to 2nd place in Western League ;  ; active}
+{2nd place ;  be (complemented by) ; in Western League ;  ; active}
+{2nd ; is property of ; place ;  ; }
+{him ; lead ; Dawlish ;  ; active}
+{previous ; is property of ; season ;  ; }
+31	In his years on Newsnight, he has reported on many of the most compelling foreign news stories in the past two decades: the Gulf War; the attempted coup d'etat in Moscow; 1993 events in Moscow; Bosnian War; Middle East peace process; the War in Kosovo; and the recent US military campaigns in War in Afghanistan and War in Iraq.
+{he ; report ; in his years on Newsnight ;  ; active}
+{he ; report ; on many Gulf War of compelling foreign news stories in past two decades ;  ; active}
+{his years ;  be (complemented by) ; on Newsnight ;  ; active}
+{he ; have ; years ;  ; }
+{compelling ; is property of ; news stories ;  ; }
+{many Gulf War ;  be (complemented by) ; in past two decades ;  ; active}
+{Gulf War ; be ; many ;  ; active}
+{past ; is property of ; decades ;  ; }
+{foreign ; is property of ; news stories ;  ; }
+{many Gulf War ;  be (complemented by) ; of compelling foreign news stories in past two decades ;  ; active}
+{many Gulf War ;  be (complemented by) ; of compelling foreign news stories ;  ; active}
+{attempted coup d'etat ;  be (complemented by) ; in Moscow ;  ; active}
+{attempted ; is property of ; coup d'etat ;  ; }
+{1993 events ;  be (complemented by) ; in Moscow ;  ; active}
+{War ;  be (complemented by) ; in Kosovo ;  ; active}
+{military ; is property of ; US campaigns ;  ; }
+{War ;  be (complemented by) ; in Iraq ;  ; active}
+{War ;  be (complemented by) ; in Afghanistan ,War ;  ; active}
+{War ;  be (complemented by) ; in Afghanistan ,War in Iraq ;  ; active}
+{recent US campaigns ;  be (complemented by) ; in War in Afghanistan ,War in Iraq ;  ; active}
+{recent ; is property of ; US campaigns ;  ; }
+32	William Dozier (February 13, 1908 - April 23, 1991) was an American film and television producer and actor.
+{William Dozier 13 1908  February ; be ; American film ,television producer ,actor ;  ; active}
+{American ; is property of ; film ;  ; }
+{13 1908  February ; be ; William Dozier ;  ; active}
+33	When the ZANU-PF-Movement for Democratic Change national unity government was sworn in on February 13, 2009, Nhema was included in the Cabinet as Minister of the Environment.
+{ZANU-PF-Movement ;  be (complemented by) ; for Democratic Change unity government ;  ; active}
+{Democratic ; is property of ; Change unity government ;  ; }
+{national ; is property of ; Change unity government ;  ; }
+{2009 Nhema ; include ; in Cabinet ;  ; passive}
+{2009 Nhema ; include ; as Minister of Environment ;  ; passive}
+{Minister ;  be (complemented by) ; of Environment ;  ; active}
+34	She was a member of the National Union of Women Workers.
+{She ; be ; member of National Union of Women Workers ;  ; active}
+{National Union ;  be (complemented by) ; of Women Workers ;  ; active}
+{member ;  be (complemented by) ; of National Union of Women Workers ;  ; active}
+35	He was Premier of the Republic of China from 1989 to 1990, serving for one year under former President Lee Teng-hui.
+{He ; serve ; from 1989 to 1990 ;  ; active}
+{He ; serve ; for one year under former President Lee Teng-hui ;  ; active}
+{former ; is property of ; President Lee Teng-hui ;  ; }
+{one year ;  be (complemented by) ; under former President Lee Teng-hui ;  ; active}
+36	He made his debut in a Champions League game Fenerbahce-Inter (1-0).
+{He ; make ; his debut ;  ; active}
+{He ; make ; in Champions League game Fenerbahce-Inter ;  ; active}
+{He ; make ; his debut in Champions League game Fenerbahce-Inter ;  ; active}
+{Champions League game Fenerbahce-Inter ;  be  ; 1-0 ;  ; active}
+{he ; have ; debut ;  ; }
+37	The Islamic Jihad Union (IJU), also known as Islamic Jihad Group (IJG), is a terrorist organization which splintered from the Islamic Movement of Uzbekistan (IMU), and has conducted attacks in Uzbekistan and attempted attacks in Germany.
+{Islamic Jihad Union ; be ; terrorist organization ; also known  as Islamic Jihad Group ; active}
+{terrorist ; is property of ; organization ;  ; }
+{Islamic ; is property of ; Movement ;  ; }
+{Uzbekistan ;  be  ; IMU ;  ; active}
+{Islamic Movement ;  be (complemented by) ; of Uzbekistan ;  ; active}
+{terrorist organization ; splinter ; from Islamic Movement of Uzbekistan ;  ; active}
+{Islamic Jihad Union ;  be  ; IJU ;  ; active}
+38	After three brain surgeries, she died at the age of 53 in Leusden, The Netherlands, where she had lived during her illness.
+{three brain ; surgery ;  ;  ; active}
+{she ; die ; at age of 53 ;  ; active}
+{she ; die ; in Leusden The Netherlands ;  ; active}
+{age ;  be (complemented by) ; of 53 ;  ; active}
+{she ; live ; where during her illness ;  ; active}
+{she ; live ; Leusden The Netherlands during her illness ;  ; active}
+{she ; live ; where ;  ; active}
+{she ; live ; during her illness ;  ; active}
+{she ; have ; illness ;  ; }
+{she ; live ; Leusden The Netherlands ;  ; active}
+39	Cadabra has also played for FC Cessange Bracarenses Grund 2001 (twice) and FC Etzella Ettelbruck in Luxembourg.
+{Cadabra ; play ; also ;  ; active}
+{Cadabra ; play ; for FC Cessange Bracarenses Grund 2001 twice, FC Etzella Ettelbruck in Luxembourg ;  ; active}
+{Cadabra ; play ; also for FC Cessange Bracarenses Grund 2001 twice, FC Etzella Ettelbruck in Luxembourg ;  ; active}
+{twice ; be ; FC Cessange Bracarenses Grund 2001 ;  ; active}
+{FC Etzella Ettelbruck ;  be (complemented by) ; in Luxembourg ;  ; active}
+40	He played the healer Goggins who is a Draenei shaman.
+{He ; play ; Goggins ;  ; active}
+{He ; play ; healer ;  ; active}
+{Goggins ; be ; Draenei shaman ;  ; active}
+41	For the 2006-07 season, Pace played with the Nelson Giants in the New Zealand National Basketball League.
+{Pace ; play ; for 2006-07 season ;  ; active}
+{Pace ; play ; with Nelson Giants ;  ; active}
+{Pace ; play ; in New Zealand National Basketball League ;  ; active}
+42	These policies were enforced by the police.
+{these  policies ; enforce ; police ;  ; passive}
+{these  policies ; enforce ; by police ;  ; passive}
+43	On February 6, 2008, the post office in Taft was renamed the "Larry S. Pierce Post Office" in his honor.
+{post office in Taft ; rename ; Larry S. Pierce Post Office in his honor ;  ; passive}
+{post office in Taft ; rename ; on February 6 2008 ;  ; passive}
+{post office in Taft ; rename ; Larry S. Pierce Post Office in his honor on February 6 2008 ;  ; passive}
+{he ; have ; honor ;  ; }
+{Larry S. Pierce Post Office ;  be (complemented by) ; in his honor ;  ; active}
+{post office ;  be (complemented by) ; in Taft ;  ; active}
+44	LaBrocca scored his first goal for the club in a 4-1 home victory vs. Chicago Fire.
+{LaBrocca ; score ; his first goal ;  ; active}
+{LaBrocca ; score ; for club ;  ; active}
+{LaBrocca ; score ; his first goal for club ;  ; active}
+{LaBrocca ; score ; in 4-1 home victory vs. Chicago Fire ;  ; active}
+{LaBrocca ; score ; his first goal in 4-1 home victory vs. Chicago Fire ;  ; active}
+{4-1 home victory ;  be (complemented by) ; vs. Chicago Fire ;  ; active}
+{first ; is property of ; goal ;  ; }
+{he ; have ; first goal ;  ; }
+45	He is married to Washington Post journalist Ruth Marcus.
+{He ; marry ; to Washington Post journalist Ruth Marcus ;  ; passive}
+46	Kuroki is the only Japanese American known to have participated in air combat missions in the Pacific theater of operations during the war.
+{Kuroki ; be ; only Japanese American ;  ; active}
+{Japanese ; is property of ; American ;  ; }
+{only Japanese American ; know ; to participate   in air combat missions in Pacific theater of operations during war ;  ; passive}
+{Pacific theater ;  be (complemented by) ; of operations ;  ; active}
+{air combat missions ;  be (complemented by) ; in Pacific theater of operations ;  ; active}
+47	After his service in the United States Army (1968-1971), Middleton became the owner and operator of Cedar Hill Farm near Waldorf, Maryland.
+{his service ;  be (complemented by) ; in United States Army ;  ; active}
+{he ; have ; service ;  ; }
+{United States Army ;  be  ; 1968-1971 ;  ; active}
+{Middleton ; become ; owner of Cedar Hill Farm near Waldorf Maryland ,operator ;  ; active}
+{Cedar Hill Farm ;  be (complemented by) ; near Waldorf Maryland ;  ; active}
+{owner ;  be (complemented by) ; of Cedar Hill Farm near Waldorf Maryland ;  ; active}
+48	"The Candy Trail" is a 1916 silent comedy film featuring Oliver Hardy.
+{Candy Trail ; be ; 1916 silent comedy film ;  ; active}
+{1916 silent comedy film ; feature ; Oliver Hardy ;  ; passive}
+{silent ; is property of ; comedy film ;  ; }
+{Candy ; is property of ; Trail ;  ; }
+49	Daughter of the actor Ismael Sanchez Abellan and actress and writer Ana Maria Bueno (better known as Ana Rosetti), Gabriel was born in San Fernando, Cadiz, but spent her childhood in Madrid.
+{Daughter of actor Ismael Sanchez Abellan ,actress Ana Maria Bueno ; bear ; spend  her childhood in Madrid ; better known  as Ana Rosetti ; passive}
+{Daughter of actor Ismael Sanchez Abellan ,actress Ana Maria Bueno ; bear ; in San Fernando ; better known  as Ana Rosetti ; passive}
+{Daughter of actor Ismael Sanchez Abellan ,actress Ana Maria Bueno ; bear ; spend  her childhood in Madrid in San Fernando ; better known  as Ana Rosetti ; passive}
+{San Fernando ;  be  ; Cadiz ;  ; active}
+{she ; have ; childhood ;  ; }
+{actor Ismael Sanchez Abellan ,actress Ana Maria Bueno ;  be  ; Gabriel ;  ; active}
+{Daughter ;  be (complemented by) ; of actor Ismael Sanchez Abellan ,actress Ana Maria Bueno ;  ; active}
+{Ismael Sanchez Abellan ; be ; actor ;  ; active}
+{Ana Maria Bueno ; be ; actress ;  ; active}
+50	He was made an Officer of the Order of Australia in the Australia Day honours of 2003, for service to the Australian Labor Party and to politics through the introduction of modern campaign techniques, fundraising protocols for all political parties, affirmative action guidelines, and by strengthening the party's organisational and financial structure.
+{He ; make ; Officer of Order of Australia ;  ; passive}
+{He ; make ; in Australia Day honours of 2003 ;  ; passive}
+{He ; make ; Officer of Order of Australia in Australia Day honours of 2003 ;  ; passive}
+{He ; make ; for service to Australian Labor Party through introduction of modern campaign techniques ,politics through introduction of modern campaign techniques ;  ; passive}
+{He ; make ; Officer of Order of Australia for service to Australian Labor Party through introduction of modern campaign techniques ,politics through introduction of modern campaign techniques ;  ; passive}
+{Australia Day honours ;  be (complemented by) ; of 2003 ;  ; active}
+{service ;  be (complemented by) ; to Australian Labor Party through introduction of modern campaign techniques ,politics through introduction of modern campaign techniques ;  ; active}
+{fundraising protocols ;  be (complemented by) ; for all political parties ;  ; active}
+{Australian ; is property of ; Labor Party ;  ; }
+{political ; is property of ; parties ;  ; }
+{introduction ;  be (complemented by) ; of modern campaign techniques ;  ; active}
+{modern campaign techniques ;  be  ; fundraising protocols for all political parties ;  ; active}
+{modern ; is property of ; campaign techniques ;  ; }
+{Australian Labor Party ,politics ;  be (complemented by) ; through introduction of modern campaign techniques ;  ; active}
+{affirmative ; is property of ; action guidelines ;  ; }
+{all political parties ;  be  ; affirmative action guidelines ;  ; active}
+{Order ;  be (complemented by) ; of Australia ;  ; active}
+{Officer ;  be (complemented by) ; of Order of Australia ;  ; active}
+51	Dissatisfaction with progress and lack of resettlement of refugees caused the CNDP forces to declare war on the FDLR and hostilities to resume, including civilian atrocities.
+{Dissatisfaction with progress ,lack ; cause ; CNDP forces ;  ; active}
+{Dissatisfaction with progress ,lack ; cause ; to declare  war to resume on FDLR, hostilities including civilian atrocities ;  ; active}
+{Dissatisfaction with progress ,lack ; cause ; CNDP forces to declare  war to resume on FDLR, hostilities including civilian atrocities ;  ; active}
+{hostilities ; resume ;  ;  ; active}
+{CNDP forces ; declare ; war to resume on FDLR, hostilities ;  ; active}
+{CNDP forces ; declare ; war including civilian atrocities ;  ; active}
+{CNDP forces ; declare ; to resume ;  ; active}
+{CNDP forces ; declare ; war to resume including civilian atrocities ;  ; active}
+{civilian ; is property of ; atrocities ;  ; }
+{CNDP forces ; declare ; including civilian atrocities ;  ; active}
+{CNDP forces ; declare ; war ;  ; active}
+{CNDP forces ; declare ; to resume on FDLR, hostilities ;  ; active}
+{CNDP forces ; declare ; war to resume ;  ; active}
+{CNDP forces ; declare ; on FDLR, hostilities ;  ; active}
+{CNDP forces ; declare ; to resume including civilian atrocities ;  ; active}
+{CNDP forces ; declare ; war on FDLR, hostilities ;  ; active}
+{Dissatisfaction ;  be (complemented by) ; with progress ,lack ;  ; active}
+52	"While the Arab world is a rich prize in itself, Europe has been and remains the primary objective.
+{Europe ; be ;  ;  ; active}
+53	Since the British also knew that by law the fleet could only land at Cadiz, as well as its place and approximate time of departure from South America, it was not difficult to position a squadron to intercept it.
+{it ; not be ; difficult to ; also knew ; active}
+{fleet ; land ; by law at Cadiz, its place of departure ;  ; active}
+{British ; know ; also ;  ; active}
+{squadron ; intercept ; it ;  ; active}
+{fleet ; land ; from South America ;  ; active}
+{fleet ; land ; only from South America ;  ; active}
+{fleet ; land ; by law ;  ; active}
+{fleet ; land ; only ;  ; active}
+{fleet ; land ; at Cadiz, its place of departure ;  ; active}
+{fleet ; land ; only by law ;  ; active}
+{it ; have ; place ;  ; }
+{British ; know ; fleet could land  only by law at Cadiz, its place of departure from South America ;  ; active}
+{fleet ; land ; only at Cadiz, its place of departure ;  ; active}
+{its place ;  be (complemented by) ; of departure ;  ; active}
+{fleet ; land ; by law at Cadiz, its place of departure from South America ;  ; active}
+54	Tomkins made his Premier League debut on 22 March 2008 in a 1-1 draw away to Everton.
+{Tomkins ; make ; his Premier League debut ;  ; active}
+{Tomkins ; make ; on 22 March 2008 ;  ; active}
+{Tomkins ; make ; his Premier League debut on 22 March 2008 ;  ; active}
+{Tomkins ; make ; in 1-1 draw ;  ; active}
+{Tomkins ; make ; his Premier League debut in 1-1 draw ;  ; active}
+{1-1 ; is property of ; draw ;  ; }
+{he ; have ; Premier League debut ;  ; }
+55	He then went on to work for Cisco Systems, one of the world's largest high-tech businesses.
+{He ; go ; then ;  ; active}
+{He ; go ; to work   for Cisco Systems ;  ; active}
+{world ; have ; largest high-tech businesses ;  ; }
+{one ;  be (complemented by) ; of world 's largest high-tech businesses ;  ; active}
+{Cisco Systems ;  be  ; one of world 's largest high-tech businesses ;  ; active}
+{high-tech ; is property of ; businesses ;  ; }
+{largest ; is property of ; businesses ;  ; }
+{He ; work ; for Cisco Systems ;  ; active}
+56	He fathered two children, Edna and Donald, and lived in Aberdeen until his death from tuberculosis in 1942.
+{He ; father ; two children ;  ; active}
+{He ; father ; Edna ;  ; active}
+{He ; father ; Donald ;  ; active}
+{He ; father ; two children,Edna,Donald ;  ; active}
+{He ; live ; in Aberdeen ;  ; active}
+{He ; live ; until his death ;  ; active}
+{He ; live ; from tuberculosis in 1942 ;  ; active}
+{he ; have ; death ;  ; }
+{tuberculosis ;  be (complemented by) ; in 1942 ;  ; active}
+57	A Great-Great Grandson was Robert Norton Noyce (1927 - 1990), nicknamed "the Mayor of Silicon Valley", co-founder of Fairchild Semiconductor in 1957 and Intel in 1968.
+{Great-Great Grandson ; be ; Robert Norton Noyce 1927 ,co-founder of Fairchild Semiconductor in 1957 ,Intel in 1968 ;  ; active}
+{1927 ; be ; Robert Norton Noyce ;  ; active}
+{Intel ;  be (complemented by) ; in 1968 ;  ; active}
+{Fairchild Semiconductor ;  be (complemented by) ; in 1957 ;  ; active}
+{co-founder ;  be (complemented by) ; of Fairchild Semiconductor in 1957 ;  ; active}
+58	After learning to play from her mother and continuing as a music student in local schools, Alice was accepted as a student of Carlos Salzedo at the Curtis Institute of Music in Philadelphia, Pennsylvania.
+{ ; learning to play ;  ;  ; active}
+{ ; continue ; as music student in local schools ;  ; active}
+{local ; is property of ; schools ;  ; }
+{music student ;  be (complemented by) ; in local schools ;  ; active}
+{ ; play ; from her mother ;  ; active}
+{she ; have ; mother ;  ; }
+{Alice ; accept ; as student of Carlos Salzedo ;  ; passive}
+{Alice ; accept ; at Curtis Institute of Music ;  ; passive}
+{Alice ; accept ; in Philadelphia Pennsylvania ;  ; passive}
+{student ;  be (complemented by) ; of Carlos Salzedo ;  ; active}
+{Curtis Institute ;  be (complemented by) ; of Music ;  ; active}
+59	This article includes attacks on continental territory (extending 200 miles into the ocean) which is today under the sovereignty of the United States, Canada and Mexico but excludes military action involving the Danish territory of Greenland and the Caribbean.
+{this  article ; include ; attacks ;  ; active}
+{this  article ; include ; on continental territory ;  ; active}
+{this  article ; include ; attacks on continental territory ;  ; active}
+{continental territory ; be ; today ;  ; active}
+{continental territory ; be ; today under sovereignty of United States ,Canada ,Mexico ;  ; active}
+{continental territory ; be ; under sovereignty of United States ,Canada ,Mexico ;  ; active}
+{continental ; is property of ; territory ;  ; }
+{sovereignty ;  be (complemented by) ; of United States ,Canada ,Mexico ;  ; active}
+{military ; is property of ; action ;  ; }
+{Danish ; is property of ; territory ;  ; }
+{military action ;  be (complemented by) ; involving Danish territory of Greenland ,Caribbean ;  ; active}
+{Danish territory ;  be (complemented by) ; of Greenland ,Caribbean ;  ; active}
+60	Princeton's women's track & field team has also enjoyed great success under Head Coach Peter Farrell.
+{women  track ; be ; Princeton ;  ; active}
+61	The report implied that the infighting in Zanu-PF over Mugabe's successor was also hurting policy formulation and consistency in implementation.
+{report ; imply ; infighting in Zanu-PF over Mugabe 's successor was hurt  policy formulation in implementation, consistency ;  ; active}
+{Zanu-PF ;  be (complemented by) ; over Mugabe 's successor ;  ; active}
+{infighting in Zanu-PF over Mugabe 's successor ; hurt ; consistency ;  ; active}
+{Mugabe ; have ; successor ;  ; }
+{infighting in Zanu-PF over Mugabe 's successor ; hurt ; policy formulation in implementation,consistency ;  ; active}
+{infighting in Zanu-PF over Mugabe 's successor ; hurt ; policy formulation in implementation ;  ; active}
+{infighting ;  be (complemented by) ; in Zanu-PF over Mugabe 's successor ;  ; active}
+{policy formulation ;  be (complemented by) ; in implementation ;  ; active}
+62	"Life Partner" netted overseas in its opening week while it netted domestically by the third week.
+{Life Partner ; net ; in its opening week ;  ; active}
+{Life Partner ; net ; overseas ;  ; active}
+{Life Partner ; net ; overseas in its opening week ;  ; active}
+{it ; have ; opening week ;  ; }
+{Life Partner ; net ; domestically it net  domestically by third week ;  ; active}
+{Life Partner ; net ; domestically it net  domestically by third week in its opening week ;  ; active}
+63	He also did the voice of Tommy in the action game "Prey".
+{He ; do ; voice of Tommy ; also ; active}
+{He ; do ; in action game Prey ; also ; active}
+{He ; do ; voice of Tommy in action game Prey ; also ; active}
+{voice ;  be (complemented by) ; of Tommy ;  ; active}
+64	The film was first shown on 18 July 2009 in Montreal at the Fantasia Festival.
+{film ; show ; July 2009 ;  ; passive}
+{film ; show ; on 18 July 2009 ;  ; passive}
+{film ; show ; July 2009 on 18 July 2009 ;  ; passive}
+{film ; show ; in Montreal at Fantasia Festival ;  ; passive}
+{film ; show ; July 2009 in Montreal at Fantasia Festival ;  ; passive}
+{film ; show ; first ;  ; passive}
+{film ; show ; first on 18 July 2009 ;  ; passive}
+{film ; show ; first in Montreal at Fantasia Festival ;  ; passive}
+{Montreal ;  be (complemented by) ; at Fantasia Festival ;  ; active}
+65	The foundations of the University of the Aegean date back to October 1918 when Greece had expanded its geographic borders to the wider Smyrna area after the World War I. 
+{foundations of University of Aegean ; date ; back ;  ; active}
+{foundations of University of Aegean ; date ; to October 1918 ;  ; active}
+{foundations of University of Aegean ; date ; back to October 1918 ;  ; active}
+{foundations of University of Aegean ; date ; when Greece had expand  its geographic borders to wider Smyrna area after World War ;  ; active}
+{foundations of University of Aegean ; date ; when Greece had expand  its geographic borders to wider Smyrna area after World War to October 1918 ;  ; active}
+{geographic ; is property of ; borders ;  ; }
+{Greece ; expand ; to wider Smyrna area ;  ; active}
+{Greece ; expand ; after World War ;  ; active}
+{Greece ; expand ; its geographic borders ;  ; active}
+{Greece ; expand ; its geographic borders to wider Smyrna area ;  ; active}
+{Greece ; expand ; its geographic borders after World War ;  ; active}
+{wider ; is property of ; Smyrna area ;  ; }
+{Greece ; expand ; to wider Smyrna area after World War ;  ; active}
+{it ; have ; geographic borders ;  ; }
+{foundations ;  be (complemented by) ; of Aegean ;  ; active}
+{foundations ;  be (complemented by) ; of University of Aegean ;  ; active}
+{foundations ;  be (complemented by) ; of University ;  ; active}
+66	These include award sculptures for organizations such as the National Air and Space Museum, the PGA Tour, the Georgetown University Lombardi Cancer Center, the World Peace Foundation, and the Shakespeare Guild.
+{These ; include ; award sculptures ;  ; active}
+{These ; include ; for organizations such_as National Air ,Space Museum ,PGA Tour ,Georgetown University Lombardi Cancer Center ,World Peace Foundation ,Shakespeare Guild ;  ; active}
+{These ; include ; award sculptures for organizations such_as National Air ,Space Museum ,PGA Tour ,Georgetown University Lombardi Cancer Center ,World Peace Foundation ,Shakespeare Guild ;  ; active}
+{organizations ;  be (complemented by) ; such_as National Air ,Space Museum ,PGA Tour ,Georgetown University Lombardi Cancer Center ,World Peace Foundation ,Shakespeare Guild ;  ; active}
+67	Argentina has an important rugby union football team, "Los Pumas", with many of its players playing in Europe.
+{Argentina ; have ; important rugby union football team Los Pumas ;  ; active}
+{rugby ; is property of ; union football team Los Pumas ;  ; }
+{important ; is property of ; union football team Los Pumas ;  ; }
+{Los Pumas ; be ; union football team ;  ; active}
+{Argentina ; play ; in Europe ;  ; active}
+68	They have also competed in the UEFA Women's Cup and UEFA Women's Champions League.
+{They ; compete ; also ;  ; active}
+{They ; compete ; in UEFA Women 's Cup, UEFA Women 's Champions League ;  ; active}
+{They ; compete ; also in UEFA Women 's Cup, UEFA Women 's Champions League ;  ; active}
+{UEFA Women ; have ; Champions League ;  ; }
+{UEFA Women ; have ; Cup ;  ; }
+69	Finklea began his medical career as a physician and a professor at a series of medical schools.
+{Finklea ; begin ; his medical career ;  ; active}
+{Finklea ; begin ; as physician, professor ;  ; active}
+{Finklea ; begin ; his medical career as physician, professor ;  ; active}
+{Finklea ; begin ; at series of medical schools ;  ; active}
+{Finklea ; begin ; his medical career at series of medical schools ;  ; active}
+{medical ; is property of ; schools ;  ; }
+{series ;  be (complemented by) ; of medical schools ;  ; active}
+{medical ; is property of ; career ;  ; }
+{he ; have ; medical career ;  ; }
+70	It was later broadcast on NBC on February 26, 2009 and is now available as a separate DVD as of March 24, 2009, It also the televison premiere for Nickelodeon on March 6, 2011.
+{It ; broadcast ; later ;  ; passive}
+{It ; broadcast ; on NBC ;  ; passive}
+{It ; broadcast ; later on NBC ;  ; passive}
+{It ; broadcast ; on February 26 2009 ;  ; passive}
+{It ; broadcast ; later on February 26 2009 ;  ; passive}
+71	They are adamant on finding out the truth about her.
+{They ; be ; adamant ;  ; active}
+72	In its early years, the air force was engaged primarily in immigration patrol, with occasional assistance in emergency relief.
+{air force ; engage ; primarily ;  ; passive}
+{air force ; engage ; in its early years ;  ; passive}
+{air force ; engage ; primarily in its early years ;  ; passive}
+{air force ; engage ; in immigration patrol ;  ; passive}
+{air force ; engage ; primarily in immigration patrol ;  ; passive}
+{air force ; engage ; with occasional assistance in emergency relief ;  ; passive}
+{air force ; engage ; primarily with occasional assistance in emergency relief ;  ; passive}
+{it ; have ; early years ;  ; }
+{early ; is property of ; years ;  ; }
+{occasional assistance ;  be (complemented by) ; in emergency relief ;  ; active}
+{occasional ; is property of ; assistance ;  ; }
+73	As Sarada tries to act normal while planning to escape, Dileep finds that his father has been locked in and when he saves his father, he realizes that Sarada knows the truth about his deeds.
+{Dileep ; find ; Sarada try   , to act  normal while plan ;  ; active}
+{Dileep ; find ; his father has lock    ,  realize that ;  ; active}
+{he ; have ; father ;  ; }
+{his father ; lock ;  ;  ; passive}
+{Sarada ; try ; to act  normal while plan ;  ; active}
+{Sarada ; know ; truth about his deeds ;  ; active}
+{normal while ; plan ; to escape ;  ; active}
+{Sarada ; act ; normal while ;  ; active}
+{his father ; realize that ; Sarada know  truth about his deeds ;  ; active}
+{normal ; is property of ; while ;  ; }
+{he ; have ; deeds ;  ; }
+{truth ;  be (complemented by) ; about his deeds ;  ; active}
+74	Although at first she wards off Charlie's advances, she comes to see him as the ideal man for her plans.
+{she ; ward off ; Charlie 's advances ;  ; active}
+{she ; ward off ; at first ;  ; active}
+{she ; ward off ; Charlie 's advances at first ;  ; active}
+{Charlie ; have ; advances ;  ; }
+{she ; come ; to see  him as ideal man for her plans ;  ; active}
+{she ; have ; plans ;  ; }
+{ideal man ;  be (complemented by) ; for her plans ;  ; active}
+{ideal ; is property of ; man ;  ; }
+{she ; see ; him ;  ; active}
+{she ; see ; as ideal man for her plans ;  ; active}
+{she ; see ; him as ideal man for her plans ;  ; active}
+75	He has represented parts of the city of Rutland in the Vermont House of Representatives since 2005 and had previously served four terms in the House.
+{He ; represent ; parts of city of Rutland ; previously ; active}
+{He ; represent ; in Vermont House of Representatives ; previously ; active}
+{He ; represent ; parts of city of Rutland in Vermont House of Representatives ; previously ; active}
+{He ; represent ; since 2005 ; previously ; active}
+{He ; represent ; parts of city of Rutland since 2005 ; previously ; active}
+{Vermont House ;  be (complemented by) ; of Representatives ;  ; active}
+{city ;  be (complemented by) ; of Rutland ;  ; active}
+{parts ;  be (complemented by) ; of city of Rutland ;  ; active}
+{He ; serve ; four terms in House ; previously ; active}
+{four terms ;  be (complemented by) ; in House ;  ; active}
+76	According to gay film historian Vito Russo in his book The Celluloid Closet, co-star Michael Greer, who played the flamboyantly gay Malcolm and who was himself gay, tried to work with the screenwriter and director to minimize the negativity of the characterization and present Malcolm in a positive light.
+{Michael Greer ; try ; co-star ;  ; active}
+{gay ; is property of ; Malcolm ;  ; }
+{gay ; is property of ; himself ;  ; }
+{Michael Greer ; try ; to work   with screenwriter, director ;  ; active}
+{Michael Greer ; play ; flamboyantly gay Malcolm,himself ;  ; active}
+{Michael Greer ; play ; himself ;  ; active}
+{negativity ;  be (complemented by) ; of characterization ;  ; active}
+{flamboyantly ; is property of ; Malcolm ;  ; }
+{Celluloid Closet ;  be  ; co-star ;  ; active}
+{Michael Greer ; play ; flamboyantly gay Malcolm ;  ; active}
+77	In 2009, Hobbs acquired the role of top gymnast, Emily Kmetko, in ABC Family's "Make It or Break It".
+{Hobbs ; acquire ; role of top gymnast ;  ; active}
+{Hobbs ; acquire ; in 2009 ;  ; active}
+{Hobbs ; acquire ; role of top gymnast in 2009 ;  ; active}
+{Hobbs ; acquire ; in ABC Family Make ;  ; active}
+{Hobbs ; acquire ; role of top gymnast in ABC Family Make ;  ; active}
+{Make ; be ; ABC Family ;  ; active}
+{top gymnast ;  be  ; Emily Kmetko ;  ; active}
+{top ; is property of ; gymnast ;  ; }
+{role ;  be (complemented by) ; of top gymnast ;  ; active}
+78	Mya Than Tint entered Rangoon University in 1948, the year Burma gained independence from Great Britain, and received a degree in philosophy, political science and English literature.
+{Tint ; enter ; Rangoon University in 1948 gain  independence from Great Britain ,  receive  degree in philosophy, political science, English literature ;  ; active}
+{Rangoon University ;  be (complemented by) ; in 1948 ;  ; active}
+{Rangoon University in 1948 ; receive ; degree in philosophy, political science, English literature ;  ; active}
+{Rangoon University in 1948 ; gain ; independence ;  ; active}
+{Rangoon University in 1948 ; gain ; from Great Britain ;  ; active}
+{Rangoon University in 1948 ; gain ; independence from Great Britain ;  ; active}
+{Rangoon University in 1948 ; receive ; in philosophy, political science, English literature ;  ; active}
+{Rangoon University in 1948 ; receive ; degree ;  ; active}
+{English ; is property of ; literature ;  ; }
+{political ; is property of ; science ;  ; }
+{1948 ;  be  ; year Burma ;  ; active}
+79	They seek help from a prisoner (played by Blacky Ko).
+{They ; seek ; help   from prisoner ;  ; active}
+{prisoner ; play ; by Blacky Ko ;  ; active}
+{They ; help ; from prisoner ;  ; active}
+80	He trained with the club for one month before being waived on March 1, 2011, prior to the start of the MLS season.
+{He ; train ; with club for one month ;  ; active}
+{club ;  be (complemented by) ; for one month ;  ; active}
+{He ; waive ; on March 1 2011 ;  ; passive}
+{He ; waive ; prior_to start of MLS season ;  ; passive}
+{start ;  be (complemented by) ; of MLS season ;  ; active}
+81	The twisted creations of two cartoonists come to life in this tongue-in-cheek low budget schlocker.
+{twisted creations of two cartoonists ; come ; to life in this tongue-in-cheek low budget schlocker ;  ; active}
+{tongue-in-cheek ; is property of ; budget schlocker ;  ; }
+{life ;  be (complemented by) ; in this tongue-in-cheek low budget schlocker ;  ; active}
+{low ; is property of ; budget schlocker ;  ; }
+{twisted ; is property of ; creations ;  ; }
+{twisted creations ;  be (complemented by) ; of two cartoonists ;  ; active}
+82	Bryant committed suicide by falling off a ferry into San Francisco Bay, and drowned.
+{Bryant ; drown ;  ;  ; active}
+{Bryant ; fall off ; ferry ;  ; active}
+{Bryant ; fall off ; into San Francisco Bay ;  ; active}
+{Bryant ; fall off ; ferry into San Francisco Bay ;  ; active}
+83	Dawson began his career as an English teacher at Southern University in Baton Rouge, Louisiana, where he remained three years after earning his M.A.
+{Dawson ; begin ; his career ;  ; active}
+{Dawson ; begin ; as English teacher ;  ; active}
+{Dawson ; begin ; his career as English teacher ;  ; active}
+{Dawson ; begin ; at Southern University in Baton Rouge ;  ; active}
+{Dawson ; begin ; his career at Southern University in Baton Rouge ;  ; active}
+{English ; is property of ; teacher ;  ; }
+{Southern University ;  be (complemented by) ; in Baton Rouge ;  ; active}
+{Baton Rouge ;  be  ; Louisiana ;  ; active}
+{he ; have ; career ;  ; }
+{he ; have ; M.A ;  ; }
+{he ; earn ; his M.A ;  ; active}
+84	It relied on collective work, and gave the amateurs of the time a chance to compensate to some extent for their lack of skill.
+{It ; give ; chance ;  ; active}
+{It ; give ; to compensate   to some  extent for their lack of skill ;  ; active}
+{It ; give ; chance to compensate   to some  extent for their lack of skill ;  ; active}
+{It ; give ; amateurs of time ;  ; active}
+{they ; have ; lack ;  ; }
+{some  extent ;  be (complemented by) ; for their lack of skill ;  ; active}
+{their lack ;  be (complemented by) ; of skill ;  ; active}
+{chance ; compensate ; to some  extent for their lack of skill ;  ; active}
+{amateurs ;  be (complemented by) ; of time ;  ; active}
+85	The University of Sulaimani is a public university located in the city of Sulaymaniyah in Kurdistan.
+{University of Sulaimani ; be ; public university ;  ; active}
+{public university ; locate ; in Kurdistan ;  ; active}
+{city ;  be (complemented by) ; of Sulaymaniyah ;  ; active}
+{public ; is property of ; university ;  ; }
+{public university ; locate ; in city of Sulaymaniyah ;  ; active}
+{University ;  be (complemented by) ; of Sulaimani ;  ; active}
+86	An honours year quickly followed, and Titterton topped the year in Physics.
+{honours year ; follow ; quickly ;  ; active}
+{honours year ; top ; year ;  ; active}
+{honours year ; top ; in Physics ;  ; active}
+{honours year ; top ; year in Physics ;  ; active}
+87	Langley became the first President of the General Union of Railway Clerks in 1897, although he resigned due to ill health the following year.
+{first President of General Union of Railway Clerks in 1897 ; become ; Langley ;  ; active}
+{he ; resign ; ill health ;  ; active}
+{Railway Clerks ;  be (complemented by) ; in 1897 ;  ; active}
+{General Union ;  be (complemented by) ; of Railway Clerks in 1897 ;  ; active}
+{ill ; is property of ; health ;  ; }
+{first ; is property of ; President ;  ; }
+{first President ;  be (complemented by) ; of General Union of Railway Clerks in 1897 ;  ; active}
+88	The post-war era saw the creation of New College in 1962, Innis College in 1964 and Woodsworth College in 1974, all of them nondenominational.
+{post-war era ; see ; nondenominational ;  ; active}
+{post-war ; is property of ; era ;  ; }
+89	The cast consisted of some of the most prominent Israeli actors of the time, as well as hundreds of extras.
+{cast ; consist ; of some of prominent Israeli actors of extras ,hundreds of extras ;  ; active}
+{prominent ; is property of ; actors ;  ; }
+{Israeli ; is property of ; actors ;  ; }
+{prominent Israeli actors ,hundreds ;  be (complemented by) ; of extras ;  ; active}
+{some ;  be (complemented by) ; of prominent Israeli actors of extras ,hundreds of extras ;  ; active}
+90	When news outlets reported that taxpayers were charged for a $600 makeup session for Illinois Governor Rod Blagojevich for his budget speech, Bomke said, "He didn't get his money's worth."
+{news outlets ; report ; taxpayers charge   for $ 600 makeup session for Illinois Governor Rod Blagojevich for his budget speech ;  ; active}
+{$ 600 makeup session ;  be (complemented by) ; for Illinois Governor Rod Blagojevich for his budget speech ;  ; active}
+{taxpayers ; charge ; for $ 600 makeup session for Illinois Governor Rod Blagojevich for his budget speech ;  ; passive}
+{he ; have ; budget speech ;  ; }
+{Illinois Governor Rod Blagojevich ;  be (complemented by) ; for his budget speech ;  ; active}
+{$ ; is property of ; session ;  ; }
+{Bomke ; say that ; He not did get  money 's worth ;  ; active}
+{He ; not get ; money 's worth ;  ; active}
+{money ; have ; worth ;  ; }
+91	She later revealed to Christina the late Sommers was a friend of her family and her father had appealed to Fey for help in getting Amanda a job at "MODE" after her career as an actress didn't pan out.
+{She ; reveal ; later ;  ; active}
+92	So he was forced to requisition not only the public treasury of Gades but also the wealth from its temples.
+{he ; force ; to requisition  only the public treasury of Gades ;  ; passive}
+{only the public treasury ;  be (complemented by) ; of Gades ;  ; active}
+{public ; is property of ; treasury ;  ; }
+{he ; requisition ; only the public treasury of Gades ;  ; active}
+93	He also told the "Washington Post" that the Iraqis warned the Zarqawi operatives that the Jordanians knew where they were.
+{He ; tell ; Washington Post ; also ; active}
+{He ; tell ; Iraqis warn  Zarqawi operatives Jordanians know ; also ; active}
+{He ; tell ; Washington Post Iraqis warn  Zarqawi operatives Jordanians know ; also ; active}
+{Iraqis ; warn ; Zarqawi operatives Jordanians know ;  ; active}
+{Iraqis ; warn ; Zarqawi operatives ;  ; active}
+{they ; be ; where ;  ; active}
+{Jordanians ; know ; they be  where ;  ; active}
+{Iraqis ; warn ; Jordanians know ;  ; active}
+94	During the Punitive Expedition into Mexico in 1916, he was for a time depot manager at Columbus, New Mexico, the main logistical base of the expedition.
+{he ; be ; main logistical base of expedition ;  ; active}
+{he ; be ; during Punitive Expedition into Mexico in 1916 ;  ; active}
+{he ; be ; main logistical base of expedition during Punitive Expedition into Mexico in 1916 ;  ; active}
+{he ; be ; for time depot manager at Columbus ;  ; active}
+{he ; be ; main logistical base of expedition for time depot manager at Columbus ;  ; active}
+{Punitive Expedition ;  be (complemented by) ; into Mexico in 1916 ;  ; active}
+{Mexico ;  be (complemented by) ; in 1916 ;  ; active}
+{time depot manager ;  be (complemented by) ; at Columbus ;  ; active}
+{Columbus ;  be  ; New Mexico ;  ; active}
+{main ; is property of ; base ;  ; }
+{logistical ; is property of ; base ;  ; }
+{main logistical base ;  be (complemented by) ; of expedition ;  ; active}
+95	In his "2006 Movie Guide", Leonard Maltin gives the film 3.5 stars (out of four) and calls it "probably Malle's best early film." 
+{Leonard Maltin ; give ; 3.5 stars out_of four ;  ; active}
+{Leonard Maltin ; give ; in his `` 2006 Movie Guide ;  ; active}
+{Leonard Maltin ; give ; 3.5 stars out_of four in his `` 2006 Movie Guide ;  ; active}
+{Leonard Maltin ; give ; film ;  ; active}
+{Leonard Maltin ; give ; film in his `` 2006 Movie Guide ;  ; active}
+{he ; have ; `` 2006 Movie Guide ;  ; }
+{3.5 stars ;  be (complemented by) ; out_of four ;  ; active}
+{Leonard Maltin ; call ;  ;  ; active}
+96	They made their first division debut against Club America in the Estadio Azteca in a memorbla match, coming back from 2-0 to win 3-2.
+{They ; make ; their first division debut ;  ; active}
+{They ; make ; against Club America in Estadio Azteca ;  ; active}
+{They ; make ; their first division debut against Club America in Estadio Azteca ;  ; active}
+{They ; make ; in memorbla match ;  ; active}
+{They ; make ; their first division debut in memorbla match ;  ; active}
+{They ; make ; come from 2-0 to win  3-2 ;  ; active}
+{They ; make ; come from 2-0 to win  3-2 against Club America in Estadio Azteca ;  ; active}
+{They ; make ; come from 2-0 to win  3-2 in memorbla match ;  ; active}
+{They ; make ; their first division debut come from 2-0 to win  3-2 ;  ; active}
+{They ; make ; their first division debut come from 2-0 to win  3-2 against Club America in Estadio Azteca ;  ; active}
+{They ; make ; their first division debut come from 2-0 to win  3-2 in memorbla match ;  ; active}
+{Club America ;  be (complemented by) ; in Estadio Azteca ;  ; active}
+{memorbla match ; come from ; 2-0 to win  3-2 ;  ; active}
+{memorbla match ; come from ; 2-0 ;  ; active}
+{memorbla match ; come from ; to win  3-2 ;  ; active}
+{they ; have ; first division debut ;  ; }
+{first ; is property of ; division debut ;  ; }
+97	An ex-minister turned boatyard owner Baxter (Cox) befriends Obree, which results in Obree coming up with a daring idea - he's going to try and beat the hour record.
+{ex-minister ; turn ; boatyard owner Baxter befriend  Obree which result ;  ; active}
+{boatyard owner Baxter ;  be  ; Cox ;  ; active}
+{Obree ; result ;  ;  ; active}
+{boatyard ; is property of ; owner Baxter ;  ; }
+{boatyard owner Baxter ; befriend ; Obree ;  ; active}
+98	Ronald Squire (25 March 1886 - 16 November 1958) was an English character actor.
+{Ronald Squire 25  March 1886 ; be ; English character actor ;  ; active}
+{English ; is property of ; character actor ;  ; }
+{25  March 1886 ; be ; Ronald Squire ;  ; active}
+99	"Casanova Brown" is a 1944 film starring Gary Cooper, Teresa Wright, and Frank Morgan.
+{Casanova Brown ; be ; 1944 film ;  ; active}
+{1944 film ; star ; Gary Cooper ;  ; passive}
+{1944 film ; star ; Gary Cooper,Teresa Wright,Frank Morgan ;  ; passive}
+{1944 film ; star ; Teresa Wright ;  ; passive}
+{1944 film ; star ; Frank Morgan ;  ; passive}
+100	The same day, after Macher had informed the local fire brigade, the south-east tower, the least important tower of the large castle, was blown up.
+{same day after informed ; blow up ;  ;  ; passive}
+{local fire brigade ;  be  ; south-east tower of large castle ,important tower of large castle ;  ; active}
+{same ; is property of ; day ;  ; }
+{south-east tower ,important tower ;  be (complemented by) ; of large castle ;  ; active}
+{Macher ; inform ; local fire brigade ;  ; active}
+{important ; is property of ; tower ;  ; }
+{same day ;  be (complemented by) ; after informed ;  ; active}
+{Macher ; inform ; same day ;  ; active}
+{south-east ; is property of ; tower ;  ; }
+{local ; is property of ; fire brigade ;  ; }
+{large ; is property of ; castle ;  ; }
+101	While in the legislature, he sponsored successful bills to encourage state purchasing of "environmentally preferable" products, to allow Colorado State University to require graduate student health insurance, and to create licensing standards for hemodialysis technicians.
+{he ; sponsor ; successful bills ;  ; active}
+{he ; sponsor ; in legislature ;  ; active}
+{he ; sponsor ; successful bills in legislature ;  ; active}
+{successful ; is property of ; bills ;  ; }
+102	Indeed the rivalry between the Soviet armies to capture the city centre was becoming intense.
+{Soviet armies ; capture ; city centre was become  intense ;  ; active}
+{rivalry ;  be (complemented by) ; between Soviet armies ;  ; active}
+{Soviet ; is property of ; armies ;  ; }
+103	Jerry Goldsmith won the BMI Film & TV Award for his original score, and Morgan Freeman was nominated for the NAACP Image Award for Outstanding Actor in a Motion Picture but lost to Denzel Washington for "Training Day".
+{Jerry Goldsmith ; win ; BMI Film for his original score ;  ; active}
+{Jerry Goldsmith ; win ; TV Award ;  ; active}
+{Jerry Goldsmith ; win ; BMI Film for his original score,TV Award ;  ; active}
+{original ; is property of ; score ;  ; }
+{he ; have ; original score ;  ; }
+{BMI Film ;  be (complemented by) ; for his original score ;  ; active}
+{Jerry Goldsmith ; nominate ; for NAACP Image Award for Outstanding Actor in Motion Picture ;  ; passive}
+{NAACP Image Award ;  be (complemented by) ; for Outstanding Actor in Motion Picture ;  ; active}
+{Outstanding ; is property of ; Actor ;  ; }
+{Outstanding Actor ;  be (complemented by) ; in Motion Picture ;  ; active}
+104	However, any active player can activate their Overdrive to bring failed players back into the song, "saving" the band member.
+{any active player ; activate ; their Overdrive ; However ; active}
+{their Overdrive ; bring ; failed players ;  ; active}
+{their Overdrive ; bring ; into song ;  ; active}
+{their Overdrive ; bring ; failed players into song ;  ; active}
+{they ; have ; Overdrive ;  ; }
+{active ; is property of ; player ;  ; }
+105	The film's writer Aseem Arora was nominated for a Filmfare Award for Best Story.
+{film 's writer Aseem Arora ; nominate ; for Filmfare Award for Best Story ;  ; passive}
+{Filmfare Award ;  be (complemented by) ; for Best Story ;  ; active}
+{Filmfare ; is property of ; Award ;  ; }
+{film ; have ; writer Aseem Arora ;  ; }
+106	Ten Heuvel is the older brother of Arturo ten Heuvel.
+{Ten Heuvel ; be ; older brother of Arturo ten Heuvel ;  ; active}
+{older brother ;  be (complemented by) ; of Arturo ten Heuvel ;  ; active}
+{older ; is property of ; brother ;  ; }
+107	Soubry graduated in law from the University of Birmingham in 1979.
+{Soubry ; graduate ; in law ;  ; active}
+{Soubry ; graduate ; from University of Birmingham ;  ; active}
+{Soubry ; graduate ; in 1979 ;  ; active}
+{University ;  be (complemented by) ; of Birmingham ;  ; active}
+108	As the Liga's most northwesterly city after Tijuana, the Dorados remained in the LMB Northern Division in 2007.
+{Dorados ; remain ; as Liga 's most northwesterly city after Tijuana ;  ; active}
+{Dorados ; remain ; in LMB Northern Division ;  ; active}
+{Dorados ; remain ; in 2007 ;  ; active}
+{most ; is property of ; northwesterly city ;  ; }
+{Liga ; have ; most northwesterly city ;  ; }
+{Liga 's most northwesterly city ;  be (complemented by) ; after Tijuana ;  ; active}
+109	He played one game for West Ham in the Premier League, as a substitute during the latter stages of the 1996-97 season.
+{He ; play ; one game for West Ham in Premier League ;  ; active}
+{He ; play ; as substitute ;  ; active}
+{He ; play ; one game for West Ham in Premier League as substitute ;  ; active}
+{He ; play ; during latter stages of 1996-97 season ;  ; active}
+{He ; play ; one game for West Ham in Premier League during latter stages of 1996-97 season ;  ; active}
+{latter ; is property of ; stages ;  ; }
+{latter stages ;  be (complemented by) ; of 1996-97 season ;  ; active}
+{West Ham ;  be (complemented by) ; in Premier League ;  ; active}
+{one game ;  be (complemented by) ; for West Ham in Premier League ;  ; active}
+110	He was Captain of the Atheists team on CBC Test the Nation: IQ broadcast live on January 24, 2010.
+{He ; be ; Captain of Atheists team on CBC Test Nation ;  ; active}
+{Captain ;  be (complemented by) ; of Atheists team ;  ; active}
+{Captain ;  be (complemented by) ; on CBC Test Nation ;  ; active}
+{Captain ;  be (complemented by) ; of Atheists team on CBC Test Nation ;  ; active}
+111	Georgia regards the Abkhaz armed forces as "unlawful military formations" and accuses Russia of supplying and training the Abkhaz troops, partly in exchange for Abkhaz land or hotels.
+{Georgia ; regard ; Abkhaz forces ; partly ; active}
+{Georgia ; regard ; as unlawful military formations ; partly ; active}
+{Georgia ; regard ; Abkhaz forces as unlawful military formations ; partly ; active}
+{Georgia ; regard ; in exchange for Abkhaz land ,hotels ; partly ; active}
+{Georgia ; regard ; Abkhaz forces in exchange for Abkhaz land ,hotels ; partly ; active}
+{military ; is property of ; formations ;  ; }
+{unlawful ; is property of ; formations ;  ; }
+{exchange ;  be (complemented by) ; for Abkhaz land ,hotels ;  ; active}
+{armed ; is property of ; Abkhaz forces ;  ; }
+{Georgia ; accuse ; Russia of supplying ,training ; partly ; active}
+{Russia ; supply ; Abkhaz troops ;  ; active}
+{Russia ; train ;  ;  ; active}
+{Russia ;  be (complemented by) ; of supplying ,training ;  ; active}
+112	He is buried in Sandy Valley, Waynesburg, Ohio (Stark County).
+{He ; bury ; in Waynesburg  Sandy Valley Ohio ;  ; passive}
+{Waynesburg ; belong to ; Sandy Valley Ohio ;  ; active}
+{Waynesburg  Sandy Valley Ohio ;  be  ; Stark County ;  ; active}
+113	The Hollywood United 7-a-side teams compete in the Santa Monica Adult Soccer League.
+{Hollywood United teams ; compete ; in Santa Monica Adult Soccer League ;  ; active}
+{7-a-side ; is property of ; Hollywood United teams ;  ; }
+114	In several scenes, the film's Bulgarian locale is given away as signs in Cyrillic are visible.
+{film 's Bulgarian locale ; be ; visible in several scenes ;  ; active}
+{several ; is property of ; scenes ;  ; }
+{signs ;  be (complemented by) ; in Cyrillic ;  ; active}
+{film 's Bulgarian locale ; give away ; as signs in Cyrillic ;  ; passive}
+{film ; have ; Bulgarian locale ;  ; }
+{Bulgarian ; is property of ; locale ;  ; }
+115	Hermine was married, on 7 January 1907 in Greiz to Prince Johann George Ludwig Ferdinand August of Schoenaich-Carolath (11 September 1873 - 7 April 1920).
+{Hermine ; be ; married on 7 1907  January in Greiz to Prince Johann George Ludwig Ferdinand August of Schoenaich-Carolath 11  September 1873 ;  ; active}
+{Prince Johann George Ludwig Ferdinand August ;  be (complemented by) ; of Schoenaich-Carolath 11  September 1873 ;  ; active}
+{7 1907  January ;  be (complemented by) ; in Greiz to Prince Johann George Ludwig Ferdinand August of Schoenaich-Carolath 11  September 1873 ;  ; active}
+{Greiz ;  be (complemented by) ; to Prince Johann George Ludwig Ferdinand August of Schoenaich-Carolath 11  September 1873 ;  ; active}
+{1907  January ; be ; 7 ;  ; active}
+{11  September 1873 ; be ; Schoenaich-Carolath ;  ; active}
+116	He appeared in over 140 films between 1935 and 1950.
+{He ; appear in ; 140 films between 1935 ,1950 ;  ; active}
+{140 films ;  be (complemented by) ; between 1935 ,1950 ;  ; active}
+117	In March 2009, Ludwig appeared in a lead role in Disney's "Race to Witch Mountain".
+{Ludwig ; appear in ; March 2009 ;  ; active}
+{Ludwig ; appear in ; to Witch Mountain ;  ; active}
+{Ludwig ; appear in ; March 2009 to Witch Mountain ;  ; active}
+118	On 5 October 2007, Pierluigi Casiraghi called up Alfonso, alongside with teammate Francesco Bolzoni, to form part of the Italy national under-21 football team.
+{Pierluigi Casiraghi ; call up ; Alfonso ;  ; active}
+{Pierluigi Casiraghi ; call up ; on 5 2007  October ;  ; active}
+{Pierluigi Casiraghi ; call up ; Alfonso on 5 2007  October ;  ; active}
+{Pierluigi Casiraghi ; call up ; to form  part of Italy football team ;  ; active}
+{Pierluigi Casiraghi ; call up ; to form  part of Italy football team on 5 2007  October ;  ; active}
+{Pierluigi Casiraghi ; call up ; Alfonso to form  part of Italy football team ;  ; active}
+{Pierluigi Casiraghi ; call up ; Alfonso to form  part of Italy football team on 5 2007  October ;  ; active}
+{2007  October ; be ; 5 ;  ; active}
+{part ;  be (complemented by) ; of Italy football team ;  ; active}
+{under-21 ; is property of ; Italy football team ;  ; }
+{national ; is property of ; Italy football team ;  ; }
+119	Journalists are strictly prohibited from covering the rebellion.
+{Journalists ; prohibit ; strictly ;  ; passive}
+{Journalists ; cover ; rebellion ;  ; active}
+120	Grimes also starred in the sequel "Class of '44" (1973), which followed his character to college.
+{Class of 44 ; grime ; also ;  ; active}
+{he ; have ; character ;  ; }
+{Class ;  be (complemented by) ; of 44 ;  ; active}
+{Class ; follow ; his character to college ;  ; active}
+{Class ; follow ; his character ;  ; active}
+{Class ; follow ; to college ;  ; active}
+121	"Guilty" is a 1916 silent drama film featuring Harry Carey.
+{Guilty ; be ; 1916 silent drama film ;  ; active}
+{silent ; is property of ; drama film ;  ; }
+{1916 silent drama film ; feature ; Harry Carey ;  ; passive}
+122	This led to an uprising in the holy city of Qum and the uprising soon spread to Tabriz, Tehran and other major cities.
+{This ; lead to ; uprising in holy city of Qum ;  ; active}
+{holy city ;  be (complemented by) ; of Qum ;  ; active}
+{holy ; is property of ; city ;  ; }
+{uprising ;  be (complemented by) ; in holy city of Qum ;  ; active}
+{This ; spread ; soon ;  ; active}
+{This ; spread ; to Tabriz, Tehran, other major cities ;  ; active}
+{This ; spread ; soon to Tabriz, Tehran, other major cities ;  ; active}
+{other ; is property of ; cities ;  ; }
+{major ; is property of ; cities ;  ; }
+123	He appeared in 129 films between 1929 and 1946.
+{He ; appear in ; 129 films between 1929 ,1946 ;  ; active}
+{129 films ;  be (complemented by) ; between 1929 ,1946 ;  ; active}
+124	After crushing a French army in July 1812, Wellington exploited his great victory by capturing Madrid.
+{Wellington ; exploit ; his great victory ;  ; active}
+{Wellington ; exploit ; by capturing Madrid ;  ; active}
+{Wellington ; exploit ; his great victory by capturing Madrid ;  ; active}
+{capturing ; is property of ; Madrid ;  ; }
+{he ; have ; great victory ;  ; }
+{great ; is property of ; victory ;  ; }
+125	The title of the series comes from the very first episode, where Udav has his length measured in parrots.
+{title of series ; come from ; first episode ;  ; active}
+{Udav ; have ; first episode ;  ; active}
+{he ; have ; length ;  ; }
+{Udav ; have ; his length ;  ; active}
+{first ; is property of ; episode ;  ; }
+{title ;  be (complemented by) ; of series ;  ; active}
+126	Carter's reorganization efforts separated the Department of Health, Education and Welfare into the Department of Education and the Department of Health and Human Services.
+{Carter 's reorganization efforts ; separate ; Department of Health ,Education ,Welfare ;  ; active}
+{Carter 's reorganization efforts ; separate ; into Department of Education, Department of Health & Human Services ;  ; active}
+{Carter 's reorganization efforts ; separate ; Department of Health ,Education ,Welfare into Department of Education, Department of Health & Human Services ;  ; active}
+{Department ;  be (complemented by) ; of Health & Human Services ;  ; active}
+{Department ;  be (complemented by) ; of Education ;  ; active}
+{Department ;  be (complemented by) ; of Health ,Education ,Welfare ;  ; active}
+{Carter ; have ; reorganization efforts ;  ; }
+127	In March 2005, his second single, "Wisemen," was released.
+{Wisemen ; release ; in March 2005 ;  ; passive}
+{March 2005 ;  be  ; his second single ;  ; active}
+{second ; is property of ; single ;  ; }
+{he ; have ; second single ;  ; }
+128	Unlike all other Eclipse Awards, which are voted on by a chosen committee from among the horse racing world, the Moment of the Year is voted on by racing fans.
+{Moment ;  be (complemented by) ; of Year ;  ; active}
+129	Beauman is married to film director, screenwriter and producer James Bobin, with whom she has one daughter, Madelaine.
+{Beauman ; marry ; to film director, screenwriter, producer James Bobin ;  ; passive}
+130	While some reviewers praised the movie as a classic example of 1960s camp, others noted its mediocre production values, rewriting of the script, changes in the musical score, and disappointing choreography in some songs.
+{others ; note ; its mediocre production values ;  ; active}
+{others ; note ; changes in musical score ;  ; active}
+{others ; note ; disappointing choreography in some  songs ;  ; active}
+{others ; note ; its mediocre production values,changes in musical score,disappointing choreography in some  songs ;  ; active}
+{its mediocre production values ;  be  ; rewriting of script ;  ; active}
+{rewriting ;  be (complemented by) ; of script ;  ; active}
+{mediocre ; is property of ; production values ;  ; }
+{it ; have ; mediocre production values ;  ; }
+{musical ; is property of ; score ;  ; }
+{changes ;  be (complemented by) ; in musical score ;  ; active}
+{disappointing ; is property of ; choreography ;  ; }
+{disappointing choreography ;  be (complemented by) ; in some  songs ;  ; active}
+{classic example ;  be (complemented by) ; of 1960s camp ;  ; active}
+{some  reviewers ; praise ; movie as classic example of 1960s camp ;  ; active}
+{some  reviewers ; praise ; as classic example of 1960s camp ;  ; active}
+{classic ; is property of ; example ;  ; }
+{some  reviewers ; praise ; movie ;  ; active}
+131	As of 2009, it is ranked as the strongest hockey league in Europe.
+{it ; rank ; as strongest hockey league in Europe ;  ; passive}
+{strongest ; is property of ; hockey league ;  ; }
+{strongest hockey league ;  be (complemented by) ; in Europe ;  ; active}
+132	He is also an accomplished musician and songwriter and fronts his own band, Ten Athlone.
+{He ; be ; also an accomplished musician ,songwriter ,fronts his own  band ;  ; active}
+{accomplished ; is property of ; musician ;  ; }
+{his own  band ; be ; fronts ;  ; active}
+133	He also served as a councillor on Bermondsey.
+{He ; serve as ; councillor ; also ; active}
+{He ; serve as ; on Bermondsey ; also ; active}
+{He ; serve as ; councillor on Bermondsey ; also ; active}
+134	One other person was killed in fighting in Sidon and two soldiers died in fighting east of Beirut.
+{One other person ; kill ;  ;  ; passive}
+{One other person ; fight ; in Sidon, two soldiers ;  ; active}
+{two soldiers ; die ;  ;  ; passive}
+{other ; is property of ; person ;  ; }
+135	He spent two years on board the Type IIB U-boat, under the command of "Oberleutnant zur See" Otto Kretschmer, completing five combat patrols as 1.WO (second-in-command), between October 1939 and January 1940.
+{He ; spend ; two years Otto Kretschmer on board Type IIB U-boat under command of Oberleutnant zur See ;  ; active}
+{He ; spend ; complete  five combat patrols WO second-in-command as 1 between October 1939 ,January 1940 ;  ; active}
+{He ; spend ; two years Otto Kretschmer on board Type IIB U-boat under command of Oberleutnant zur See complete  five combat patrols WO second-in-command as 1 between October 1939 ,January 1940 ;  ; active}
+{Type IIB U-boat ; be ; board ;  ; active}
+{command ;  be (complemented by) ; of Oberleutnant zur See ;  ; active}
+{Otto Kretschmer ; be ; years ;  ; active}
+{two years Otto Kretschmer ;  be (complemented by) ; on board Type IIB U-boat ;  ; active}
+{two years Otto Kretschmer ;  be (complemented by) ; under command of Oberleutnant zur See ;  ; active}
+{two years Otto Kretschmer ;  be (complemented by) ; on board Type IIB U-boat under command of Oberleutnant zur See ;  ; active}
+{five combat patrols WO second-in-command ;  be (complemented by) ; as 1 ;  ; active}
+{five combat patrols WO second-in-command ;  be (complemented by) ; between October 1939 ,January 1940 ;  ; active}
+{WO second-in-command ; be ; combat patrols ;  ; active}
+{five combat patrols WO second-in-command ;  be (complemented by) ; as 1 between October 1939 ,January 1940 ;  ; active}
+136	On 14 April, Graziani ordered his entire army to advance towards the Ethiopian defensive lines in a three-pronged attack.
+{Graziani ; order ; his entire army ;  ; active}
+{Graziani ; order ; on 14 ;  ; active}
+{Graziani ; order ; his entire army on 14 ;  ; active}
+{Graziani ; order ; to advance   towards Ethiopian defensive lines in three-pronged attack ;  ; active}
+{Graziani ; order ; to advance   towards Ethiopian defensive lines in three-pronged attack on 14 ;  ; active}
+{Graziani ; order ; his entire army to advance   towards Ethiopian defensive lines in three-pronged attack ;  ; active}
+{Graziani ; order ; his entire army to advance   towards Ethiopian defensive lines in three-pronged attack on 14 ;  ; active}
+{14 ;  be  ; April ;  ; active}
+{entire ; is property of ; army ;  ; }
+{he ; have ; entire army ;  ; }
+{three-pronged ; is property of ; attack ;  ; }
+{defensive ; is property of ; lines ;  ; }
+{Ethiopian ; is property of ; lines ;  ; }
+{Graziani ; advance ; towards Ethiopian defensive lines ;  ; active}
+{Graziani ; advance ; in three-pronged attack ;  ; active}
+137	"Bastion" had been successful in the National Amateur League competitions (the "Fourth Level" of competition in Ukraine) including winning the Ukrainian Amateur Championship in 2007.
+{Bastion ; be ; successful in the National Amateur League competitions Fourth  Level including winning in 2007 ;  ; active}
+{Ukrainian ; is property of ; Championship ;  ; }
+{successful in the National Amateur League competitions Fourth  Level ; win ; Ukrainian Amateur Championship in 2007 ;  ; active}
+{winning ;  be (complemented by) ; in 2007 ;  ; active}
+{successful ; is property of ; competitions Fourth  Level ;  ; }
+{successful in the National Amateur League competitions Fourth  Level ; win ; Ukrainian Amateur Championship ;  ; active}
+{Fourth  Level ; be ; competitions ;  ; active}
+{successful in the National Amateur League competitions Fourth  Level ;  be (complemented by) ; including winning in 2007 ;  ; active}
+{successful in the National Amateur League competitions Fourth  Level ; win ; in 2007 ;  ; active}
+{Amateur ; is property of ; Championship ;  ; }
+138	The show won an Emmy Award in the category of "Special Classification of Outstanding Program Achievements." 
+{show ; win ; Emmy Award ;  ; active}
+{show ; win ; in category of Special Classification of Outstanding Program Achievements ;  ; active}
+{show ; win ; Emmy Award in category of Special Classification of Outstanding Program Achievements ;  ; active}
+{Outstanding ; is property of ; Program Achievements ;  ; }
+{category ;  be (complemented by) ; of Special Classification of Outstanding Program Achievements ;  ; active}
+{Special ; is property of ; Classification ;  ; }
+{Special Classification ;  be (complemented by) ; of Outstanding Program Achievements ;  ; active}
+139	He held the seat until his retirement in 1987.
+{He ; hold ; seat ;  ; active}
+{He ; hold ; until his retirement ;  ; active}
+{He ; hold ; seat until his retirement ;  ; active}
+{He ; hold ; in 1987 ;  ; active}
+{He ; hold ; seat in 1987 ;  ; active}
+{he ; have ; retirement ;  ; }
+140	France too was opposing Spain at every juncture.
+{too ; be ; France ;  ; active}
+141	He served in the Wisconsin State Assembly from 1998 to 2010 until he was appointed to the Wisconsin Court of Appeals.
+{He ; serve ; he appoint   to Wisconsin Court of Appeals ;  ; active}
+{He ; serve ; in Wisconsin State Assembly ;  ; active}
+{He ; serve ; he appoint   to Wisconsin Court of Appeals in Wisconsin State Assembly ;  ; active}
+{He ; serve ; from 1998 to 2010 ;  ; active}
+{He ; serve ; he appoint   to Wisconsin Court of Appeals from 1998 to 2010 ;  ; active}
+{Wisconsin Court ;  be (complemented by) ; of Appeals ;  ; active}
+{he ; appoint ; to Wisconsin Court of Appeals ;  ; passive}
+142	Cassinelli was born in Genoa, and attended the catholic college Vittorino da Feltre in the same city.
+{Cassinelli ; bear ; in Genoa ;  ; passive}
+{Cassinelli ; attend ; catholic college Vittorino da Feltre in same city ;  ; active}
+{same ; is property of ; city ;  ; }
+{catholic ; is property of ; college Vittorino da Feltre ;  ; }
+{catholic college Vittorino da Feltre ;  be (complemented by) ; in same city ;  ; active}
+143	Yun Jung Hoon (born 1978) is a Korean actor.
+{Yun Jung Hoon ; be ; Korean actor ;  ; active}
+{Korean ; is property of ; actor ;  ; }
+{Yun Jung Hoon ; bear ; 1978 ;  ; active}
+144	Lotu-Iiga lives with his wife Jules in Onehunga.
+{Lotu-Iiga ; is property of ; lives Jules ;  ; }
+{Jules ; be ; lives ;  ; active}
+{Lotu-Iiga lives Jules ;  be (complemented by) ; with his wife ;  ; active}
+{he ; have ; wife ;  ; }
+145	After independence in 1947, Dr. Jivraj graced public office in various positions.
+{independence ;  be (complemented by) ; in 1947 ;  ; active}
+{Dr. Jivraj ; grace ; public office ;  ; active}
+{Dr. Jivraj ; grace ; in various positions ;  ; active}
+{Dr. Jivraj ; grace ; public office in various positions ;  ; active}
+{various ; is property of ; positions ;  ; }
+{public ; is property of ; office ;  ; }
+146	Both films are based on the short story "The Single Standard" by Daniel Carson Goodman; the story was adapted for this production by Gerrit J. Lloyd.
+{both  films ; base ; Daniel Carson Goodman ;  ; passive}
+{both  films ; base ; on short story Single Standard ;  ; passive}
+{both  films ; base ; Daniel Carson Goodman on short story Single Standard ;  ; passive}
+{both  films ; base ; by Daniel Carson Goodman ;  ; passive}
+{both  films ; base ; by Daniel Carson Goodman on short story Single Standard ;  ; passive}
+{Single Standard ; be ; story ;  ; active}
+{short ; is property of ; story Single Standard ;  ; }
+{story ; adapt ; Gerrit J. Lloyd ;  ; passive}
+{story ; adapt ; for this  production ;  ; passive}
+{story ; adapt ; Gerrit J. Lloyd for this  production ;  ; passive}
+{story ; adapt ; by Gerrit J. Lloyd ;  ; passive}
+{story ; adapt ; by Gerrit J. Lloyd for this  production ;  ; passive}
+147	Likewise, the accompanying music is generated by the program so that it's almost certain the listener will never quite hear the same arrangement twice.
+{accompanying music ; generate ; program ;  ; passive}
+{accompanying music ; generate ; Likewise ;  ; passive}
+{accompanying music ; generate ; by program ;  ; passive}
+{accompanying ; is property of ; music ;  ; }
+148	Once leaving Essendon, Booth moved to Tasmania and captain-coached the Sandy Bay Football Club from 1959 to 1961.
+{Booth ; move to ; Tasmania ;  ; active}
+149	After retiring as Miami Beach Fire Chief in 1999, Garcia successfully ran for the Miami Beach City Commission and continued to serve in that capacity for 7 years.
+{ ; retire ; as Miami Beach Fire Chief in 1999 ;  ; active}
+{Miami Beach Fire Chief ;  be (complemented by) ; in 1999 ;  ; active}
+{Garcia ; run ; successfully ;  ; active}
+{Garcia ; run ; for Miami Beach City Commission ;  ; active}
+{Garcia ; run ; successfully for Miami Beach City Commission ;  ; active}
+{Garcia ; continue ; to serve   in that  capacity for 7 years ;  ; active}
+{that  capacity ;  be (complemented by) ; for 7 years ;  ; active}
+150	Lawson was the sole black member of the Homebrew Computer Club, a group of early computer hobbyists which would produce a number of industry legends, including Apple founders Steve Jobs and Steve Wozniak.
+{Lawson ; be ; sole black member of Homebrew Computer Club ;  ; active}
+{number ;  be (complemented by) ; including Apple founders Steve Jobs ,Steve Wozniak ;  ; active}
+{number ;  be (complemented by) ; of industry legends including Apple founders Steve Jobs ,Steve Wozniak ;  ; active}
+{number ;  be (complemented by) ; of industry legends ;  ; active}
+{early ; is property of ; computer hobbyists ;  ; }
+{Homebrew Computer Club ;  be  ; group of early computer hobbyists ;  ; active}
+{group ; produce ; number of industry legends including Apple founders Steve Jobs ,Steve Wozniak ;  ; active}
+{group ;  be (complemented by) ; of early computer hobbyists ;  ; active}
+{sole black member ;  be (complemented by) ; of Homebrew Computer Club ;  ; active}
+{sole ; is property of ; member ;  ; }
+{black ; is property of ; member ;  ; }
+151	For the 2009 Japanese Grand Prix, Brawn GP secured a single race sponsorship deal with Angfa Co. Ltd, maker of the medical shampoo Scalp-D, which has proved very popular in Japan since its launch in 2005.
+{Brawn GP ; secure ; single race sponsorship deal ;  ; active}
+{Brawn GP ; secure ; for 2009 Japanese Grand Prix ;  ; active}
+{Brawn GP ; secure ; single race sponsorship deal for 2009 Japanese Grand Prix ;  ; active}
+{Brawn GP ; secure ; with Angfa Co. Ltd ;  ; active}
+{Brawn GP ; secure ; single race sponsorship deal with Angfa Co. Ltd ;  ; active}
+{Angfa Co. Ltd ;  be  ; maker of medical shampoo Scalp-D ;  ; active}
+{medical shampoo Scalp-D ; prove ; very popular in Japan ;  ; active}
+{its launch ;  be (complemented by) ; in 2005 ;  ; active}
+{maker ;  be (complemented by) ; of medical shampoo Scalp-D ;  ; active}
+{medical shampoo Scalp-D ; prove ; since its launch in 2005 ;  ; active}
+{it ; have ; launch ;  ; }
+{medical shampoo Scalp-D ; prove ; very popular in Japan since its launch in 2005 ;  ; active}
+{medical ; is property of ; shampoo Scalp-D ;  ; }
+{single ; is property of ; race sponsorship deal ;  ; }
+152	David Segal died nine years later.
+{David Segal ; die ; later ;  ; active}
+153	Foreign investors are declining to finance Hungary's high budget and current account deficits, and the forint's weakness in recent months threatens hundreds of thousands of families who took out foreign currency mortgages.
+{Foreign investors ; decline ; to finance  Hungary 's high budget, current account deficits ;  ; active}
+{high ; is property of ; budget ;  ; }
+{current ; is property of ; account deficits ;  ; }
+{Hungary ; have ; high budget ;  ; }
+{Foreign investors ; finance ; Hungary 's high budget ;  ; active}
+{Foreign investors ; finance ; current account deficits ;  ; active}
+{Foreign investors ; finance ; Hungary 's high budget,current account deficits ;  ; active}
+{Foreign ; is property of ; investors ;  ; }
+154	On 2 January 1940, after the commencement of World War II, he was appointed General Staff Officer Grade III in the Western Command headquarters of the Citizen Forces, working with the Intelligence Section.
+{January 1940 ; appoint ; General Staff Officer Grade III in Western Command headquarters of Citizen Forces ;  ; passive}
+{January 1940 ; appoint ; on 2 ;  ; passive}
+{January 1940 ; appoint ; General Staff Officer Grade III in Western Command headquarters of Citizen Forces on 2 ;  ; passive}
+{January 1940 ; appoint ; after commencement of World War II ;  ; passive}
+{January 1940 ; appoint ; General Staff Officer Grade III in Western Command headquarters of Citizen Forces after commencement of World War II ;  ; passive}
+{January 1940 ; appoint ; work   with Intelligence Section ;  ; passive}
+{January 1940 ; appoint ; work   with Intelligence Section on 2 ;  ; passive}
+{January 1940 ; appoint ; work   with Intelligence Section after commencement of World War II ;  ; passive}
+{January 1940 ; appoint ; General Staff Officer Grade III in Western Command headquarters of Citizen Forces work   with Intelligence Section ;  ; passive}
+{January 1940 ; appoint ; General Staff Officer Grade III in Western Command headquarters of Citizen Forces work   with Intelligence Section on 2 ;  ; passive}
+{January 1940 ; appoint ; General Staff Officer Grade III in Western Command headquarters of Citizen Forces work   with Intelligence Section after commencement of World War II ;  ; passive}
+{commencement ;  be (complemented by) ; of World War II ;  ; active}
+{Western Command headquarters ;  be (complemented by) ; of Citizen Forces ;  ; active}
+{Citizen Forces ; work ; with Intelligence Section ;  ; active}
+{General Staff Officer Grade III ;  be (complemented by) ; in Western Command headquarters of Citizen Forces ;  ; active}
+{he ; appoint ; General Staff Officer Grade III in Western Command headquarters of Citizen Forces ;  ; passive}
+{he ; appoint ; on 2 ;  ; passive}
+{he ; appoint ; General Staff Officer Grade III in Western Command headquarters of Citizen Forces on 2 ;  ; passive}
+{he ; appoint ; after commencement of World War II ;  ; passive}
+{he ; appoint ; General Staff Officer Grade III in Western Command headquarters of Citizen Forces after commencement of World War II ;  ; passive}
+{he ; appoint ; work   with Intelligence Section ;  ; passive}
+{he ; appoint ; work   with Intelligence Section on 2 ;  ; passive}
+{he ; appoint ; work   with Intelligence Section after commencement of World War II ;  ; passive}
+{he ; appoint ; General Staff Officer Grade III in Western Command headquarters of Citizen Forces work   with Intelligence Section ;  ; passive}
+{he ; appoint ; General Staff Officer Grade III in Western Command headquarters of Citizen Forces work   with Intelligence Section on 2 ;  ; passive}
+{he ; appoint ; General Staff Officer Grade III in Western Command headquarters of Citizen Forces work   with Intelligence Section after commencement of World War II ;  ; passive}
+{January 1940,he ; appoint ; General Staff Officer Grade III in Western Command headquarters of Citizen Forces ;  ; passive}
+{January 1940,he ; appoint ; on 2 ;  ; passive}
+{January 1940,he ; appoint ; General Staff Officer Grade III in Western Command headquarters of Citizen Forces on 2 ;  ; passive}
+{January 1940,he ; appoint ; after commencement of World War II ;  ; passive}
+{January 1940,he ; appoint ; General Staff Officer Grade III in Western Command headquarters of Citizen Forces after commencement of World War II ;  ; passive}
+{January 1940,he ; appoint ; work   with Intelligence Section ;  ; passive}
+{January 1940,he ; appoint ; work   with Intelligence Section on 2 ;  ; passive}
+{January 1940,he ; appoint ; work   with Intelligence Section after commencement of World War II ;  ; passive}
+{January 1940,he ; appoint ; General Staff Officer Grade III in Western Command headquarters of Citizen Forces work   with Intelligence Section ;  ; passive}
+{January 1940,he ; appoint ; General Staff Officer Grade III in Western Command headquarters of Citizen Forces work   with Intelligence Section on 2 ;  ; passive}
+{January 1940,he ; appoint ; General Staff Officer Grade III in Western Command headquarters of Citizen Forces work   with Intelligence Section after commencement of World War II ;  ; passive}
+155	He is largely focused on breaking up Garrincha's gang and is unaware of Thomas Barrett's intentions.
+{He ; focus on ; largely ;  ; passive}
+{He ; break up ; Garrincha 's gang ;  ; active}
+{Garrincha ; have ; gang ;  ; }
+156	The royal family did not edit the book, nor did they have a preview before its printing.
+{royal family ; not edit ; book ;  ; active}
+{royal ; is property of ; family ;  ; }
+157	He attempted to escape, but his ships had been at sea for an extended period and were sluggish compared to the 98-gun "London", which rapidly came alongside the French ship of the line and opened a heavy fire.
+{He ; attempted to escape ;  ;  ; active}
+{He ; escape ;  ;  ; active}
+{his ships ; be ; at sea for extended period ;  ; active}
+{extended ; is property of ; period ;  ; }
+{his ships ; be ; for extended period ;  ; active}
+{his ships ; be ; at sea ;  ; active}
+{he ; have ; ships ;  ; }
+158	Her name is revealed to be Abby (Chloe Grace Moretz), who claims to be 12 years old.
+{Her name ; reveal ; Abby ;  ; passive}
+{Abby ; claim ; old ;  ; active}
+{Her ; have ; name ;  ; }
+159	Similarly, he only rejoined the Bundestag after the next elections as replacement candidate from 1964 to 1969.
+{he ; rejoin ; Bundestag ; Similarly ; active}
+{he ; rejoin ; after next elections as replacement candidate ; Similarly ; active}
+{he ; rejoin ; Bundestag after next elections as replacement candidate ; Similarly ; active}
+{he ; rejoin ; from 1964 to 1969 ; Similarly ; active}
+{he ; rejoin ; Bundestag from 1964 to 1969 ; Similarly ; active}
+{next elections ;  be (complemented by) ; as replacement candidate ;  ; active}
+{next ; is property of ; elections ;  ; }
+160	Zimmer ran for Mayor of Hoboken in 2009.
+{Zimmer ; run ; for Mayor of Hoboken ;  ; active}
+{Zimmer ; run ; in 2009 ;  ; active}
+{Mayor ;  be (complemented by) ; of Hoboken ;  ; active}
+161	Lieutenant Commander Pavlic received the Purple Heart posthumously.
+{Lieutenant Commander Pavlic ; receive ;  ;  ; active}
+162	His work in synthesis and spectroscopy involved close cooperation with Achim Mueller.
+{His work ;  be (complemented by) ; in synthesis & involved close cooperation with Achim Mueller ;  ; active}
+{His ; have ; work ;  ; }
+{His work ;  be (complemented by) ; with Achim Mueller ;  ; active}
+{His work ;  be (complemented by) ; in synthesis & involved close cooperation ;  ; active}
+163	The publisher is McGill-Queen's University Press.
+{publisher ; be ; McGill-Queen 's University Press ;  ; active}
+{McGill-Queen ; have ; University Press ;  ; }
+164	Great if the president will help but totally unnecessary.
+{president ; help ;  ;  ; active}
+165	It was written by Norman Steinberg and David Frankel, based on the article "Convention of the Love Goddesses" in "Esquire Magazine" by Bob Greene.
+{It ; write ; Norman Steinberg ,David Frankel ;  ; passive}
+{It ; write ; by Norman Steinberg ,David Frankel ;  ; passive}
+{Norman Steinberg ,David Frankel ; base on ; article Convention ;  ; active}
+{Norman Steinberg ,David Frankel ; base on ; in Esquire Magazine ;  ; active}
+{Norman Steinberg ,David Frankel ; base on ; article Convention in Esquire Magazine ;  ; active}
+{David Frankel ; base on ; article Convention ;  ; active}
+{David Frankel ; base on ; article Convention in Esquire Magazine ;  ; active}
+{David Frankel ; base on ; in Esquire Magazine ;  ; active}
+{Convention ; be ; article ;  ; active}
+166	Tahar Rahim (born 5 July 1981) is a French actor of Algerian origins.
+{Tahar Rahim ; be ; French actor of Algerian origins ;  ; active}
+{French actor ;  be (complemented by) ; of Algerian origins ;  ; active}
+{French ; is property of ; actor ;  ; }
+{Tahar Rahim ; bear ; 5 July 1981 ;  ; active}
+167	The Prince is hurt.
+{Prince ; hurt ;  ;  ; passive}
+168	He was called up for the Black Stars for a friendly game against Argentina national football team and marked in the game on 1 October 2009 his debut.
+{He ; call up ; his debut ;  ; passive}
+{He ; call up ; for Black Stars ;  ; passive}
+{He ; call up ; his debut for Black Stars ;  ; passive}
+{He ; call up ; for friendly game against Argentina football team ;  ; passive}
+{He ; call up ; his debut for friendly game against Argentina football team ;  ; passive}
+{friendly game ;  be (complemented by) ; against Argentina football team ;  ; active}
+{national ; is property of ; Argentina football team ;  ; }
+{friendly ; is property of ; game ;  ; }
+{he ; have ; debut ;  ; }
+169	He then resumed test piloting, for SISA Airline, for fifteen years.
+{He ; resume ; test piloting ; then ; active}
+{He ; resume ; for SISA Airline ; then ; active}
+{He ; resume ; test piloting for SISA Airline ; then ; active}
+{He ; resume ; for fifteen years ; then ; active}
+{He ; resume ; test piloting for fifteen years ; then ; active}
+170	On August 29, 2010, the Jets waived defensive lineman Rodrique Wright, and wide receivers Aundrae Allison, Marcus Henry and Laveranues Coles.
+{Jets ; waive ; defensive lineman Rodrique Wright ;  ; active}
+{Jets ; waive ; on August 29 2010 ;  ; active}
+{Jets ; waive ; defensive lineman Rodrique Wright on August 29 2010 ;  ; active}
+{Jets ; waive ; wide receivers Aundrae Allison ;  ; active}
+{Jets ; waive ; wide receivers Aundrae Allison on August 29 2010 ;  ; active}
+{Jets ; waive ; defensive lineman Rodrique Wright,wide receivers Aundrae Allison ;  ; active}
+{Jets ; waive ; defensive lineman Rodrique Wright,wide receivers Aundrae Allison on August 29 2010 ;  ; active}
+{defensive ; is property of ; lineman Rodrique Wright ;  ; }
+{Rodrique Wright ; be ; lineman ;  ; active}
+{Aundrae Allison ; be ; receivers ;  ; active}
+{wide ; is property of ; receivers Aundrae Allison ;  ; }
+171	Mana began his playing career with Quilmes and appeared in nine Primera Division Argentina matches for the club.
+{Mana ; begin ; his playing career ;  ; active}
+{Mana ; begin ; with Quilmes ;  ; active}
+{Mana ; begin ; his playing career with Quilmes ;  ; active}
+{playing ; is property of ; career ;  ; }
+{he ; have ; playing career ;  ; }
+{Mana ; appear ; Primera Division Argentina match   in nine for club ;  ; active}
+{Primera Division Argentina ; match ; for club ;  ; active}
+{Primera Division Argentina ; match ; in nine for club ;  ; active}
+{Primera Division Argentina ; match ; in nine ;  ; active}
+172	Baharum was elected to federal Parliament in the 2004 election for the newly created seat of Sekijang.
+{Baharum ; elect ; to federal Parliament ;  ; passive}
+{Baharum ; elect ; in 2004 election for created seat of Sekijang ;  ; passive}
+{federal ; is property of ; Parliament ;  ; }
+{created ; is property of ; seat ;  ; }
+{2004 election ;  be (complemented by) ; for created seat of Sekijang ;  ; active}
+{created seat ;  be (complemented by) ; of Sekijang ;  ; active}
+173	Ryerson's Faculty of Community Services offers multi-disciplinary programs in health, early childhood education, social justice and community development.
+{Ryerson 's Faculty of Community Services ; offer ; multi-disciplinary programs ;  ; active}
+{Ryerson 's Faculty of Community Services ; offer ; in health, early childhood education, social justice, community development ;  ; active}
+{Ryerson 's Faculty of Community Services ; offer ; multi-disciplinary programs in health, early childhood education, social justice, community development ;  ; active}
+{early ; is property of ; childhood education ;  ; }
+{social ; is property of ; justice ;  ; }
+{multi-disciplinary ; is property of ; programs ;  ; }
+{Ryerson 's Faculty ;  be (complemented by) ; of Community Services ;  ; active}
+{Ryerson ; have ; Faculty ;  ; }
+174	A woman Tina arrives at Cholera street where she takes up residence and works as a prostitute.
+{woman Tina ; arrive at ; Cholera street ;  ; active}
+{she ; take up ; residence ;  ; active}
+{she ; work as ; prostitute ;  ; active}
+175	The plan was to airlift one battalion of the 24th Infantry Division into South Korea via C-54 Skymaster transport aircraft and quickly block advancing North Korean forces while the remainder of the division was transported on ships.
+{plan ; be ; to airlift  one battalion of 24th Infantry Division into South Korea via C-54 Skymaster transport aircraft ;  ; active}
+{South Korea ;  be (complemented by) ; via C-54 Skymaster transport aircraft ;  ; active}
+{one battalion ;  be (complemented by) ; of 24th Infantry Division ;  ; active}
+{24th ; is property of ; Infantry Division ;  ; }
+{plan ; airlift ; one battalion of 24th Infantry Division ;  ; active}
+{plan ; airlift ; into South Korea via C-54 Skymaster transport aircraft ;  ; active}
+{plan ; airlift ; one battalion of 24th Infantry Division into South Korea via C-54 Skymaster transport aircraft ;  ; active}
+176	His usual position was on the wing or in the centres.
+{His usual position ; be ; on wing ;  ; active}
+{His usual position ; be ; in centres ;  ; active}
+{usual ; is property of ; position ;  ; }
+{His ; have ; usual position ;  ; }
+177	Later on, Han Sui and Ma Teng shared an uneasy relationship with each other; between them were periods of alliance followed by periods of open warfare.
+{Han Sui ; share ; uneasy relationship ; on Later ; active}
+{Han Sui ; share ; with each  other ; on Later ; active}
+{Han Sui ; share ; uneasy relationship with each  other ; on Later ; active}
+{uneasy ; is property of ; relationship ;  ; }
+{Ma Teng ; share ; uneasy relationship ; on Later ; active}
+{Ma Teng ; share ; with each  other ; on Later ; active}
+{Ma Teng ; share ; uneasy relationship with each  other ; on Later ; active}
+{Han Sui,Ma Teng ; share ; uneasy relationship ; on Later ; active}
+{Han Sui,Ma Teng ; share ; with each  other ; on Later ; active}
+{Han Sui,Ma Teng ; share ; uneasy relationship with each  other ; on Later ; active}
+{periods of alliance ; be ; between them ;  ; active}
+{alliance ; follow ; periods of open warfare ;  ; passive}
+{periods ;  be (complemented by) ; of alliance ;  ; active}
+{alliance ; follow ; by periods of open warfare ;  ; passive}
+178	After the end of political career, Akhundov served as the Vice President of the Azerbaijan National Academy of Sciences until 1972.
+{end ;  be (complemented by) ; of political career ;  ; active}
+{political ; is property of ; career ;  ; }
+{Akhundov ; serve as ; Vice President of Azerbaijan National Academy of Sciences ;  ; active}
+{Akhundov ; serve as ; until 1972 ;  ; active}
+{Akhundov ; serve as ; Vice President of Azerbaijan National Academy of Sciences until 1972 ;  ; active}
+{Azerbaijan National Academy ;  be (complemented by) ; of Sciences ;  ; active}
+{Vice President ;  be (complemented by) ; of Azerbaijan National Academy of Sciences ;  ; active}
+179	They were given a revision session on how to pray, and character building.
+180	Clayton State University is an NCAA Division II member, competing in one of the top conferences in the nation at that level - the Peach Belt Conference.
+{Clayton State University ; be ; NCAA Division II member ;  ; active}
+{Peach Belt Conference ; be ; level ;  ; active}
+{NCAA Division II member ;  be  ; competing in one of top conferences in nation at that  level Peach Belt Conference ;  ; active}
+{nation ;  be (complemented by) ; at that  level Peach Belt Conference ;  ; active}
+{competing ;  be (complemented by) ; in one of top conferences in nation at that  level Peach Belt Conference ;  ; active}
+{top ; is property of ; conferences ;  ; }
+{competing ;  be (complemented by) ; in one ;  ; active}
+{competing ;  be (complemented by) ; in nation at that  level Peach Belt Conference ;  ; active}
+{competing ;  be (complemented by) ; of top conferences ;  ; active}
+181	The state's two U.S. senators are Jefferson B. Sessions III and Richard C. Shelby, both Republicans.
+{state ; be ; two U.S. senators ;  ; active}
+{Richard C. Shelby ;  be  ; both  Republicans ;  ; active}
+{two U.S. senators ; be ; Jefferson B. Sessions III ,Richard C. Shelby ;  ; active}
+182	Some academic philosophers have criticized Rand for what they consider her lack of rigor and limited understanding of philosophical subject matter.
+{some academic philosophers ; criticize ; Rand for consider ;  ; active}
+{they ; consider ; what ;  ; active}
+{they ; consider ; Rand ;  ; active}
+{Rand ;  be (complemented by) ; for consider ;  ; active}
+{academic ; is property of ; philosophers ;  ; }
+183	After the Muslim victory at the Battle of Sagrajas (1086) put at temporary stop to Christian expansion, the Almoravid dynasty constructed a unified Al-Andalus with its capital in Granada, ruling until mid-12th century.
+{Muslim victory at Battle of Sagrajas ; put ; at temporary stop ;  ; active}
+{Muslim victory at Battle of Sagrajas ; put ; to Christian expansion ;  ; active}
+{temporary ; is property of ; stop ;  ; }
+{Christian ; is property of ; expansion ;  ; }
+{Battle ;  be (complemented by) ; of Sagrajas ;  ; active}
+{Muslim victory at Battle of Sagrajas ;  be  ; 1086 ;  ; active}
+{Muslim ; is property of ; victory ;  ; }
+{Muslim victory ;  be (complemented by) ; at Battle of Sagrajas ;  ; active}
+{Almoravid dynasty ; construct ; unified Al-Andalus ;  ; active}
+{Almoravid dynasty ; construct ; with its capital in Granada ruling ;  ; active}
+{Almoravid dynasty ; construct ; unified Al-Andalus with its capital in Granada ruling ;  ; active}
+{Almoravid dynasty ; construct ; until mid-12th century ;  ; active}
+{Almoravid dynasty ; construct ; unified Al-Andalus until mid-12th century ;  ; active}
+{it ; have ; capital ;  ; }
+{its capital ;  be (complemented by) ; in Granada ruling ;  ; active}
+{mid-12th ; is property of ; century ;  ; }
+{unified ; is property of ; Al-Andalus ;  ; }
+184	Lancaster was nominated four times for Academy Awards and won once - for his work in "Elmer Gantry" in 1960.
+{Lancaster ; nominate ; four times ;  ; passive}
+{Lancaster ; nominate ; for Academy Awards ;  ; passive}
+{Lancaster ; nominate ; four times for Academy Awards ;  ; passive}
+{Lancaster ; win ; once ;  ; active}
+{Lancaster ; win ; in Elmer Gantry in 1960 ;  ; active}
+{Lancaster ; win ; once in Elmer Gantry in 1960 ;  ; active}
+{Lancaster ; win ; once  for his work ;  ; active}
+{Lancaster ; win ; once  for his work in Elmer Gantry in 1960 ;  ; active}
+{Elmer Gantry ;  be (complemented by) ; in 1960 ;  ; active}
+185	The shield can be shown surrounded by the insignia of an honorary Knight Commander of the Most Honorable Order of the Bath (KCB), an award the General received after the first Gulf War.
+{shield ; show ;  ;  ; passive}
+186	She was discharged from the Sirio-Libanes Hospital on the June 23, 2008 after suffering strong chest pains.
+{She ; discharge ; June 23 2008 ;  ; passive}
+{She ; discharge ; from Sirio-Libanes Hospital on the June 23 ;  ; passive}
+{She ; discharge ; June 23 2008 from Sirio-Libanes Hospital on the June 23 ;  ; passive}
+{Sirio-Libanes Hospital ;  be (complemented by) ; on the June 23 ;  ; active}
+{She ; suffer ; strong chest pains ;  ; active}
+{strong ; is property of ; chest pains ;  ; }
+187	However, the trio did appear on the 12-date benefit tour for Action for Research into Multiple Sclerosis, as well as on the album "Guitar Boogie".
+{trio ; appear ; However ;  ; active}
+{trio ; appear ; on 12-date benefit tour for Action for Research ;  ; active}
+{trio ; appear ; However on 12-date benefit tour for Action for Research ;  ; active}
+{trio ; appear ; into Multiple Sclerosis ;  ; active}
+{trio ; appear ; However into Multiple Sclerosis ;  ; active}
+{trio ; appear ; on album Guitar Boogie ;  ; active}
+{trio ; appear ; However on album Guitar Boogie ;  ; active}
+{Action ;  be (complemented by) ; for Research ;  ; active}
+{12-date ; is property of ; benefit tour ;  ; }
+{12-date benefit tour ;  be (complemented by) ; for Action for Research ;  ; active}
+188	Crick stressed the importance of finding new methods to probe human brain function.
+{Crick ; stress ; importance of finding ;  ; active}
+{human ; is property of ; brain function ;  ; }
+{importance ; find ; new methods to probe  human brain function ;  ; active}
+{new methods ; probe ; human brain function ;  ; active}
+{new ; is property of ; methods ;  ; }
+{importance ; find ; new methods ;  ; active}
+{importance ; find ; to probe  human brain function ;  ; active}
+{importance ;  be (complemented by) ; of finding ;  ; active}
+189	Among modern critics, Steve Biodrowski of "Cinefantastique" wrote, "In the end, "Destroy All Monsters" is too slim in its storyline, too thin in its characterizations, to be considered a truly great film.
+{Steve Biodrowski of Cinefantastique ; write ; too slim in its storyline ;  ; active}
+{Steve Biodrowski of Cinefantastique ; write ; among modern critics ;  ; active}
+{Steve Biodrowski of Cinefantastique ; write ; too slim in its storyline among modern critics ;  ; active}
+{Steve Biodrowski of Cinefantastique ; write ; Destroy All Monsters be  too slim in end in end in its storyline ;  ; active}
+{Steve Biodrowski of Cinefantastique ; write ; Destroy All Monsters be  too slim in end in end in its storyline among modern critics ;  ; active}
+{modern ; is property of ; critics ;  ; }
+{too slim ;  be (complemented by) ; in its storyline ;  ; active}
+{it ; have ; storyline ;  ; }
+{Destroy All Monsters ; be ; too slim in end ;  ; active}
+{Destroy All Monsters ; be ; in end in its storyline ;  ; active}
+{Destroy All Monsters ; be ; too slim in end in its storyline ;  ; active}
+{Destroy All Monsters ; be ; in end ;  ; active}
+{Destroy All Monsters ; be ; in its storyline ;  ; active}
+{Steve Biodrowski ;  be (complemented by) ; of Cinefantastique ;  ; active}
+190	More widely, in late August, 2007 the group was accused in "The Telegraph", a conservative British newspaper, of torturing, detaining, and firing on unarmed protesters who had objected to policies of the Hamas government.
+{group ; accuse ; conservative British newspaper ; 2007 ; passive}
+{group ; accuse ; in Telegraph ; 2007 ; passive}
+{group ; accuse ; conservative British newspaper in Telegraph ; 2007 ; passive}
+{conservative ; is property of ; newspaper ;  ; }
+{British ; is property of ; newspaper ;  ; }
+191	The court's official seat is in The Hague, Netherlands, but its proceedings may take place anywhere.
+{court 's official seat ; be ; its proceedings may take  place ;  ; active}
+{court 's official seat ; be ; in Hague Netherlands ;  ; active}
+{court 's official seat ; be ; its proceedings may take  place in Hague Netherlands ;  ; active}
+{it ; have ; proceedings ;  ; }
+{its proceedings ; take ; place ;  ; active}
+{court ; have ; official seat ;  ; }
+{official ; is property of ; seat ;  ; }
+192	Donald Markwel argued that in the absence of such an international approach, there would be a risk of worsening international relations and possibly even world war arising from similar economic factors to those present during the depression of the 1930s.
+{Donald Markwel ; argue ; risk of worsening international relations ,possibly even world war ;  ; active}
+{Donald Markwel ; argue ; be  risk of worsening international relations ,possibly even world war in absence of international approach of worsening international relations, possibly even world war ;  ; active}
+{similar ; is property of ; factors ;  ; }
+{international ; is property of ; approach ;  ; }
+{possibly even world war ; arise ; during depression of 1930s ;  ; active}
+{international ; is property of ; relations ;  ; }
+{risk ;  be (complemented by) ; of worsening international relations ,possibly even world war ;  ; active}
+{depression ;  be (complemented by) ; of 1930s ;  ; active}
+{absence ;  be (complemented by) ; of international approach ;  ; active}
+{possibly even world war ; arise ; from similar economic factors to those  present ;  ; active}
+{similar economic factors ;  be (complemented by) ; to those  present ;  ; active}
+{worsening ; is property of ; relations ;  ; }
+{worsening international relations ,possibly even world war ; arise ; from similar economic factors to those  present ;  ; active}
+{economic ; is property of ; factors ;  ; }
+{worsening international relations ,possibly even world war ; arise ; during depression of 1930s ;  ; active}
+193	This was a first for the United States, as the market shifts away from traditional television.
+{This ; be ; first for United States ;  ; active}
+{market ; shift ; away_from traditional television ;  ; active}
+{traditional ; is property of ; television ;  ; }
+194	The Ottoman Central Bank is the first building at right.
+{Ottoman Central Bank ; be ; first building at right ;  ; active}
+{first ; is property of ; building ;  ; }
+{first building ;  be (complemented by) ; at right ;  ; active}
+195	This may seem out of step with his agnostic convictions, but he believed that the Bible's significant moral teachings and superb use of language were relevant to English life.
+{This ; seem ; he believe  relevant to English life ;  ; active}
+{This ; seem ; out_of step with his agnostic convictions ;  ; active}
+{This ; seem ; he believe  relevant to English life out_of step with his agnostic convictions ;  ; active}
+{step ;  be (complemented by) ; with his agnostic convictions ;  ; active}
+{he ; have ; agnostic convictions ;  ; }
+{agnostic ; is property of ; convictions ;  ; }
+{Bible 's significant moral teachings and superb use of language ; be ; relevant to English life ;  ; active}
+{Bible ; have ; significant moral teachings and superb use ;  ; }
+{he ; believe ; relevant to English life ;  ; active}
+{English ; is property of ; life ;  ; }
+{significant ; is property of ; use ;  ; }
+{moral ; is property of ; use ;  ; }
+{he ; believe ; Bible 's significant moral teachings and superb use of language be  relevant to English life to English life ;  ; active}
+{relevant ;  be (complemented by) ; to English life ;  ; active}
+{Bible 's significant moral teachings and superb use of language ; be ; to English life ;  ; active}
+{teachings ; is property of ; use ;  ; }
+{Bible 's significant moral teachings and superb use ;  be (complemented by) ; of language ;  ; active}
+196	Since the dissolution of the Soviet Union, Ukraine continues to maintain the second largest military in Europe, after that of Russia.
+{Ukraine ; continue ; to maintain  second largest military in Europe after that of Russia ;  ; active}
+{Ukraine ; continue ; since dissolution of Soviet Union ;  ; active}
+{Ukraine ; continue ; to maintain  second largest military in Europe after that of Russia since dissolution of Soviet Union ;  ; active}
+{dissolution ;  be (complemented by) ; of Soviet Union ;  ; active}
+{second ; is property of ; military ;  ; }
+{that ;  be (complemented by) ; of Russia ;  ; active}
+{Ukraine ; maintain ; second largest military ;  ; active}
+{Ukraine ; maintain ; in Europe ;  ; active}
+{Ukraine ; maintain ; second largest military in Europe ;  ; active}
+{Ukraine ; maintain ; after that of Russia ;  ; active}
+{Ukraine ; maintain ; second largest military after that of Russia ;  ; active}
+197	The Venice Film Festival is the oldest film festival in the world.
+{Venice Film Festival ; be ; oldest film festival in world ;  ; active}
+{oldest ; is property of ; film festival ;  ; }
+{oldest film festival ;  be (complemented by) ; in world ;  ; active}
+198	Although the numbers on each side were about equal, William had both cavalry and infantry, including many archers, while Harold had only foot soldiers and few if any archers.
+{numbers on each  side ; be ; about equal ;  ; active}
+{numbers ;  be (complemented by) ; on each  side ;  ; active}
+{William ; have ; both cavalry including many archers ;  ; active}
+{William ; have ; infantry ;  ; active}
+{William ; have ; both cavalry including many archers,infantry ;  ; active}
+{only ; is property of ; foot soldiers ;  ; }
+{many ; is property of ; archers ;  ; }
+{Harold ; have ; few ;  ; active}
+{Harold ; have ; only foot soldiers,few ;  ; active}
+{Harold ; have ; only foot soldiers ;  ; active}
+{both cavalry ;  be (complemented by) ; including many archers ;  ; active}
+199	The highest mountain in this range is the Moncayo (2,313 m) and, despite getting less snow than in the Pyrenees, it has several ski resorts.
+{highest mountain Moncayo ; be ; Moncayo 2,313  m ;  ; active}
+{2,313  m ; be ; Moncayo ;  ; active}
+{highest ; is property of ; mountain Moncayo ;  ; }
+{Moncayo ; be ; mountain ;  ; active}
+200	The Battle of Weihaiwei was a 23 day siege with a major land and naval component during the First Sino-Japanese War.
+{Battle of Weihaiwei ; be ; 23 day siege with major land ,naval component during First Sino-Japanese War ;  ; active}
+{Battle of Weihaiwei ; be ; with major land, naval component ;  ; active}
+{Battle of Weihaiwei ; be ; 23 day siege with major land ,naval component during First Sino-Japanese War with major land, naval component ;  ; active}
+{major ; is property of ; land ;  ; }
+{naval ; is property of ; component ;  ; }
+{23 day siege ;  be (complemented by) ; during First Sino-Japanese War ;  ; active}
+{23 day siege ;  be (complemented by) ; with major land ,naval component ;  ; active}
+{23 day siege ;  be (complemented by) ; with major land ,naval component during First Sino-Japanese War ;  ; active}
+{Battle ;  be (complemented by) ; of Weihaiwei ;  ; active}

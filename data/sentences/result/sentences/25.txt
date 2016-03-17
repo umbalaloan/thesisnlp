@@ -1,0 +1,6 @@
+Jack refused to fight in such an immoral war
+{"advClause":null,"clauses":[{"subject":{"nplist":[{"singleNPList":[{"headNoun":" Jack","premodifier":"  "}],"sbarNP":null,"prepPhrase":null}],"sbarSubj":null,"subjVoice":1},"predicate":{"vpList":[{"aux":null,"posNeg":0,"partical":"","patternType":8,"verb":{"verbName":"refused","verbVoice":"active","verbType":-1,"stemmedVerb":"refused to fight"},"indirectObj":null,"directObj":null,"complement":{"compNN":[],"compAdjPhrase":null,"compAdvPhrase":null}},{"aux":"to","posNeg":0,"partical":"","patternType":1,"verb":{"verbName":"fight","verbVoice":"active","verbType":1,"stemmedVerb":"fight"},"indirectObj":null,"directObj":null,"complement":{"compNN":[],"compAdjPhrase":null,"compAdvPhrase":null}}],"listPrepPhrase":[{"prep":"in","nounPhrase":{"singleNPList":[{"headNoun":" war","premodifier":"  immoral"}],"sbarNP":null,"prepPhrase":null},"sbarPrepPhrase":null}],"advClause":null,"adv":" "}}],"conjunctionList":[]}
+{     Jack,  } , ; ,refused to fight , ; ,,;,, ; ,active
+{     Jack,  } , ; ,refused to fight , ; ,,;,in {   immoral  war,  } , ; ,active
+{     Jack,  } , ; ,fight , ; ,,;,, ; ,active
+{     Jack,  } , ; ,fight , ; ,,;,in {   immoral  war,  } , ; ,active

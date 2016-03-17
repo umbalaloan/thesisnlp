@@ -1,0 +1,8 @@
+Students are instructed to line up in pairs by teachers
+{"advClause":null,"clauses":[{"subject":{"nplist":[{"singleNPList":[{"headNoun":" Students","premodifier":"  "}],"sbarNP":null,"prepPhrase":null}],"sbarSubj":null,"subjVoice":1},"predicate":{"vpList":[{"aux":null,"posNeg":0,"partical":"","patternType":9,"verb":{"verbName":"instructed","verbVoice":"passive","verbType":-1,"stemmedVerb":"instruct + s.o to do sth"},"indirectObj":null,"directObj":{"vsbarDO":null,"pronounDO":"","nounphraseDO":[]},"complement":null},{"aux":"to","posNeg":0,"partical":"up","patternType":2,"verb":{"verbName":"line","verbVoice":"active","verbType":1,"stemmedVerb":"line"},"indirectObj":null,"directObj":null,"complement":{"compNN":[],"compAdjPhrase":null,"compAdvPhrase":null}}],"listPrepPhrase":[{"prep":"in","nounPhrase":{"singleNPList":[{"headNoun":" pairs","premodifier":"  "}],"sbarNP":null,"prepPhrase":null},"sbarPrepPhrase":null},{"prep":"by","nounPhrase":{"singleNPList":[{"headNoun":" teachers","premodifier":"  "}],"sbarNP":null,"prepPhrase":null},"sbarPrepPhrase":null}],"advClause":null,"adv":" "}}],"conjunctionList":[]}
+{     Students,  } , ; ,instruct + s.o to do sth , ; ,,;,, ; ,passive
+{     Students,  } , ; ,instruct + s.o to do sth , ; ,,;,in {     pairs,  } , ; ,passive
+{     Students,  } , ; ,instruct + s.o to do sth , ; ,,;,by {     teachers,  } , ; ,passive
+{     Students,  } , ; ,line up, ; ,,;,, ; ,active
+{     Students,  } , ; ,line up, ; ,,;,in {     pairs,  } , ; ,active
+{     Students,  } , ; ,line up, ; ,,;,by {     teachers,  } , ; ,active

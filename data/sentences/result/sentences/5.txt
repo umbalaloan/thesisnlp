@@ -1,0 +1,4 @@
+Bill Gate goes up and turns around
+{"advClause":null,"clauses":[{"subject":{"nplist":[{"singleNPList":[{"headNoun":" Bill Gate","premodifier":"  "}],"sbarNP":null,"prepPhrase":null}],"sbarSubj":null,"subjVoice":0},"predicate":{"vpList":[{"aux":null,"posNeg":0,"partical":"up","patternType":2,"verb":{"verbName":"goes","verbVoice":"active","verbType":1,"stemmedVerb":"go"},"indirectObj":null,"directObj":null,"complement":{"compNN":[],"compAdjPhrase":null,"compAdvPhrase":null}},{"aux":null,"posNeg":0,"partical":"around","patternType":2,"verb":{"verbName":"turns","verbVoice":"active","verbType":1,"stemmedVerb":"turn"},"indirectObj":null,"directObj":null,"complement":{"compNN":[],"compAdjPhrase":null,"compAdvPhrase":null}}],"listPrepPhrase":[],"advClause":null,"adv":" "}}],"conjunctionList":[]}
+{     Bill Gate,  } , ; ,go up, ; ,,;,, ; ,active
+{     Bill Gate,  } , ; ,turn around, ; ,,;,, ; ,active

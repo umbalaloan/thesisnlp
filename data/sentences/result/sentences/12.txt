@@ -1,0 +1,3 @@
+He asks for your help
+{"advClause":null,"clauses":[{"subject":{"nplist":[{"singleNPList":[{"headNoun":" He","premodifier":"  "}],"sbarNP":null,"prepPhrase":null}],"sbarSubj":null,"subjVoice":1},"predicate":{"vpList":[{"aux":null,"posNeg":0,"partical":"for","patternType":4,"verb":{"verbName":"asks","verbVoice":"active","verbType":0,"stemmedVerb":"ask"},"indirectObj":null,"directObj":{"vsbarDO":null,"pronounDO":"","nounphraseDO":[{"singleNPList":[{"headNoun":" help","premodifier":"your  "}],"sbarNP":null,"prepPhrase":null}]},"complement":null}],"listPrepPhrase":[],"advClause":null,"adv":" "}}],"conjunctionList":[]}
+{     He,  } , ; ,ask for, ; ,{ your    help,  } ,;,, ; ,active

@@ -1,0 +1,4 @@
+I give a book to him
+{"advClause":null,"clauses":[{"subject":{"nplist":[{"singleNPList":[{"headNoun":" I","premodifier":"  "}],"sbarNP":null,"prepPhrase":null}],"sbarSubj":null,"subjVoice":1},"predicate":{"vpList":[{"aux":null,"posNeg":0,"partical":"","patternType":3,"verb":{"verbName":"give","verbVoice":"active","verbType":0,"stemmedVerb":"give s.o /s.th."},"indirectObj":null,"directObj":{"vsbarDO":null,"pronounDO":"","nounphraseDO":[{"singleNPList":[{"headNoun":" book","premodifier":"  "}],"sbarNP":null,"prepPhrase":null}]},"complement":null}],"listPrepPhrase":[{"prep":"to","nounPhrase":{"singleNPList":[{"headNoun":" him","premodifier":"  "}],"sbarNP":null,"prepPhrase":null},"sbarPrepPhrase":null}],"advClause":null,"adv":" "}}],"conjunctionList":[]}
+{     I,  } , ; ,give s.o /s.th. , ; ,{     book,  } ,;,, ; ,active
+{     I,  } , ; ,give s.o /s.th. , ; ,{     book,  } ,;,to {     him,  } , ; ,active

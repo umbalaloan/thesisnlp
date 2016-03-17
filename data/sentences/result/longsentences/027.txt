@@ -1,0 +1,2 @@
+Gosling designed Java with a C/C++-style syntax that system and application programmers would find familiar
+{"advClause":null,"clauses":[{"subject":{"nplist":[{"singleNPList":[{"headNoun":" Java","premodifier":"  "}],"sbarNP":null,"prepPhrase":{"prep":"with","nounPhrase":{"singleNPList":[{"headNoun":" C/C + +","premodifier":"  "}],"sbarNP":null,"prepPhrase":null},"sbarPrepPhrase":null}}],"sbarSubj":null,"subjVoice":1},"predicate":{"vpList":[],"listPrepPhrase":[],"advClause":null,"adv":" "}}],"conjunctionList":[]}

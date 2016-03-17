@@ -1,0 +1,3 @@
+Gates has authored and co-authored several books
+{"advClause":null,"clauses":[{"subject":{"nplist":[{"singleNPList":[{"headNoun":" Gates","premodifier":"  "}],"sbarNP":null,"prepPhrase":null}],"sbarSubj":null,"subjVoice":1},"predicate":{"vpList":[{"aux":"has","posNeg":0,"partical":"","patternType":3,"verb":{"verbName":"authored","verbVoice":"active","verbType":0,"stemmedVerb":"author s.o /s.th."},"indirectObj":null,"directObj":{"vsbarDO":null,"pronounDO":"","nounphraseDO":[{"singleNPList":[{"headNoun":" books","premodifier":"  several"}],"sbarNP":null,"prepPhrase":null}]},"complement":null}],"listPrepPhrase":[],"advClause":null,"adv":" "}}],"conjunctionList":[]}
+{     Gates,  } , ; ,author s.o /s.th. , ; ,{   several  books,  } ,;,, ; ,active

@@ -1,0 +1,8 @@
+I've invited Jill to come to dinner on Saturday
+{"advClause":null,"clauses":[{"subject":{"nplist":[{"singleNPList":[{"headNoun":" I","premodifier":"  "}],"sbarNP":null,"prepPhrase":null}],"sbarSubj":null,"subjVoice":1},"predicate":{"vpList":[{"aux":"'ve","posNeg":0,"partical":"","patternType":3,"verb":{"verbName":"invited","verbVoice":"active","verbType":0,"stemmedVerb":"invite s.o /s.th."},"indirectObj":null,"directObj":{"vsbarDO":null,"pronounDO":"","nounphraseDO":[{"singleNPList":[{"headNoun":" Jill","premodifier":"  "}],"sbarNP":null,"prepPhrase":null}]},"complement":null},{"aux":"to","posNeg":0,"partical":"","patternType":1,"verb":{"verbName":"come","verbVoice":"active","verbType":1,"stemmedVerb":"come"},"indirectObj":null,"directObj":null,"complement":{"compNN":[],"compAdjPhrase":null,"compAdvPhrase":null}}],"listPrepPhrase":[{"prep":"to","nounPhrase":{"singleNPList":[{"headNoun":" dinner","premodifier":"  "}],"sbarNP":null,"prepPhrase":null},"sbarPrepPhrase":null},{"prep":"on","nounPhrase":{"singleNPList":[{"headNoun":" Saturday","premodifier":"  "}],"sbarNP":null,"prepPhrase":null},"sbarPrepPhrase":null}],"advClause":null,"adv":" "}}],"conjunctionList":[]}
+{     I,  } , ; ,invite s.o /s.th. , ; ,{     Jill,  } ,;,, ; ,active
+{     I,  } , ; ,invite s.o /s.th. , ; ,{     Jill,  } ,;,to {     dinner,  } , ; ,active
+{     I,  } , ; ,invite s.o /s.th. , ; ,{     Jill,  } ,;,on {     Saturday,  } , ; ,active
+{     I,  } , ; ,come , ; ,,;,, ; ,active
+{     I,  } , ; ,come , ; ,,;,to {     dinner,  } , ; ,active
+{     I,  } , ; ,come , ; ,,;,on {     Saturday,  } , ; ,active

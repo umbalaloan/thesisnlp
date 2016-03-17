@@ -1,0 +1,33 @@
+1_he said
+2_She goes
+3_She goes and runs
+4_Bill Gate wakes up
+5_Bill Gate goes up and turns around
+6_Bill Gate wakes up in this morning
+7_Bill Gate goes up and down
+8_He takes a ball
+9_She is beautiful
+10_A ball is taken
+11_A ball is taken by Jack
+12_He asks for your help
+13_An is picked up by Jack
+14_Mary asks Tom along to the party
+15_Tom is asked along by Mary to the party
+16_Tom ask Bill for his help
+17_Bill is asked  by Tom for his help
+18_Bill is asked for his help by Tom
+19_I give him a book
+20_I give a book to him
+21_Students are instructed to line up in pairs by teachers
+22_I want to go
+23_We managed to cross the valley
+24_I can't afford to own a car
+25_Jack refused to fight in such an immoral war
+26_The teacher instructed the students to line up in pairs
+28_I've invited Jill to come to dinner on Saturday
+29_You mentioned going to Italy last summer
+30_I really miss taking photos with an analogue camera
+31_We laughed about having to do such silly things
+32_I objected to him calling me a liar
+33_She apologised for not introducing herself sooner
+34_He is always boasting about having met the president

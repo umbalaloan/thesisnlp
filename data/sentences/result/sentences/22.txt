@@ -1,0 +1,4 @@
+I want to go
+{"advClause":null,"clauses":[{"subject":{"nplist":[{"singleNPList":[{"headNoun":" I","premodifier":"  "}],"sbarNP":null,"prepPhrase":null}],"sbarSubj":null,"subjVoice":1},"predicate":{"vpList":[{"aux":null,"posNeg":0,"partical":"","patternType":8,"verb":{"verbName":"want","verbVoice":"active","verbType":-1,"stemmedVerb":"want to go"},"indirectObj":null,"directObj":null,"complement":{"compNN":[],"compAdjPhrase":null,"compAdvPhrase":null}},{"aux":"to","posNeg":0,"partical":"","patternType":1,"verb":{"verbName":"go","verbVoice":"active","verbType":1,"stemmedVerb":"go"},"indirectObj":null,"directObj":null,"complement":{"compNN":[],"compAdjPhrase":null,"compAdvPhrase":null}}],"listPrepPhrase":[],"advClause":null,"adv":" "}}],"conjunctionList":[]}
+{     I,  } , ; ,want to go , ; ,,;,, ; ,active
+{     I,  } , ; ,go , ; ,,;,, ; ,active

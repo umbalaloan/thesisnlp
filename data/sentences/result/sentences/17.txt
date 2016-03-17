@@ -1,0 +1,3 @@
+Bill is asked  by Tom for his help
+{"advClause":null,"clauses":[{"subject":{"nplist":[{"singleNPList":[{"headNoun":" Bill","premodifier":"  "}],"sbarNP":null,"prepPhrase":null}],"sbarSubj":null,"subjVoice":1},"predicate":{"vpList":[{"aux":null,"posNeg":0,"partical":"for","patternType":6,"verb":{"verbName":"asked","verbVoice":"passive","verbType":0,"stemmedVerb":"ask"},"indirectObj":null,"directObj":{"vsbarDO":null,"pronounDO":"","nounphraseDO":[]},"complement":{"compNN":[],"compAdjPhrase":null,"compAdvPhrase":null}}],"listPrepPhrase":[],"advClause":null,"adv":" "}}],"conjunctionList":[]}
+{     Bill,  } , ; ,ask for, ; ,,;,, ; ,passive

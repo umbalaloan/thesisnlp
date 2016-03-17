@@ -1,0 +1,4 @@
+Bill Gate wakes up in this morning
+{"advClause":null,"clauses":[{"subject":{"nplist":[{"singleNPList":[{"headNoun":" Bill Gate","premodifier":"  "}],"sbarNP":null,"prepPhrase":null}],"sbarSubj":null,"subjVoice":0},"predicate":{"vpList":[{"aux":null,"posNeg":0,"partical":"up","patternType":2,"verb":{"verbName":"wakes","verbVoice":"active","verbType":1,"stemmedVerb":"wake"},"indirectObj":null,"directObj":null,"complement":{"compNN":[],"compAdjPhrase":null,"compAdvPhrase":null}}],"listPrepPhrase":[{"prep":"in","nounPhrase":{"singleNPList":[{"headNoun":" morning","premodifier":"  "}],"sbarNP":null,"prepPhrase":null},"sbarPrepPhrase":null}],"advClause":null,"adv":" "}}],"conjunctionList":[]}
+{     Bill Gate,  } , ; ,wake up, ; ,,;,, ; ,active
+{     Bill Gate,  } , ; ,wake up, ; ,,;,in {     morning,  } , ; ,active

@@ -1,0 +1,8 @@
+James Gosling, Mike Sheridan, and Patrick Naughton initiated the Java language project in June 1991
+{"advClause":null,"clauses":[{"subject":{"nplist":[{"singleNPList":[{"headNoun":" James Gosling","premodifier":"  "}],"sbarNP":null,"prepPhrase":null},{"singleNPList":[{"headNoun":" Mike Sheridan","premodifier":"  "}],"sbarNP":null,"prepPhrase":null},{"singleNPList":[{"headNoun":" Patrick Naughton","premodifier":"  "}],"sbarNP":null,"prepPhrase":null}],"sbarSubj":null,"subjVoice":1},"predicate":{"vpList":[{"aux":null,"posNeg":0,"partical":"","patternType":3,"verb":{"verbName":"initiated","verbVoice":"active","verbType":0,"stemmedVerb":"initiate s.o /s.th."},"indirectObj":null,"directObj":{"vsbarDO":null,"pronounDO":"","nounphraseDO":[{"singleNPList":[{"headNoun":" Java language project","premodifier":"  "}],"sbarNP":null,"prepPhrase":null}]},"complement":null}],"listPrepPhrase":[{"prep":"in","nounPhrase":{"singleNPList":[{"headNoun":" June","premodifier":" 1991 "}],"sbarNP":null,"prepPhrase":null},"sbarPrepPhrase":null}],"advClause":null,"adv":" "}}],"conjunctionList":[]}
+{     James Gosling,  } , ; ,initiate s.o /s.th. , ; ,{     Java language project,  } ,;,, ; ,active
+{     James Gosling,  } , ; ,initiate s.o /s.th. , ; ,{     Java language project,  } ,;,in {  1991   June,  } , ; ,active
+{     Mike Sheridan,  } , ; ,initiate s.o /s.th. , ; ,{     Java language project,  } ,;,, ; ,active
+{     Mike Sheridan,  } , ; ,initiate s.o /s.th. , ; ,{     Java language project,  } ,;,in {  1991   June,  } , ; ,active
+{     Patrick Naughton,  } , ; ,initiate s.o /s.th. , ; ,{     Java language project,  } ,;,, ; ,active
+{     Patrick Naughton,  } , ; ,initiate s.o /s.th. , ; ,{     Java language project,  } ,;,in {  1991   June,  } , ; ,active

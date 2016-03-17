@@ -1,0 +1,4 @@
+Tom is asked along by Mary to the party
+{"advClause":null,"clauses":[{"subject":{"nplist":[{"singleNPList":[{"headNoun":" Tom","premodifier":"  "}],"sbarNP":null,"prepPhrase":null}],"sbarSubj":null,"subjVoice":1},"predicate":{"vpList":[{"aux":null,"posNeg":0,"partical":"along","patternType":5,"verb":{"verbName":"asked","verbVoice":"passive","verbType":0,"stemmedVerb":"ask + s.o along"},"indirectObj":null,"directObj":{"vsbarDO":null,"pronounDO":"","nounphraseDO":[]},"complement":{"compNN":[],"compAdjPhrase":null,"compAdvPhrase":null}}],"listPrepPhrase":[{"prep":"to","nounPhrase":{"singleNPList":[{"headNoun":" party","premodifier":"  "}],"sbarNP":null,"prepPhrase":null},"sbarPrepPhrase":null}],"advClause":null,"adv":" "}}],"conjunctionList":[]}
+{     Tom,  } , ; ,ask + s.o along along, ; ,,;,, ; ,passive
+{     Tom,  } , ; ,ask + s.o along along, ; ,,;,to {     party,  } , ; ,passive

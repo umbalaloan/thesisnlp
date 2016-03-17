@@ -1,0 +1,3 @@
+She is beautiful
+{"advClause":null,"clauses":[{"subject":{"nplist":[{"singleNPList":[{"headNoun":" She","premodifier":"  "}],"sbarNP":null,"prepPhrase":null}],"sbarSubj":null,"subjVoice":0},"predicate":{"vpList":[{"aux":null,"posNeg":0,"partical":"","patternType":3,"verb":{"verbName":"is","verbVoice":"active","verbType":3,"stemmedVerb":"be s.o /s.th."},"indirectObj":null,"directObj":null,"complement":{"compNN":[{"singleNPList":[{"headNoun":" beautiful","premodifier":"  "}],"sbarNP":null,"prepPhrase":null}],"compAdjPhrase":null,"compAdvPhrase":null}}],"listPrepPhrase":[],"advClause":null,"adv":" "}}],"conjunctionList":[]}
+{     She,  } , ; ,be s.o /s.th. , ; ,{     beautiful,  } ,;,, ; ,active

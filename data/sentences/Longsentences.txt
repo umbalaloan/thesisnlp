@@ -1,0 +1,40 @@
+01_Obama signed the Budget Control Act of 2011 and the American Taxpayer Relief Act of 2012
+02_A verb phrase or VP is a syntactic unit composed of at least one verb and its dependents—objects, complements and other modifiers—but not always including the subject
+03_Java is a general-purpose computer programming language that is concurrent, class-based, object-oriented, and specifically designed to have as few implementation dependencies as possible
+04_The girl from VietNam will lead to the murderer with curly hair
+05_William Henry "Bill" Gates III (born October 28, 1955) is an American business magnate, philanthropist, investor, computer programmer, and inventor
+06_Gates is one of the best-known entrepreneurs of the personal computer revolution
+07_Gates has been criticized for his business tactics, which have been considered anti-competitive, an opinion which has in some cases been upheld by numerous court rulings
+08_Gates stepped down as Chief Executive Officer of Microsoft in January 2000
+09_In June 2006, Gates announced that he would be transitioning from full-time work at Microsoft to part-time work, and full-time work at the Bill & Melinda Gates Foundation
+010_The language was initially called Oak after an oak tree that stood outside Gosling's office
+011_During his career at Microsoft, Gates held the positions of chairman, CEO and chief software architect, and was the largest individual shareholder until May 2014
+012_Gates has authored and co-authored several books
+013_Starting in 1987, Gates was included in the Forbes list of the world's wealthiest people and was the wealthiest overall from 1995 to 2014—excluding a few years after the Financial crisis of 2007–08
+014_Taken for granted it sometimes may be, but this year the Defense Department sought $950 million in assistance from Congress for Ankara's huge military machine, which includes the biggest standing army in NATO outside the United States
+015_Java designed for interactive television, but it was too advanced for the digital cable television industry at the time
+016_From Microsoft's founding in 1975 until 2006, Gates had primary responsibility for the company's product strategy
+017_He aggressively broadened the company's range of products, and wherever Microsoft achieved a dominant position he vigorously defended it
+018_Firsthand accounts of these meetings describe him as verbally combative, berating managers for perceived holes in their business strategies or proposals that placed the company's long-term interests at risk
+019_As of 2015, Java is one of the most popular programming languages in use, particularly for client-server web applications, with a reported 9 million developers.[citation needed] Java was originally developed by James Gosling at Sun Microsystems (which has since been acquired by Oracle Corporation) and released in 1995 as a core component of Sun Microsystems' Java platform
+020_The language derives much of its syntax from C and C++, but it has fewer low-level facilities than either of them
+021_The original and reference implementation Java compilers, virtual machines, and class libraries were originally released by Sun under proprietary licences
+022_As of May 2007, in compliance with the specifications of the Java Community Process, Sun relicensed most of its Java technologies under the GNU General Public License
+023_ Others have also developed alternative implementations of these Sun technologies, such as the GNU Compiler for Java (bytecode compiler), GNU Classpath (standard libraries), and IcedTea-Web (browser plugin for applets)
+024_James Gosling, Mike Sheridan, and Patrick Naughton initiated the Java language project in June 1991
+025_The language was initially called Oak after an oak tree that stood outside Gosling's office
+026_Later the project went by the name Green and was finally renamed Java, from Java coffee
+027_Gosling designed Java with a C/C++-style syntax that system and application programmers would find familiar
+028_It promised "Write Once, Run Anywhere" (WORA), providing no-cost run-times on popular platforms
+029_Fairly secure and featuring configurable security, it allowed network- and file-access restrictions
+030_Major web browsers soon incorporated the ability to run Java applets within web pages, and Java quickly became popular
+031_The Java 1.0 compiler was re-written in Java by Arthur van Hoff to comply strictly with the Java 1.0 language specification
+032_ With the advent of Java 2 (released initially as J2SE 1.2 in December 1998 – 1999), new versions had multiple configurations built for different types of platforms
+033_J2EE included technologies and APIs for enterprise applications typically run in server environments, while J2ME featured APIs optimized for mobile applications
+034_ In 2006, for marketing purposes, Sun renamed new J2 versions as Java EE, Java ME, and Java SE, respectively
+035_In 1997, Sun Microsystems approached the ISO/IEC JTC 1 standards body and later the Ecma International to formalize Java, but it soon withdrew from the process
+036_At one time, Sun made most of its Java implementations available without charge, despite their proprietary software status
+037_Sun generated revenue from Java through the selling of licenses for specialized products such as the Java Enterprise System
+038_On May 8, 2007, Sun finished the process, making all of Java's core code available under free software/open-source distribution terms, aside from a small portion of code to which Sun did not hold the copyright
+039_Following Oracle Corporation's acquisition of Sun Microsystems in 2009–10, Oracle has described itself as the "steward of Java technology with a relentless commitment to fostering a community of participation and transparency"
+040_This did not prevent Oracle from filing a lawsuit against Google shortly after that for using Java inside the Android SDK (see Google section below)

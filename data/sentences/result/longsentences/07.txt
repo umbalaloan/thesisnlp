@@ -1,0 +1,2 @@
+Gates has been criticized for his business tactics, which have been considered anti-competitive, an opinion which has in some cases been upheld by numerous court rulings
+{"advClause":null,"clauses":[{"subject":{"nplist":[{"singleNPList":[{"headNoun":" Gates","premodifier":"  "}],"sbarNP":null,"prepPhrase":null}],"sbarSubj":null,"subjVoice":1},"predicate":{"vpList":[],"listPrepPhrase":[],"advClause":null,"adv":" "}}],"conjunctionList":[]}

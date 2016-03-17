@@ -1,0 +1,3 @@
+he said
+{"advClause":null,"clauses":[{"subject":{"nplist":[{"singleNPList":[{"headNoun":" he","premodifier":"  "}],"sbarNP":null,"prepPhrase":null}],"sbarSubj":null,"subjVoice":0},"predicate":{"vpList":[{"aux":null,"posNeg":0,"partical":"","patternType":1,"verb":{"verbName":"said","verbVoice":"active","verbType":1,"stemmedVerb":"say"},"indirectObj":null,"directObj":null,"complement":{"compNN":[],"compAdjPhrase":null,"compAdvPhrase":null}}],"listPrepPhrase":[],"advClause":null,"adv":" "}}],"conjunctionList":[]}
+{     he,  } , ; ,say , ; ,,;,, ; ,active

@@ -1,0 +1,3 @@
+She goes
+{"advClause":null,"clauses":[{"subject":{"nplist":[{"singleNPList":[{"headNoun":" She","premodifier":"  "}],"sbarNP":null,"prepPhrase":null}],"sbarSubj":null,"subjVoice":0},"predicate":{"vpList":[{"aux":null,"posNeg":0,"partical":"","patternType":1,"verb":{"verbName":"goes","verbVoice":"active","verbType":1,"stemmedVerb":"go"},"indirectObj":null,"directObj":null,"complement":{"compNN":[],"compAdjPhrase":null,"compAdvPhrase":null}}],"listPrepPhrase":[],"advClause":null,"adv":" "}}],"conjunctionList":[]}
+{     She,  } , ; ,go , ; ,,;,, ; ,active

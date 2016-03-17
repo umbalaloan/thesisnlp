@@ -1,0 +1,4 @@
+You mentioned going to Italy last summer
+{"advClause":null,"clauses":[{"subject":{"nplist":[{"singleNPList":[{"headNoun":" You","premodifier":"  "}],"sbarNP":null,"prepPhrase":null}],"sbarSubj":null,"subjVoice":1},"predicate":{"vpList":[{"aux":null,"posNeg":0,"partical":"","patternType":10,"verb":{"verbName":"mentioned","verbVoice":"active","verbType":-1,"stemmedVerb":"mention + doing sth"},"indirectObj":null,"directObj":null,"complement":null},{"aux":null,"posNeg":0,"partical":"to","patternType":4,"verb":{"verbName":"going","verbVoice":"active","verbType":0,"stemmedVerb":"go"},"indirectObj":null,"directObj":{"vsbarDO":null,"pronounDO":"","nounphraseDO":[{"singleNPList":[{"headNoun":" Italy","premodifier":"  "}],"sbarNP":null,"prepPhrase":null}]},"complement":null}],"listPrepPhrase":[],"advClause":null,"adv":" "}}],"conjunctionList":[]}
+{     You,  } , ; ,mention + doing sth , ; ,,;,, ; ,active
+{     You,  } , ; ,go to, ; ,{     Italy,  } ,;,, ; ,active

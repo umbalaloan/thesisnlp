@@ -1,0 +1,3 @@
+Bill Gate goes up and down
+{"advClause":null,"clauses":[{"subject":{"nplist":[{"singleNPList":[{"headNoun":" Bill Gate","premodifier":"  "}],"sbarNP":null,"prepPhrase":null}],"sbarSubj":null,"subjVoice":0},"predicate":{"vpList":[{"aux":null,"posNeg":0,"partical":"","patternType":1,"verb":{"verbName":"goes","verbVoice":"active","verbType":1,"stemmedVerb":"go"},"indirectObj":null,"directObj":null,"complement":{"compNN":[],"compAdjPhrase":null,"compAdvPhrase":null}}],"listPrepPhrase":[],"advClause":{"advPhrase":{"sbarAdvPhrase":null,"listPrepPhrase":[],"nounPhrase":null,"adv":"up up"}},"adv":" "}}],"conjunctionList":[]}
+{     Bill Gate,  } , ; ,go , ; ,,;,, ; ,active

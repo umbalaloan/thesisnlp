@@ -1,0 +1,6 @@
+Starting in 1987, Gates was included in the Forbes list of the world's wealthiest people and was the wealthiest overall from 1995 to 2014—excluding a few years after the Financial crisis of 2007–08
+{"advClause":null,"clauses":[{"subject":{"nplist":[{"singleNPList":[{"headNoun":" Gates","premodifier":"  "}],"sbarNP":null,"prepPhrase":null}],"sbarSubj":null,"subjVoice":1},"predicate":{"vpList":[{"aux":null,"posNeg":0,"partical":"","patternType":1,"verb":{"verbName":"Starting","verbVoice":"active","verbType":1,"stemmedVerb":"start"},"indirectObj":null,"directObj":null,"complement":{"compNN":[],"compAdjPhrase":null,"compAdvPhrase":null}},{"aux":null,"posNeg":0,"partical":"","patternType":3,"verb":{"verbName":"was","verbVoice":"active","verbType":3,"stemmedVerb":"be s.o /s.th."},"indirectObj":null,"directObj":null,"complement":{"compNN":[],"compAdjPhrase":null,"compAdvPhrase":null}}],"listPrepPhrase":[{"prep":"in","nounPhrase":{"singleNPList":[{"headNoun":" 1987","premodifier":"  "}],"sbarNP":null,"prepPhrase":null},"sbarPrepPhrase":null}],"advClause":null,"adv":" "}}],"conjunctionList":[]}
+{     Gates,  } , ; ,start , ; ,,;,, ; ,active
+{     Gates,  } , ; ,start , ; ,,;,in {     1987,  } , ; ,active
+{     Gates,  } , ; ,be s.o /s.th. , ; ,,;,, ; ,active
+{     Gates,  } , ; ,be s.o /s.th. , ; ,,;,in {     1987,  } , ; ,active
