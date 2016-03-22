@@ -9,9 +9,10 @@ import java.util.Set;
 import com.google.gson.JsonElement;
 
 public class KeywordsExtraction {
-	private static Set<String> listKeywords = new HashSet<String>();
+	private static Set<String> listKeywords;
 	public Set<String> extractKeyWords(String key, JsonElement jsonElement)
 	{
+		listKeywords = new HashSet<String>();
 		check(key, jsonElement);
 		return listKeywords;
 	}
