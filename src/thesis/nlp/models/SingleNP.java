@@ -19,9 +19,10 @@ public class SingleNP {
 	private String headNoun = "";
 	private String premodifier = "";
 	private String determier = "";
+	@JsonIgnore
 	private int headNounIdx = -1;
 //	private String relation = "";
-
+	@JsonIgnore
 	private Set<Tuple> tuples = new HashSet<Tuple>();
 
 	/**

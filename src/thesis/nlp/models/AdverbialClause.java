@@ -3,10 +3,14 @@
  */
 package thesis.nlp.models;
 
+import com.fasterxml.jackson.annotation.JsonInclude;
+import com.fasterxml.jackson.annotation.JsonInclude.Include;
+
 /**
  * @author lohuynh
  *
  */
+@JsonInclude(Include.NON_NULL)
 public class AdverbialClause {
 	private AdverbPhrase advPhrase = null;
 

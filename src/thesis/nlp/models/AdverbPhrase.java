@@ -10,12 +10,16 @@ import java.util.Set;
 import org.apache.commons.lang3.builder.ToStringBuilder;
 import org.apache.commons.lang3.builder.ToStringStyle;
 
+import com.fasterxml.jackson.annotation.JsonInclude;
+import com.fasterxml.jackson.annotation.JsonInclude.Include;
+
 import thesis.nlp.util.StringProcessUtil;
 
 /**
  * @author lohuynh
  *
  */
+@JsonInclude(Include.NON_NULL)
 public class AdverbPhrase {
 
 	private SBAR sbarAdvPhrase = null;

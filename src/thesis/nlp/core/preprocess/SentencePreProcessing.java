@@ -19,7 +19,7 @@ public final class SentencePreProcessing{
 	 */
 	public static String removeDotAtTheEnd(String sentence) {
 		// TODO Auto-generated method stub
-		return  sentence.replaceAll("\\.$", "");
+		return  sentence.replaceAll("\\.$", "").trim();
 	}
 	
 	/* (non-Javadoc)
@@ -27,11 +27,11 @@ public final class SentencePreProcessing{
 	 */
 	public static String removeCommaAtTheBegin(String sentence) {
 		// TODO Auto-generated method stub
-		return sentence.replaceAll("^\\,", "");
+		return sentence.replaceAll("^\\,", "").trim();
 	}
 	
 	public static String removeCommaAtTheEnd(String sentence){
-		return sentence.replaceAll(",$", "");
+		return sentence.replaceAll(",$", "").trim();
 	}
 
 	public static void main(String[] args) {

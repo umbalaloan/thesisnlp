@@ -3,12 +3,16 @@
  */
 package thesis.nlp.models;
 
+import com.fasterxml.jackson.annotation.JsonInclude;
+import com.fasterxml.jackson.annotation.JsonInclude.Include;
+
 import thesis.nlp.util.StringProcessUtil;
 
 /**
  * @author lohuynh
  *
  */
+@JsonInclude(Include.NON_NULL)
 public class AdjectivePhrase {
 	
 	private String adj = "";
